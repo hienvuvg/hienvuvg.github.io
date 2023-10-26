@@ -15,15 +15,33 @@ I received my BSc in Electronics and Computer Engineering from Hanoi University 
 Education
 ------
 *   **University of Wisconsin–Madison**  
-    <div style="text-align: left"> PhD in Electrical and Computer Engineering <div style="text-align: right">September 2021 – Present</div>
-    Master of Science in Electrical and Computer Engineering  
-    *September 2021 – June 2023*
+    <p style="text-align:left;">
+    PhD in Electrical and Computer Engineering
+    <span style="float:right;">
+        September 2021 – Present
+    </span>
+    </p>
+    <p style="text-align:left;">
+    MSc in Electrical and Computer Engineering 
+    <span style="float:right;">
+        September 2021 – June 2023
+    </span>
+    </p>
 *   **Soongsil University**  
-    Master of Science in Computer Science  
-    *March 2019 – December 2020*
+    <p style="text-align:left;">
+    MSc in Computer Science 
+    <span style="float:right;">
+        March 2019 – December 2020
+    </span>
+    </p>
 *   **Hanoi University of Science and Technology**  
-    Bachelor of Science in Electronics and Computer Engineering  
-    *September 2012 – February 2018*
+    <p style="text-align:left;">
+    BSc in Electronics and Telecommunications Engineering 
+    <span style="float:right;">
+        September 2012 – February 2018
+    </span>
+    </p>
+     
 
 Research Interests
 ------
