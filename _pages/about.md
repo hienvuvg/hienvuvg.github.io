@@ -56,23 +56,23 @@ Research Interests
 
 Publications
 ------
-*   Hanwook Chung, **Hien Vu**, Younghyun Kim, and Christopher Choi, Subcutaneous temperature monitoring through ear tag for heat stress detection in dairy cows, _Biosystems Engineering 2023_ 
-\[[Paper](https://doi.org/10.1016/j.biosystemseng.2023.10.001)\]
+*   Hanwook Chung, **Hien Vu**, Younghyun Kim, and Christopher Choi, Subcutaneous temperature monitoring through ear tag for heat stress detection in dairy cows, *Biosystems Engineering, 2023* 
+\[[Paper](https://doi.org/10.1016/j.biosystemseng.2023.10.001)\] \[[PDF](https://hienvuvg.github.io/files/BiosystemsEngineering23.pdf)\]
 
-*   **Hien Vu**, Hanwook Chung, Christopher Choi, and Younghyun Kim, eTag: An Energy-Neutral Ear Tag for Real-Time Body Temperature Monitoring of Dairy Cattle, _MobiCom 2023_ 
-\[[eTag paper](https://dl.acm.org/doi/10.1145/3570361.3613262)\] \[[eTag slides](https://drive.google.com/drive/folders/1_LsDmNXU9k3Lfi257sbmy3_jWMtwXUDQ?usp=drive_link)\]
+*   **Hien Vu**, Hanwook Chung, Christopher Choi, and Younghyun Kim, eTag: An Energy-Neutral Ear Tag for Real-Time Body Temperature Monitoring of Dairy Cattle, *MobiCom, 2023* 
+\[[eTag paper](https://dl.acm.org/doi/10.1145/3570361.3613262)\] \[[eTag slides](https://drive.google.com/drive/folders/1_LsDmNXU9k3Lfi257sbmy3_jWMtwXUDQ?usp=drive_link)\] \[[PDF](https://hienvuvg.github.io/files/MobiCom23.pdf)\]
 
-*   **Hien Vu**, Donghwa Shin, Simultaneous internal heating for balanced temperature and state-of-charge distribution in lithium-ion battery packs, _Journal of Energy Storage, 2023_ 
-\[[Paper](https://www.sciencedirect.com/science/article/pii/S2352152X22025087?dgcid=author)\]
+*   **Hien Vu**, Donghwa Shin, Simultaneous internal heating for balanced temperature and state-of-charge distribution in lithium-ion battery packs, *Journal of Energy Storage, 2023* 
+\[[Paper](https://www.sciencedirect.com/science/article/pii/S2352152X22025087?dgcid=author)\] \[[PDF](https://hienvuvg.github.io/files/PostHeating23.pdf)\]
 
-*   NA Nguyen, **H Vu**, M Pedram, D Shin, An Attachable Battery–Supercapacitor Hybrid for Large Pulsed Load, _IEEE Design & Test, 2022_ 
-\[[Paper](https://ieeexplore.ieee.org/document/9781313)\]
+*   NA Nguyen, **H Vu**, M Pedram, D Shin, An Attachable Battery–Supercapacitor Hybrid for Large Pulsed Load, *IEEE Design & Test, 2022* 
+\[[Paper](https://ieeexplore.ieee.org/document/9781313)\] \[[PDF](https://hienvuvg.github.io/files/DesignTest22.pdf)\]
 
-*   **Hien Vu** and Donghwa Shin, Scheduled Pre-heating of Li-ion Battery Packs for Balanced Temperature and State-ofcharge Distribution, _Energies MDPI 2020_ 
-\[[Paper](https://www.mdpi.com/1996-1073/13/9/2212)\]
+*   **Hien Vu** and Donghwa Shin, Scheduled Pre-heating of Li-ion Battery Packs for Balanced Temperature and State-ofcharge Distribution, *Energies MDPI 2020* 
+\[[Paper](https://www.mdpi.com/1996-1073/13/9/2212)\] \[[PDF](https://hienvuvg.github.io/files/EnergiesMDPI20.pdf)\]
 
-*   **Hien Vu**, Nhan Tran, Loan Pham-Nguyen and Huy-Dung Han, LQG Regulator for Control Moment Gyroscope based Balancing System, _IEEE ICCE 2018_ 
-\[[Paper](https://ieeexplore.ieee.org/document/8465717)\]
+*   **Hien Vu**, Nhan Tran, Loan Pham-Nguyen and Huy-Dung Han, LQG Regulator for Control Moment Gyroscope based Balancing System, *IEEE ICCE 2018* 
+\[[Paper](https://ieeexplore.ieee.org/document/8465717)\] \[[PDF](https://hienvuvg.github.io/files/ICCE18.pdf)\]
 
 
 
