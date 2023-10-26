@@ -14,7 +14,7 @@ I received my BSc in Electronics and Computer Engineering from Hanoi University 
 
 Education
 ------
-*   **University of Wisconsin–Madison**  
+*   **University of Wisconsin–Madison**, WI, USA  
     <div style="text-align:left;">
     Ph.D. in Electrical and Computer Engineering
     <div style="float:right;">
@@ -29,7 +29,7 @@ Education
     </div>
     *Advisor: Prof. Younghyun Kim*
 
-*   **Soongsil University**  
+*   **Soongsil University**, Seoul, Korea
     <div style="text-align:left;">
     M.S. in Computer Science 
     <div style="float:right;">
@@ -38,7 +38,7 @@ Education
     </div>
     *Advisor: Prof. Donghwa Shin*
 
-*   **Hanoi University of Science and Technology**  
+*   **Hanoi University of Science and Technology**, Hanoi, Vietnam 
     <div style="text-align:left;">
     B.S. in Electronics and Telecommunications Engineering 
     <div style="float:right;">
