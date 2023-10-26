@@ -34,9 +34,11 @@ Research Interests
 
 Publications
 ------
-*   Hanwook Chung, **Hien Vu**, Younghyun Kim, and Christopher Choi, Subcutaneous temperature monitoring through ear tag for heat stress detection in dairy cows, _Biosystems Engineering 2023_ \[[Paper](https://doi.org/10.1016/j.biosystemseng.2023.10.001)\]
+*   Hanwook Chung, **Hien Vu**, Younghyun Kim, and Christopher Choi, Subcutaneous temperature monitoring through ear tag for heat stress detection in dairy cows, _Biosystems Engineering 2023_ 
+\[[Paper](https://doi.org/10.1016/j.biosystemseng.2023.10.001)\]
 
-*   **Hien Vu**, Hanwook Chung, Christopher Choi, and Younghyun Kim, eTag: An Energy-Neutral Ear Tag for Real-Time Body Temperature Monitoring of Dairy Cattle, _MobiCom 2023_ \[[eTag paper](https://dl.acm.org/doi/10.1145/3570361.3613262)\] \[[eTag slides](https://drive.google.com/drive/folders/1_LsDmNXU9k3Lfi257sbmy3_jWMtwXUDQ?usp=drive_link)\]
+*   **Hien Vu**, Hanwook Chung, Christopher Choi, and Younghyun Kim, eTag: An Energy-Neutral Ear Tag for Real-Time Body Temperature Monitoring of Dairy Cattle, _MobiCom 2023_ 
+\[[eTag paper](https://dl.acm.org/doi/10.1145/3570361.3613262)\] \[[eTag slides](https://drive.google.com/drive/folders/1_LsDmNXU9k3Lfi257sbmy3_jWMtwXUDQ?usp=drive_link)\]
 
 *   **Hien Vu**, Donghwa Shin, Simultaneous internal heating for balanced temperature and state-of-charge distribution in lithium-ion battery packs, _Journal of Energy Storage, 2023_ \[[Paper](https://www.sciencedirect.com/science/article/pii/S2352152X22025087?dgcid=author)\]
 
