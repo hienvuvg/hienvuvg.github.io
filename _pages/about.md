@@ -70,17 +70,17 @@ Publications
 
 ### Research Experience
 
-*   **Research Assistant** at WISEST Lab, UW-Madison _September 20__21_ _– Present_
-*   **Research Assistant** at Energy-Aware Computing Lab, Soongsil University, South Korea _March_ _201__9_ _–_ _August_ _20__21_
-*   **Research Student** at Signal Processing and Radio Communication (SPARC) Lab, Hanoi, Vietnam _June_ _201__5_ _–_ _August_ _201__8_
+*   **Research Assistant** at WISEST Lab, UW-Madison *September 2021 – Present*
+*   **Research Assistant** at Energy-Aware Computing Lab, Soongsil University, South Korea *March 2019 – August 2021*
+*   **Research Student** at Signal Processing and Radio Communication (SPARC) Lab, Hanoi, Vietnam *June 2015 - August 2018*
 
 ### Honors
 
-*   **DAC2021 Young Fellowship** _\-2021_
+*   **DAC2021 Young Fellowship** 2021
 
-*   **DAC2023 Young Fellowship** _\-2023_
+*   **DAC2023 Young Fellowship** 2023
 
 ### Mentoring
 
-*   **Teaching Assistant** – ECE 315 Introduction to Microprocessor Lab  (UW–Madison) _–_Fall 2021 & Spring 2022
-*   **Teaching Assistant** – ECE 210 Introduction in Electrical Engineering (UW–Madison) _–_Fall 2021
+*   **Teaching Assistant** – ECE 315 Introduction to Microprocessor Lab  (UW–Madison) – Fall 2021 & Spring 2022
+*   **Teaching Assistant** – ECE 210 Introduction in Electrical Engineering (UW–Madison) – Fall 2021
