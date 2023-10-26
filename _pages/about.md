@@ -16,27 +16,27 @@ Education
 ------
 *   **University of Wisconsin–Madison**  
     <div style="text-align:left;">
-    PhD in Electrical and Computer Engineering
+    Ph.D. in Electrical and Computer Engineering
     <div style="float:right;">
         Sep 2021 – Present
     </div>
     </div>
     <p style="text-align:left;">
-    MSc in Electrical and Computer Engineering 
+    M.S. in Electrical and Computer Engineering 
     <span style="float:right;">
         Sep 2021 – Jun 2023
     </span>
     </p>
 *   **Soongsil University**  
     <p style="text-align:left;">
-    MSc in Computer Science 
+    M.S. in Computer Science 
     <span style="float:right;">
         Mar 2019 – Dec 2020
     </span>
     </p>
 *   **Hanoi University of Science and Technology**  
     <p style="text-align:left;">
-    BSc in Electronics and Telecommunications Engineering 
+    B.S. in Electronics and Telecommunications Engineering 
     <span style="float:right;">
         Sep 2012 – Feb 2018
     </span>
