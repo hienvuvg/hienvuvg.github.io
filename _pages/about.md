@@ -68,10 +68,10 @@ Publications
 *   NA Nguyen, **H Vu**, M Pedram, D Shin, An Attachable Battery–Supercapacitor Hybrid for Large Pulsed Load, *IEEE Design & Test, 2022* 
 \[[Link](https://ieeexplore.ieee.org/document/9781313)\] \[[PDF](https://hienvuvg.github.io/files/DesignTest22.pdf)\]
 
-*   **Hien Vu** and Donghwa Shin, Scheduled Pre-heating of Li-ion Battery Packs for Balanced Temperature and State-ofcharge Distribution, *Energies MDPI 2020* 
+*   **Hien Vu** and Donghwa Shin, Scheduled Pre-heating of Li-ion Battery Packs for Balanced Temperature and State-ofcharge Distribution, *Energies MDPI, 2020* 
 \[[Link](https://www.mdpi.com/1996-1073/13/9/2212)\] \[[PDF](https://hienvuvg.github.io/files/EnergiesMDPI20.pdf)\]
 
-*   **Hien Vu**, Nhan Tran, Loan Pham-Nguyen and Huy-Dung Han, LQG Regulator for Control Moment Gyroscope based Balancing System, *IEEE ICCE 2018* 
+*   **Hien Vu**, Nhan Tran, Loan Pham-Nguyen and Huy-Dung Han, LQG Regulator for Control Moment Gyroscope based Balancing System, *IEEE ICCE, 2018* 
 \[[Link](https://ieeexplore.ieee.org/document/8465717)\] \[[PDF](https://hienvuvg.github.io/files/ICCE18.pdf)\]
 
 
