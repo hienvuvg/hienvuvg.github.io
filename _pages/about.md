@@ -10,11 +10,21 @@ redirect_from:
 
 About
 ------
-Text
+I received my BSc in Electronics and Computer Engineering from Hanoi University of Science and Technology, Vietnam. I obtained my MSc in Computer Science from Soongsil University, South Korea. Currently, I am pursuing a PhD in Electrical and Computer Engineering at UW-Madison.
 
 Education
 ------
-Text
+*   **University of Wisconsin–Madison**  
+    PhD in Electrical and Computer Engineering  
+    _September 2021 – Present_
+Master of Science in Electrical and Computer Engineering  
+_September 2021 – June 2023_
+*   **Soongsil University**  
+    Master of Science in Computer Science  
+    _March 2019 – December 2020_
+*   **Hanoi University of Science and Technology**  
+    Bachelor of Science in Electronics and Computer Engineering  
+    _September 2012 – February 2018_
 
 Publications
 ------
