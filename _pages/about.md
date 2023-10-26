@@ -27,7 +27,7 @@ Education
         Sep 2021 – Jun 2023
     </div>
     </div>
-    Advisor: Prof. Younghyun Kim
+    *Advisor: Prof. Younghyun Kim*
 
 *   **Soongsil University**  
     <div style="text-align:left;">
@@ -36,7 +36,7 @@ Education
         Mar 2019 – Dec 2020
     </div>
     </div>
-    Advisor: Prof. Donghwa Shin
+    *Advisor: Prof. Donghwa Shin*
 
 *   **Hanoi University of Science and Technology**  
     <div style="text-align:left;">
@@ -45,7 +45,7 @@ Education
         Sep 2012 – Feb 2018
     </div>
     </div>
-    Advisor: Prof. Huy-Dzung Han
+    *Advisor: Prof. Huy-Dzung Han*
      
 
 Research Interests
