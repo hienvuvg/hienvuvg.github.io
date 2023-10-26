@@ -27,6 +27,7 @@ Education
         Sep 2021 – Jun 2023
     </span>
     </p>
+        Advisor: Prof. Younghyun Kim
 *   **Soongsil University**  
     <p style="text-align:left;">
     M.S. in Computer Science 
@@ -34,6 +35,7 @@ Education
         Mar 2019 – Dec 2020
     </span>
     </p>
+        Advisor: Prof. Donghwa Shin
 *   **Hanoi University of Science and Technology**  
     <p style="text-align:left;">
     B.S. in Electronics and Telecommunications Engineering 
@@ -41,6 +43,7 @@ Education
         Sep 2012 – Feb 2018
     </span>
     </p>
+        Advisor: Prof. Huy-Dzung Han
      
 
 Research Interests
