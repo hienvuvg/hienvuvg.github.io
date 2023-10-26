@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hien Vu"
+# title                    : "Hien Vu"
 # title_separator          : "-"
 name                     : &name "Hien Vu"
 description              : &description "personal description"
