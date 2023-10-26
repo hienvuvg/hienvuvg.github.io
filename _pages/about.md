@@ -10,6 +10,8 @@ redirect_from:
 
 About
 ======
+- Text
+- Text
 
 Education
 ======
