@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 
-[Download PDF](link)
+[Download PDF](https://hienvuvg.github.io/files/HienVu.CV.pdf)
