@@ -17,7 +17,6 @@ Education
 *   **University of Wisconsin–Madison**  
     <div style="text-align:left;">
     Ph.D. in Electrical and Computer Engineering
-    Advisor: Prof. Younghyun Kim
     <div style="float:right;">
         Sep 2021 – Present
     </div>
@@ -28,24 +27,25 @@ Education
         Sep 2021 – Jun 2023
     </div>
     </div>
+    Advisor: Prof. Younghyun Kim
 
 *   **Soongsil University**  
     <div style="text-align:left;">
     M.S. in Computer Science 
-    Advisor: Prof. Donghwa Shin
     <div style="float:right;">
         Mar 2019 – Dec 2020
     </div>
     </div>
+    Advisor: Prof. Donghwa Shin
 
 *   **Hanoi University of Science and Technology**  
     <div style="text-align:left;">
     B.S. in Electronics and Telecommunications Engineering 
-    Advisor: Prof. Huy-Dzung Han
     <div style="float:right;">
         Sep 2012 – Feb 2018
     </div>
     </div>
+    Advisor: Prof. Huy-Dzung Han
      
 
 Research Interests
