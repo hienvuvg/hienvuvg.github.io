@@ -23,13 +23,13 @@ Publications
 
 - Hien Vu, Hanwook Chung, Christopher Choi, and Younghyun Kim, eTag: An Energy-Neutral Ear Tag for Real-Time Body Temperature Monitoring of Dairy Cattle, MobiCom 2023 ([ACM Link](https://dl.acm.org/doi/10.1145/3570361.3613262)) ([Slides](https://drive.google.com/drive/folders/1_LsDmNXU9k3Lfi257sbmy3_jWMtwXUDQ))
 
-- Hien Vu, Donghwa Shin, Simultaneous internal heating for balanced temperature and state-of-charge distribution in lithium-ion battery packs, Journal of Energy Storage, 2023
+- Hien Vu, Donghwa Shin, Simultaneous internal heating for balanced temperature and state-of-charge distribution in lithium-ion battery packs, Journal of Energy Storage, 2023 ([Link](https://www.sciencedirect.com/science/article/pii/S2352152X22025087?dgcid=author))
 
-- NA Nguyen, H Vu, M Pedram, D Shin, An Attachable Battery–Supercapacitor Hybrid for Large Pulsed Load, IEEE Design & Test, 2022
+- NA Nguyen, H Vu, M Pedram, D Shin, An Attachable Battery–Supercapacitor Hybrid for Large Pulsed Load, IEEE Design & Test, 2022 ([Link](https://ieeexplore.ieee.org/document/9781313))
 
-- Hien Vu and Donghwa Shin, Scheduled Pre-heating of Li-ion Battery Packs for Balanced Temperature and State-ofcharge Distribution, Energies MDPI 2020
+- Hien Vu and Donghwa Shin, Scheduled Pre-heating of Li-ion Battery Packs for Balanced Temperature and State-ofcharge Distribution, Energies MDPI 2020 ([Link](https://www.mdpi.com/1996-1073/13/9/2212))
 
-- Hien Vu, Nhan Tran, Loan Pham-Nguyen and Huy-Dung Han, LQG Regulator for Control Moment Gyroscope based Balancing System, IEEE ICCE 2018
+- Hien Vu, Nhan Tran, Loan Pham-Nguyen and Huy-Dung Han, LQG Regulator for Control Moment Gyroscope based Balancing System, IEEE ICCE 2018 ([Link](https://ieeexplore.ieee.org/document/8465717))
 
 
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
