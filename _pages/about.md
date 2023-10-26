@@ -16,15 +16,15 @@ Education
 ------
 *   **University of Wisconsin–Madison**  
     PhD in Electrical and Computer Engineering  
-    _September 2021 – Present_
+    *September 2021 – Present*
     Master of Science in Electrical and Computer Engineering  
-    _September 2021 – June 2023_
+    *September 2021 – June 2023*
 *   **Soongsil University**  
     Master of Science in Computer Science  
-    _March 2019 – December 2020_
+    *March 2019 – December 2020*
 *   **Hanoi University of Science and Technology**  
     Bachelor of Science in Electronics and Computer Engineering  
-    _September 2012 – February 2018_
+    *September 2012 – February 2018*
 
 Publications
 ------
