@@ -7,6 +7,18 @@ author_profile: true
 
 Publications
 ------
+
+<div class="list__item">
+    <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+      <h2 class="archive__item-title" itemprop="headline">Subcutaneous temperature monitoring through ear tag for heat stress detection in dairy cows</h2>
+      <!-- citation and icon code -->
+      <p>Hanwook Chung, **Hien Vu**, Younghyun Kim, and Christopher Choi, <br /> Biosystems Engineering, 2023 
+      <a href="https://doi.org/10.1016/j.biosystemseng.2023.10.001"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a> 
+      <a href="/files/BiosystemsEngineering23.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></p>
+      <p class="archive__item-excerpt" itemprop="description"></p>
+    </article>
+</div>
+
 *   Hanwook Chung, **Hien Vu**, Younghyun Kim, and Christopher Choi, Subcutaneous temperature monitoring through ear tag for heat stress detection in dairy cows, *Biosystems Engineering, 2023* 
 \[[Link](https://doi.org/10.1016/j.biosystemseng.2023.10.001)\] \[[PDF](https://hienvuvg.github.io/files/BiosystemsEngineering23.pdf)\]
 
