@@ -101,17 +101,9 @@ Honors & Awards
 * **ECE Summer Travel Award**,  UW-Madison 2023
 * **DAC Young Fellowship**, Design Automation Conference 2021
 
-* <div style="text-align:left;">
-**ECE Summer Travel Award**,  UW-Madison
-<div style="float:right;">
-2023
-</div></div>
+* <div style="text-align:left;"> <strong>ECE Summer Travel Award</strong>,  UW-Madison <div style="float:right;"> 2023 </div></div>
 
-<div style="text-align:left;">
-* **DAC Young Fellowship** Design Automation Conference 
-<div style="float:right;">
-2021
-</div></div>
+* <div style="text-align:left;"><strong>DAC Young Fellowship</strong> Design Automation Conference <div style="float:right;"> 2021 </div></div>
 
 Mentoring
 ------
