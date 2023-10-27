@@ -14,16 +14,16 @@ Prior to joining my Ph.D. program, I was with the Energy-Aware Computing Lab at 
 
 Education
 ------
-*   **University of Wisconsin–Madison**, WI, USA  
+*   **University of Wisconsin–Madison** (UWM), WI, USA  
     <div style="text-align:left;">Ph.D. in Electrical and Computer Engineering<div style="float:right;">Sep 2021 – Present</div></div>
     <div style="text-align:left;">M.S. in Electrical and Computer Engineering<div style="float:right;">Sep 2021 – Jun 2023</div></div>
     *Advisor: Prof. Younghyun Kim*
 
-*   **Soongsil University**, Seoul, Korea
+*   **Soongsil University** (SSU), Seoul, Korea
     <div style="text-align:left;">M.S. in Computer Science<div style="float:right;">Mar 2019 – Dec 2020</div></div>
     *Advisor: Prof. Donghwa Shin*
 
-*   **Hanoi University of Science and Technology**, Hanoi, Vietnam 
+*   **Hanoi University of Science and Technology** (HUST), Hanoi, Vietnam 
     <div style="text-align:left;">B.S. in Electronics and Telecommunications Engineering <div style="float:right;">Sep 2012 – May 2016</div></div>
     *Advisor: Prof. Huy-Dzung Han*
      
@@ -67,10 +67,11 @@ Featured Projects
 
 Research Experience
 ------
+* <div style="text-align:left;"> <strong>Research Assistant</strong> at Wisconsin Embedded Systems and Computing Lab, (UWM) <div style="float:right;"> Sep 2021 – Present </div></div>
 
-*   **Research Assistant** at WISEST Lab, UW-Madison *September 2021 – Present*
-*   **Research Assistant** at Energy-Aware Computing Lab, Soongsil University, South Korea *March 2019 – August 2021*
-*   **Research Student** at Signal Processing and Radio Communication (SPARC) Lab, Hanoi, Vietnam *June 2015 - August 2018*
+* <div style="text-align:left;"> <strong>Research Assistant</strong> at Energy-Aware Computing Lab, SSU <div style="float:right;"> Mar 2019 – Aug 2021 </div></div>
+
+* <div style="text-align:left;"> <strong>Research Assistant</strong>  at Signal Processing and Radio Communication Lab, HUST <div style="float:right;"> Jun 2015 - Aug 2018 </div></div>
 
 Honors & Awards
 ------
