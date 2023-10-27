@@ -42,7 +42,7 @@ Education
     <div style="text-align:left;">
     B.S. in Electronics and Telecommunications Engineering 
     <div style="float:right;">
-        Sep 2012 – Jun 2017
+        Sep 2012 – May 2016
     </div>
     </div>
     *Advisor: Prof. Huy-Dzung Han*
