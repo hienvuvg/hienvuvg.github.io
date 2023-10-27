@@ -110,5 +110,7 @@ Mentoring
 ------
 
 **Teaching Assistant**
-* ECE 315 Introduction to Microprocessor Lab, UW–Madison – Fall 2021 & Spring 2022
-* ECE 210 Introduction in Electrical Engineering, UW–Madison – Fall 2021
+
+* <div style="text-align:left;">ECE 315 Introduction to Microprocessor Lab, UW–Madison <div style="float:right;"> Fall 2021 & Spring 2022 </div></div>
+
+* <div style="text-align:left;">ECE 210 Introduction in Electrical Engineering, UW–Madison <div style="float:right;"> Fall 2021 </div></div>
