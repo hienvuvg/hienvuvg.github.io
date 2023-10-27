@@ -35,7 +35,7 @@ author_profile: true
 
 <div class="list__item">
     <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
-      <h2 class="archive__item-title" itemprop="headline" style="text-decoration:none">Simultaneous internal heating for balanced temperature and state-of-charge distribution in lithium-ion battery packs</h2>
+      <h2 class="archive__item-title" itemprop="headline" style="text-decoration:none">Simultaneous Internal Heating for Balanced Temperature and State-of-Charge Distribution in Lithium-ion Battery Packs</h2>
       <!-- citation and icon code -->
       <p><strong>Hien Vu</strong> and Donghwa Shin 
       <br /> Journal of Energy Storage 2023
