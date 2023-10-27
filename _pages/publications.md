@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-
+<h1 class="page__title"></h1>
 <div class="list__item">
     <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
       <h2 class="archive__item-title" itemprop="headline"> Subcutaneous temperature monitoring through ear tag for heat stress detection in dairy cows</h2>
