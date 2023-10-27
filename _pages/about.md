@@ -91,10 +91,10 @@ Featured Projects
 
 Mentoring
 ------
-**Undergrad Students**
+<!-- **Undergrad Students**
 * <div style="text-align:left;">Devansh Agrawal <div style="float:right;">Spring 2023</div></div>
 
-* <div style="text-align:left;">Lujain Al Jumah<div style="float:right;">Fall 2022</div></div>
+* <div style="text-align:left;">Lujain Al Jumah<div style="float:right;">Fall 2022</div></div> -->
 
 **Teaching Assistant**
 
