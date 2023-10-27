@@ -1,8 +1,8 @@
 ---
 layout: archive
-title: "Hien Vu"
+title: "Projects"
 permalink: /projects/
-author_profile: false
+author_profile: true
 redirect_from:
   - /projects
 ---
