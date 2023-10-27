@@ -28,7 +28,7 @@ author_profile: true
       <br /> ACM MobiCom 2023 -- Acceptance rate 25% (93 papers accepted out of 372 submitted) 
       <a href="https://dl.acm.org/doi/10.1145/3570361.3613262"><i class="fas fa-fw fa-link zoom" style="color:crimson" aria-hidden="true"></i></a> 
       <a href="/files/MobiCom23.pdf"><i class="fas fa-fw fa-file-pdf-o zoom" style="color:crimson" aria-hidden="true"></i></a>
-      <a href="https://drive.google.com/drive/folders/1_LsDmNXU9k3Lfi257sbmy3_jWMtwXUDQ?usp=drive_link"><i class="fa fa-file-powerpoint-o zoom" style="color:crimson" aria-hidden="true"></i></a>
+      <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/1_LsDmNXU9k3Lfi257sbmy3_jWMtwXUDQ?usp=drive_link"><i class="fa fa-file-powerpoint-o zoom" style="color:crimson" aria-hidden="true"></i></a>
       </p><p class="archive__item-excerpt" itemprop="description"></p>
     </article>
 </div>
