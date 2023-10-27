@@ -25,7 +25,7 @@ author_profile: true
       <h2 class="archive__item-title" itemprop="headline" style="text-decoration:none">eTag: An Energy-Neutral Ear Tag for Real-Time Body Temperature Monitoring of Dairy Cattle</h2>
       <!-- citation and icon code -->
       <p><strong>Hien Vu</strong>, Hanwook Chung, Christopher Choi, and Younghyun Kim 
-      <br /> ACM MobiCom 2023 -- Acceptance rate 25% (93 papers accepted out of 372 submitted) 
+      <br /> ACM MobiCom 2023 -- Acceptance rate 24% (92 papers accepted out of 377 submitted) 
       <a href="https://dl.acm.org/doi/10.1145/3570361.3613262"><i class="fas fa-fw fa-link zoom" style="color:crimson" aria-hidden="true"></i></a> 
       <a href="/files/MobiCom23.pdf"><i class="fas fa-fw fa-file-pdf-o zoom" style="color:crimson" aria-hidden="true"></i></a>
       <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/1_LsDmNXU9k3Lfi257sbmy3_jWMtwXUDQ?usp=drive_link"><i class="fa fa-file-powerpoint-o zoom" style="color:crimson" aria-hidden="true"></i></a>
