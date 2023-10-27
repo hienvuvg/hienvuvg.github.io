@@ -15,7 +15,7 @@ author_profile: true
       <p>Hanwook Chung, <strong>Hien Vu</strong>, Younghyun Kim, and Christopher Choi 
       <br /> Biosystems Engineering 2023 
       <a href="https://doi.org/10.1016/j.biosystemseng.2023.10.001"><i class="fas fa-fw fa-link zoom" style="color:crimson" aria-hidden="true"></i></a> 
-      <a href="/files/BiosystemsEngineering23.pdf"><i class="fas fa-fw fa-file-pdf zoom" style="color:crimson" aria-hidden="true"></i></a>
+      <a href="/files/BiosystemsEngineering23.pdf"><i class="fas fa-fw fa-file-pdf-o zoom" style="color:crimson" aria-hidden="true"></i></a>
       </p><p class="archive__item-excerpt" itemprop="description"></p>
     </article>
 </div>
@@ -40,7 +40,7 @@ author_profile: true
       <p><strong>Hien Vu</strong> and Donghwa Shin 
       <br /> Journal of Energy Storage 2023
       <a href="https://www.sciencedirect.com/science/article/pii/S2352152X22025087?dgcid=author"><i class="fas fa-fw fa-link zoom" style="color:crimson" aria-hidden="true"></i></a> 
-      <a href="/files/PostHeating23.pdf"><i class="fas fa-fw fa-file-pdf zoom" style="color:crimson" aria-hidden="true"></i></a>
+      <a href="/files/PostHeating23.pdf"><i class="fas fa-fw fa-file-pdf-o zoom" style="color:crimson" aria-hidden="true"></i></a>
       </p><p class="archive__item-excerpt" itemprop="description"></p>
     </article>
 </div>
@@ -53,7 +53,7 @@ author_profile: true
       <p>NA Nguyen, <strong>H Vu</strong>, M Pedram, and D Shin
       <br /> IEEE Design & Test 2022
       <a href="https://ieeexplore.ieee.org/document/9781313"><i class="fas fa-fw fa-link zoom" style="color:crimson" aria-hidden="true"></i></a> 
-      <a href="/files/DesignTest22.pdf"><i class="fas fa-fw fa-file-pdf zoom" style="color:crimson" aria-hidden="true"></i></a>
+      <a href="/files/DesignTest22.pdf"><i class="fas fa-fw fa-file-pdf-o zoom" style="color:crimson" aria-hidden="true"></i></a>
       </p><p class="archive__item-excerpt" itemprop="description"></p>
     </article>
 </div>
@@ -66,7 +66,7 @@ author_profile: true
       <p><strong>Hien Vu</strong> and Donghwa Shin 
       <br /> Energies MDPI 2020
       <a href="https://www.mdpi.com/1996-1073/13/9/2212"><i class="fas fa-fw fa-link zoom" style="color:crimson" aria-hidden="true"></i></a> 
-      <a href="/files/EnergiesMDPI20.pdf"><i class="fas fa-fw fa-file-pdf zoom" style="color:crimson" aria-hidden="true"></i></a>
+      <a href="/files/EnergiesMDPI20.pdf"><i class="fas fa-fw fa-file-pdf-o zoom" style="color:crimson" aria-hidden="true"></i></a>
       </p><p class="archive__item-excerpt" itemprop="description"></p>
     </article>
 </div>
@@ -79,7 +79,7 @@ author_profile: true
       <p><strong>Hien Vu</strong>, Nhan Tran, Loan Pham-Nguyen, and Huy-Dung Han
       <br /> IEEE ICCE 2018
       <a href="https://ieeexplore.ieee.org/document/8465717"><i class="fas fa-fw fa-link zoom" style="color:crimson" aria-hidden="true"></i></a> 
-      <a href="/files/ICCE18.pdf"><i class="fas fa-fw fa-file-pdf zoom" style="color:crimson" aria-hidden="true"></i></a>
+      <a href="/files/ICCE18.pdf"><i class="fas fa-fw fa-file-pdf-o zoom" style="color:crimson" aria-hidden="true"></i></a>
       </p><p class="archive__item-excerpt" itemprop="description"></p>
     </article>
 </div>
