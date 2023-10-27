@@ -11,8 +11,8 @@ author_profile: true
       <!-- citation and icon code -->
       <p>Hanwook Chung, <strong>Hien Vu</strong>, Younghyun Kim, and Christopher Choi 
       <br /> Biosystems Engineering, 2023 
-      <a href="https://doi.org/10.1016/j.biosystemseng.2023.10.001"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a> 
-      <a href="/files/BiosystemsEngineering23.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+      <a href="https://doi.org/10.1016/j.biosystemseng.2023.10.001"><i class="fas fa-fw fa-link zoom" style="color:crimson" aria-hidden="true"></i></a> 
+      <a href="/files/BiosystemsEngineering23.pdf"><i class="fas fa-fw fa-file-pdf zoom" style="color:crimson" aria-hidden="true"></i></a>
       </p><p class="archive__item-excerpt" itemprop="description"></p>
     </article>
 </div>
@@ -24,9 +24,9 @@ author_profile: true
       <!-- citation and icon code -->
       <p><strong>Hien Vu</strong>, Hanwook Chung, Christopher Choi, and Younghyun Kim 
       <br /> ACM MobiCom 2023 -- Acceptance rate 25% (93 papers accepted out of 372 submitted) 
-      <a href="https://dl.acm.org/doi/10.1145/3570361.3613262"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a> 
-      <a href="/files/MobiCom23.pdf"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
-      <a href="https://drive.google.com/drive/folders/1_LsDmNXU9k3Lfi257sbmy3_jWMtwXUDQ?usp=drive_link"><i class="fa fa-file-powerpoint zoom" aria-hidden="true"></i></a>
+      <a href="https://dl.acm.org/doi/10.1145/3570361.3613262"><i class="fas fa-fw fa-link zoom" style="color:crimson" aria-hidden="true"></i></a> 
+      <a href="/files/MobiCom23.pdf"><i class="fas fa-fw fa-file-pdf zoom" style="color:crimson" aria-hidden="true"></i></a>
+      <a href="https://drive.google.com/drive/folders/1_LsDmNXU9k3Lfi257sbmy3_jWMtwXUDQ?usp=drive_link"><i class="fa fa-file-powerpoint zoom" style="color:crimson" aria-hidden="true"></i></a>
       </p><p class="archive__item-excerpt" itemprop="description"></p>
     </article>
 </div>
