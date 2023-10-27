@@ -34,6 +34,29 @@ Research Interests
 *   Cyber Physical Systems (CPS)
 *   Internet of Things (IoT)
 
+Research Experience
+------
+**Research Assistant**
+* <div style="text-align:left;">Wisconsin Embedded Systems and Computing Lab, UW-Madison <div style="float:right;"> Sep 2021 – Present </div></div>
+
+* <div style="text-align:left;">Energy-Aware Computing Lab, SSU <div style="float:right;"> Mar 2019 – Aug 2021 </div></div>
+
+* <div style="text-align:left;">Signal Processing and Radio Communication Lab, HUST <div style="float:right;"> Jun 2015 - Aug 2018 </div></div>
+
+Honors & Awards
+------
+
+* <div style="text-align:left;"> <strong>ECE Fall Travel Award</strong>,  UW-Madison <div style="float:right;"> 2023 </div></div>
+
+* <div style="text-align:left;"> <strong>NSF Travel Award</strong>,  International Conference on Mobile Computing and Networking <div style="float:right;"> 2023 </div></div>
+
+* <div style="text-align:left;"><strong>DAC Young Fellowship</strong>, Design Automation Conference <div style="float:right;"> 2023 </div></div>
+
+* <div style="text-align:left;"> <strong>ECE Summer Travel Award</strong>,  UW-Madison <div style="float:right;"> 2023 </div></div>
+
+* <div style="text-align:left;"><strong>DAC Young Fellowship</strong>, Design Automation Conference <div style="float:right;"> 2021 </div></div>
+
+
 Publications
 ------
 *   Hanwook Chung, **Hien Vu**, Younghyun Kim, and Christopher Choi, Subcutaneous temperature monitoring through ear tag for heat stress detection in dairy cows, *Biosystems Engineering, 2023* 
@@ -65,27 +88,6 @@ Featured Projects
 4.  **Optimization for Power Loss Protection in Solid State Drives:** Implemented a high-speed design for a customized storage device that consists of an FPGA as a controller and 512GB of 16 SLC-NAND flash ICs while ensuring signal integrity and propagation delay. Developed a dynamic voltage-scaling power backup system to extend the lifespan of capacitors in SSDs.
 5.  **Visual-SLAM and IMU sensor fusion for AR-VR applications:** Implemented Extended Kalman Filter on a RISC-V MCU that processes data from a 9-DOF Inertial Measurement Unit (IMU), which is combined with Parallel Tracking and Mapping (PTAM) for pose tracking in AR applications.
 
-Research Experience
-------
-**Research Assistant**
-* <div style="text-align:left;">Wisconsin Embedded Systems and Computing Lab, UW-Madison <div style="float:right;"> Sep 2021 – Present </div></div>
-
-* <div style="text-align:left;">Energy-Aware Computing Lab, SSU <div style="float:right;"> Mar 2019 – Aug 2021 </div></div>
-
-* <div style="text-align:left;">Signal Processing and Radio Communication Lab, HUST <div style="float:right;"> Jun 2015 - Aug 2018 </div></div>
-
-Honors & Awards
-------
-
-* <div style="text-align:left;"> <strong>ECE Fall Travel Award</strong>,  UW-Madison <div style="float:right;"> 2023 </div></div>
-
-* <div style="text-align:left;"> <strong>NSF Travel Award</strong>,  International Conference on Mobile Computing and Networking <div style="float:right;"> 2023 </div></div>
-
-* <div style="text-align:left;"><strong>DAC Young Fellowship</strong>, Design Automation Conference <div style="float:right;"> 2023 </div></div>
-
-* <div style="text-align:left;"> <strong>ECE Summer Travel Award</strong>,  UW-Madison <div style="float:right;"> 2023 </div></div>
-
-* <div style="text-align:left;"><strong>DAC Young Fellowship</strong>, Design Automation Conference <div style="float:right;"> 2021 </div></div>
 
 Mentoring
 ------
