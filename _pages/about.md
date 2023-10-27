@@ -67,11 +67,12 @@ Featured Projects
 
 Research Experience
 ------
-* <div style="text-align:left;"> <strong>Research Assistant</strong> at Wisconsin Embedded Systems and Computing Lab, (UWM) <div style="float:right;"> Sep 2021 – Present </div></div>
+**Research Assistant**
+* <div style="text-align:left;">Wisconsin Embedded Systems and Computing Lab, (UWM) <div style="float:right;"> Sep 2021 – Present </div></div>
 
-* <div style="text-align:left;"> <strong>Research Assistant</strong> at Energy-Aware Computing Lab, SSU <div style="float:right;"> Mar 2019 – Aug 2021 </div></div>
+* <div style="text-align:left;">Energy-Aware Computing Lab, SSU <div style="float:right;"> Mar 2019 – Aug 2021 </div></div>
 
-* <div style="text-align:left;"> <strong>Research Assistant</strong>  at Signal Processing and Radio Communication Lab, HUST <div style="float:right;"> Jun 2015 - Aug 2018 </div></div>
+* <div style="text-align:left;">Signal Processing and Radio Communication Lab, HUST <div style="float:right;"> Jun 2015 - Aug 2018 </div></div>
 
 Honors & Awards
 ------
