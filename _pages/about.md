@@ -57,7 +57,7 @@ Honors & Awards
 * <div style="text-align:left;"><strong>DAC Young Fellowship</strong>, Design Automation Conference <div style="float:right;"> 2021 </div></div>
 
 
-Publications
+<!-- Publications
 ------
 *   Hanwook Chung, **Hien Vu**, Younghyun Kim, and Christopher Choi, Subcutaneous temperature monitoring through ear tag for heat stress detection in dairy cows, *Biosystems Engineering, 2023* 
 \[[Link](https://doi.org/10.1016/j.biosystemseng.2023.10.001)\] \[[PDF](https://hienvuvg.github.io/files/BiosystemsEngineering23.pdf)\]
@@ -75,7 +75,7 @@ Publications
 \[[Link](https://www.mdpi.com/1996-1073/13/9/2212)\] \[[PDF](https://hienvuvg.github.io/files/EnergiesMDPI20.pdf)\]
 
 *   **Hien Vu**, Nhan Tran, Loan Pham-Nguyen and Huy-Dung Han, LQG Regulator for Control Moment Gyroscope based Balancing System, *IEEE ICCE, 2018* 
-\[[Link](https://ieeexplore.ieee.org/document/8465717)\] \[[PDF](https://hienvuvg.github.io/files/ICCE18.pdf)\]
+\[[Link](https://ieeexplore.ieee.org/document/8465717)\] \[[PDF](https://hienvuvg.github.io/files/ICCE18.pdf)\] -->
 
 
 
