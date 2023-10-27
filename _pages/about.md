@@ -14,7 +14,7 @@ Prior to joining my Ph.D. program, I was with the Energy-Aware Computing Lab at 
 
 Education
 ------
-*   **University of Wisconsin–Madison** (UWM), WI, USA  
+*   **University of Wisconsin–Madison** (UW-Madison), WI, USA  
     <div style="text-align:left;">Ph.D. in Electrical and Computer Engineering<div style="float:right;">Sep 2021 – Present</div></div>
     <div style="text-align:left;">M.S. in Electrical and Computer Engineering<div style="float:right;">Sep 2021 – Jun 2023</div></div>
     *Advisor: Prof. Younghyun Kim*
@@ -68,7 +68,7 @@ Featured Projects
 Research Experience
 ------
 **Research Assistant**
-* <div style="text-align:left;">Wisconsin Embedded Systems and Computing Lab, (UWM) <div style="float:right;"> Sep 2021 – Present </div></div>
+* <div style="text-align:left;">Wisconsin Embedded Systems and Computing Lab, UW-Madison <div style="float:right;"> Sep 2021 – Present </div></div>
 
 * <div style="text-align:left;">Energy-Aware Computing Lab, SSU <div style="float:right;"> Mar 2019 – Aug 2021 </div></div>
 
