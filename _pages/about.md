@@ -79,11 +79,11 @@ Honors & Awards
 
 * <div style="text-align:left;"> <strong>NSF Travel Award</strong>,  International Conference on Mobile Computing and Networking <div style="float:right;"> 2023 </div></div>
 
-* <div style="text-align:left;"><strong>DAC Young Fellowship</strong> Design Automation Conference <div style="float:right;"> 2023 </div></div>
+* <div style="text-align:left;"><strong>DAC Young Fellowship</strong>, Design Automation Conference <div style="float:right;"> 2023 </div></div>
 
 * <div style="text-align:left;"> <strong>ECE Summer Travel Award</strong>,  UW-Madison <div style="float:right;"> 2023 </div></div>
 
-* <div style="text-align:left;"><strong>DAC Young Fellowship</strong> Design Automation Conference <div style="float:right;"> 2021 </div></div>
+* <div style="text-align:left;"><strong>DAC Young Fellowship</strong>, Design Automation Conference <div style="float:right;"> 2021 </div></div>
 
 Mentoring
 ------
