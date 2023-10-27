@@ -92,12 +92,26 @@ Research Experience
 *   **Research Assistant** at Energy-Aware Computing Lab, Soongsil University, South Korea *March 2019 – August 2021*
 *   **Research Student** at Signal Processing and Radio Communication (SPARC) Lab, Hanoi, Vietnam *June 2015 - August 2018*
 
-Honors
+Honors & Awards
 ------
+* **ECE Fall Travel Award**,  UW-Madison 2023
+* **NSF Travel Grant**, International Conference on Mobile Computing and Networking 2023
 
-*   **DAC2021 Young Fellowship** 2021
+* **DAC Young Fellowship**, Design Automation Conference 2023
+* **ECE Summer Travel Award**,  UW-Madison 2023
+* **DAC Young Fellowship**, Design Automation Conference 2021
 
-*   **DAC2023 Young Fellowship** 2023
+* <div style="text-align:left;">
+**ECE Summer Travel Award**,  UW-Madison
+<div style="float:right;">
+2023
+</div></div>
+
+<div style="text-align:left;">
+* **DAC Young Fellowship** Design Automation Conference 
+<div style="float:right;">
+2021
+</div></div>
 
 Mentoring
 ------
