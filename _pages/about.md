@@ -94,12 +94,13 @@ Research Experience
 
 Honors & Awards
 ------
-* **ECE Fall Travel Award**,  UW-Madison 2023
-* **NSF Travel Grant**, International Conference on Mobile Computing and Networking 2023
+
+* <div style="text-align:left;"> <strong>ECE Fall Travel Award</strong>,  UW-Madison <div style="float:right;"> 2023 </div></div>
+
+* <div style="text-align:left;"> <strong>NSF Travel Award</strong>,  International Conference on Mobile Computing and Networking <div style="float:right;"> 2023 </div></div>
 
 * **DAC Young Fellowship**, Design Automation Conference 2023
-* **ECE Summer Travel Award**,  UW-Madison 2023
-* **DAC Young Fellowship**, Design Automation Conference 2021
+* <div style="text-align:left;"> <strong>ECE Summer Travel Award</strong>,  UW-Madison <div style="float:right;"> 2023 </div></div>
 
 * <div style="text-align:left;"> <strong>ECE Summer Travel Award</strong>,  UW-Madison <div style="float:right;"> 2023 </div></div>
 
