@@ -7,6 +7,8 @@ redirect_from:
   - /markdown.html
 ---
 
+##[Source page](https://academicpages.github.io/markdown/)
+
 ## Locations of key files/directories
 
 * Basic config options: _config.yml
