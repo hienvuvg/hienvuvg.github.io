@@ -21,7 +21,7 @@ author_profile: true
 
 <div class="list__item">
     <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
-      <h2 class="archive__item-title" itemprop="headline">eTag: An Energy-Neutral Ear Tag for Real-Time Body Temperature Monitoring of Dairy Cattle</h2>
+      <h2 class="archive__item-title" itemprop="headline" style="text-decoration:none">eTag: An Energy-Neutral Ear Tag for Real-Time Body Temperature Monitoring of Dairy Cattle</h2>
       <!-- citation and icon code -->
       <p><strong>Hien Vu</strong>, Hanwook Chung, Christopher Choi, and Younghyun Kim 
       <br /> ACM MobiCom 2023 -- Acceptance rate 25% (93 papers accepted out of 372 submitted) 
@@ -34,7 +34,7 @@ author_profile: true
 
 <div class="list__item">
     <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
-      <h2 class="archive__item-title" itemprop="headline">Simultaneous internal heating for balanced temperature and state-of-charge distribution in lithium-ion battery packs</h2>
+      <h2 class="archive__item-title" itemprop="headline" style="text-decoration:none">Simultaneous internal heating for balanced temperature and state-of-charge distribution in lithium-ion battery packs</h2>
       <!-- citation and icon code -->
       <p><strong>Hien Vu</strong> and Donghwa Shin 
       <br /> Journal of Energy Storage 2023
@@ -47,7 +47,7 @@ author_profile: true
 
 <div class="list__item">
     <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
-      <h2 class="archive__item-title" itemprop="headline">An Attachable Battery–Supercapacitor Hybrid for Large Pulsed Load</h2>
+      <h2 class="archive__item-title" itemprop="headline" style="text-decoration:none">An Attachable Battery–Supercapacitor Hybrid for Large Pulsed Load</h2>
       <!-- citation and icon code -->
       <p>NA Nguyen, <strong>H Vu</strong>, M Pedram, and D Shin
       <br /> IEEE Design & Test 2022
@@ -60,7 +60,7 @@ author_profile: true
 
 <div class="list__item">
     <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
-      <h2 class="archive__item-title" itemprop="headline">Scheduled Pre-heating of Li-ion Battery Packs for Balanced Temperature and State-ofcharge Distribution</h2>
+      <h2 class="archive__item-title" itemprop="headline" style="text-decoration:none">Scheduled Pre-heating of Li-ion Battery Packs for Balanced Temperature and State-ofcharge Distribution</h2>
       <!-- citation and icon code -->
       <p><strong>Hien Vu</strong> and Donghwa Shin 
       <br /> Energies MDPI 2020
@@ -73,7 +73,7 @@ author_profile: true
 
 <div class="list__item">
     <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
-      <h2 class="archive__item-title" itemprop="headline">LQG Regulator for Control Moment Gyroscope based Balancing System</h2>
+      <h2 class="archive__item-title" itemprop="headline" style="text-decoration:none">LQG Regulator for Control Moment Gyroscope based Balancing System</h2>
       <!-- citation and icon code -->
       <p><strong>Hien Vu</strong>, Nhan Tran, Loan Pham-Nguyen, and Huy-Dung Han
       <br /> IEEE ICCE 2018
