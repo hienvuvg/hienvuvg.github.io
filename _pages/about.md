@@ -12,6 +12,11 @@ About
 ------
 Prior to joining my Ph.D. program, I was with the Energy-Aware Computing Lab at Soongsil University, South Korea, where my research focused on advanced energy management systems.  At WISEST, UW-Madison, I have been actively engaging in research on low-power embedded computing and sensing systems. Currently, I am investigating the viability of various non-contact sensing and wireless communication techniques in improving the sustainability of dairy farming. I am also interested in improving battery-less sensor networks in various aspects, where different hardware/software optimization techniques can be leveraged to make sensing, in-device computation, and communication more effective.
 
+News
+------
+*  10/2023: My work with other BSE colleagues is featured in a College of Engineering news article: [“Mooooo’s in distress? In the barn of the future, smart system will keep hot cows cool”](https://engineering.wisc.edu/news/mooooos-in-distress-in-the-barn-of-the-future-smart-system-will-keep-hot-cows-cool/)
+*  10/2023: eTag poster is accepted at The 2023 Sustainability Symposium, UW-Madison: [Sustainable Dairy Farming using Wearable Technology for Heat Stress Detection](https://sustainability.wisc.edu/sustainability-symposium/posters/)
+
 Education
 ------
 *   **University of Wisconsin–Madison** (UW-Madison), WI, USA  
