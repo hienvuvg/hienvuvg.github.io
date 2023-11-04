@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-News
+<!--News
 ------
 *  10/2023: My work with other BSE colleagues is featured in a College of Engineering news article: [“Mooooo’s in distress? In the barn of the future, smart system will keep hot cows cool”](https://engineering.wisc.edu/news/mooooos-in-distress-in-the-barn-of-the-future-smart-system-will-keep-hot-cows-cool/)
-*  10/2023: eTag poster is accepted at The 2023 Sustainability Symposium, UW-Madison: [Sustainable Dairy Farming using Wearable Technology for Heat Stress Detection](https://sustainability.wisc.edu/sustainability-symposium/posters/)
+*  10/2023: eTag poster is accepted at The 2023 Sustainability Symposium, UW-Madison: [Sustainable Dairy Farming using Wearable Technology for Heat Stress Detection](https://sustainability.wisc.edu/sustainability-symposium/posters/)-->
 
 
 About
