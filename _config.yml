@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Hien Vu"
   avatar           : "profile.png"
-  bio              : "PhD Student at UW-Madison"
-  location         : "Madison, WI"
+  bio              : "PhD Student at Purdue University"
+  location         : "Lafayette, IN"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   # googlescholar    : "https://scholar.google.com/citations?user=3aPutmQAAAAJ&hl=en"
-  email            : "hien.vu@wisc.edu"
+  email            : "vu64@purdue.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
