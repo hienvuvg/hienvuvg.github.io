@@ -16,13 +16,16 @@ redirect_from:
 
 About
 ------
-Prior to joining my Ph.D. program, I was with the Energy-Aware Computing Lab at Soongsil University, South Korea, where my research focused on advanced energy management systems.  At WISEST, UW-Madison, I have been actively engaging in research on low-power embedded computing and sensing systems. Currently, I am investigating the viability of various non-contact sensing and wireless communication techniques in improving the sustainability of dairy farming. I am also interested in improving battery-less sensor networks in various aspects, where different hardware/software optimization techniques can be leveraged to make sensing, in-device computation, and communication more effective.
+Prior to joining my Ph.D. program, I was with the Energy-Aware Computing Lab at Soongsil University, South Korea, where my research focused on advanced energy management systems.  At WISEST, Purdue University, I have been actively engaging in research on low-power embedded computing and sensing systems. Currently, I am investigating the viability of various non-contact sensing and wireless communication techniques in improving the sustainability of dairy farming. I am also interested in improving battery-less sensor networks in various aspects, where different hardware/software optimization techniques can be leveraged to make sensing, in-device computation, and communication more effective.
 
 
 Education
 ------
+*   **Purdue University**, IN, USA  
+    <div style="text-align:left;">Ph.D. in Electrical and Computer Engineering<div style="float:right;">Sep 2023 – Present</div></div>
+    *Advisor: Prof. Younghyun Kim*
+    
 *   **University of Wisconsin–Madison** (UW-Madison), WI, USA  
-    <div style="text-align:left;">Ph.D. in Electrical and Computer Engineering<div style="float:right;">Sep 2021 – Present</div></div>
     <div style="text-align:left;">M.S. in Electrical and Computer Engineering<div style="float:right;">Sep 2021 – Jun 2023</div></div>
     *Advisor: Prof. Younghyun Kim*
 
