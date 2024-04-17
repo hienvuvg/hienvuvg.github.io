@@ -7,13 +7,12 @@ redirect_from:
   - /dairycattle_dataset
 ---
 
-[Download](https://github.com/hienvuvg/dairycattle_dataset)
-
 Overview
 ------
 
 *   Illustration
 
+[Download](https://github.com/hienvuvg/dairycattle_dataset)
 
 Sensors
 ------
