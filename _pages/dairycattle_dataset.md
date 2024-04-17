@@ -7,8 +7,7 @@ redirect_from:
   - /dairycattle_dataset
 ---
 
-## DairyCows2024 : A Multimodal Multi-view Dataset for
-## Behavior Monitoring and Identification of Dairy Cattle
+## DairyCows2024 : A Multimodal Multi-view Dataset for Behavior Monitoring and Identification of Dairy Cattle
 
 Overview
 ------
