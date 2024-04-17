@@ -8,3 +8,25 @@ redirect_from:
 ---
 
 [Download](https://github.com/hienvuvg/dairycattle_dataset)
+
+Overview
+------
+
+*   Illustration
+
+
+Sensors
+------
+Text
+
+Data Processing Flow
+------
+Text
+
+Barn Environment
+------
+Text
+
+Other Information
+------
+Text
