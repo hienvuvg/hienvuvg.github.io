@@ -12,7 +12,7 @@ Overview
 
 *   Illustration
 
-[Download](https://github.com/hienvuvg/dairycattle_dataset)
+[Download Data and Code](https://github.com/hienvuvg/dairycattle_dataset)
 
 Sensors
 ------
