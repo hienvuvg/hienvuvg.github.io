@@ -1,5 +1,5 @@
 ---
-layout: compress
+layout: archive-taxonomy
 title: "DairyCows2024"
 permalink: /dairycattle_dataset/
 author_profile: false
