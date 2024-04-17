@@ -1,7 +1,7 @@
 ---
 layout: temp
 title: "DairyCows2024"
-permalink: /non-menu-page/
+permalink: /dairycattle_dataset/
 author_profile: false
 redirect_from:
   - /dairycattle_dataset
