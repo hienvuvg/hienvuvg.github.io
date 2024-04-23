@@ -19,7 +19,7 @@ About
 Prior to joining my Ph.D. program, I was with the Energy-Aware Computing Lab at Soongsil University, South Korea, where my research focused on advanced energy management systems.  At Purdue University, I have been actively engaging in research on low-power embedded computing and sensing systems. Currently, I am investigating the viability of various non-contact sensing and wireless communication techniques in improving the sustainability of dairy farming. I am also interested in improving battery-less sensor networks in various aspects, where different hardware/software optimization techniques can be leveraged to make sensing, in-device computation, and communication more effective.
 
 
-Education
+<!--Education
 ------
 *   **Purdue University**, IN, USA  
     <div style="text-align:left;">Ph.D. in Electrical and Computer Engineering<div style="float:right;">Sep 2023 – Present</div></div>
@@ -88,7 +88,7 @@ Honors & Awards
 \[[Link](https://ieeexplore.ieee.org/document/8465717)\] \[[PDF](https://hienvuvg.github.io/files/ICCE18.pdf)\] -->
 
 
-
+<!--
 Featured Projects
 ------
 
@@ -98,16 +98,16 @@ Featured Projects
 4.  **Optimization for Power Loss Protection in Solid State Drives:** Implemented a high-speed design for a customized storage device that consists of an FPGA as a controller and 512GB of 16 SLC-NAND flash ICs while ensuring signal integrity and propagation delay. Developed a dynamic voltage-scaling power backup system to extend the lifespan of capacitors in SSDs.
 5.  **Visual-SLAM and IMU sensor fusion for AR-VR applications:** Implemented Extended Kalman Filter on a RISC-V MCU that processes data from a 9-DOF Inertial Measurement Unit (IMU), which is combined with Parallel Tracking and Mapping (PTAM) for pose tracking in AR applications.
 
-
-Mentoring
+-->
+<!--Mentoring
 ------
 <!-- **Undergrad Students**
 * <div style="text-align:left;">Devansh Agrawal <div style="float:right;">Spring 2023</div></div>
 
 * <div style="text-align:left;">Lujain Al Jumah<div style="float:right;">Fall 2022</div></div> -->
 
-**Teaching Assistant**
+<!--**Teaching Assistant**
 
 * <div style="text-align:left;">ECE 315 Introduction to Microprocessor Lab, UW–Madison <div style="float:right;"> Fall 2021 & Spring 2022 </div></div>
 
-* <div style="text-align:left;">ECE 210 Introduction in Electrical Engineering, UW–Madison <div style="float:right;"> Fall 2021 </div></div>
+* <div style="text-align:left;">ECE 210 Introduction in Electrical Engineering, UW–Madison <div style="float:right;"> Fall 2021 </div></div>-->
