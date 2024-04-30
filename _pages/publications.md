@@ -15,7 +15,7 @@ author_profile: false
       <p>Hanwook Chung, <strong>Hien Vu</strong>, Younghyun Kim, and Christopher Choi 
       <br /> Biosystems Engineering 2023 
       <a href="https://doi.org/10.1016/j.biosystemseng.2023.10.001"><i class="fas fa-fw fa-link zoom" style="color:crimson" aria-hidden="true"></i></a> 
-      <a href="/files/BiosystemsEngineering23.pdf"><i class="fas fa-fw fa-file-pdf-o zoom" style="color:crimson" aria-hidden="true"></i></a>
+      <a href="https://www.dropbox.com/scl/fi/bzo64v2sgx4636b1y4cy0/BiosystemsEngineering23.pdf?rlkey=suqlbryxsiq9ffx7xlndlhn79&dl=1"><i class="fas fa-fw fa-file-pdf-o zoom" style="color:crimson" aria-hidden="true"></i></a>
       </p><p class="archive__item-excerpt" itemprop="description"></p>
     </article>
 </div>
@@ -27,8 +27,8 @@ author_profile: false
       <p><strong>Hien Vu</strong>, Hanwook Chung, Christopher Choi, and Younghyun Kim 
       <br /> ACM MobiCom 2023 -- Acceptance rate 24% (92 papers accepted out of 377 submitted) 
       <a href="https://dl.acm.org/doi/10.1145/3570361.3613262"><i class="fas fa-fw fa-link zoom" style="color:crimson" aria-hidden="true"></i></a> 
-      <a href="/files/MobiCom23.pdf"><i class="fas fa-fw fa-file-pdf-o zoom" style="color:crimson" aria-hidden="true"></i></a>
-      <a target="_blank" rel="noopener noreferrer" href="https://drive.google.com/drive/folders/1_LsDmNXU9k3Lfi257sbmy3_jWMtwXUDQ?usp=drive_link"><i class="fa fa-file-powerpoint-o zoom" style="color:crimson" aria-hidden="true"></i></a>
+      <a href="https://www.dropbox.com/scl/fi/u3yf3z5c5z2ogj0otzvlh/MobiCom23.pdf?rlkey=tadvmqk7tgmmq2fmtlvgmvt2s&dl=1"><i class="fas fa-fw fa-file-pdf-o zoom" style="color:crimson" aria-hidden="true"></i></a>
+      <a target="_blank" rel="noopener noreferrer" href="https://www.dropbox.com/scl/fo/f5gdgto2hhve1o1640eoi/AP4o-ZFN95jpjE65LvuLLLc?rlkey=qdwfuu2wbnz1fyqw66nadlu9f&dl=0"><i class="fa fa-file-powerpoint-o zoom" style="color:crimson" aria-hidden="true"></i></a>
       </p><p class="archive__item-excerpt" itemprop="description"></p>
     </article>
 </div>
@@ -40,7 +40,7 @@ author_profile: false
       <p><strong>Hien Vu</strong> and Donghwa Shin 
       <br /> Journal of Energy Storage 2023
       <a href="https://www.sciencedirect.com/science/article/pii/S2352152X22025087?dgcid=author"><i class="fas fa-fw fa-link zoom" style="color:crimson" aria-hidden="true"></i></a> 
-      <a href="/files/PostHeating23.pdf"><i class="fas fa-fw fa-file-pdf-o zoom" style="color:crimson" aria-hidden="true"></i></a>
+      <a href="https://www.dropbox.com/scl/fi/kjhqefb1laz0h1y8txrsi/PostHeating23.pdf?rlkey=leazy4vbnp7ljk88vvnotp41q&dl=1"><i class="fas fa-fw fa-file-pdf-o zoom" style="color:crimson" aria-hidden="true"></i></a>
       </p><p class="archive__item-excerpt" itemprop="description"></p>
     </article>
 </div>
@@ -53,7 +53,7 @@ author_profile: false
       <p>NA Nguyen, <strong>H Vu</strong>, M Pedram, and D Shin
       <br /> IEEE Design & Test 2022
       <a href="https://ieeexplore.ieee.org/document/9781313"><i class="fas fa-fw fa-link zoom" style="color:crimson" aria-hidden="true"></i></a> 
-      <a href="/files/DesignTest22.pdf"><i class="fas fa-fw fa-file-pdf-o zoom" style="color:crimson" aria-hidden="true"></i></a>
+      <a href="https://www.dropbox.com/scl/fi/e42y07o0tkmqw0n0k5g05/DesignTest22.pdf?rlkey=501d2us1dhv1zxigodxcxz9vx&dl=1"><i class="fas fa-fw fa-file-pdf-o zoom" style="color:crimson" aria-hidden="true"></i></a>
       </p><p class="archive__item-excerpt" itemprop="description"></p>
     </article>
 </div>
@@ -66,7 +66,7 @@ author_profile: false
       <p><strong>Hien Vu</strong> and Donghwa Shin 
       <br /> Energies MDPI 2020
       <a href="https://www.mdpi.com/1996-1073/13/9/2212"><i class="fas fa-fw fa-link zoom" style="color:crimson" aria-hidden="true"></i></a> 
-      <a href="/files/EnergiesMDPI20.pdf"><i class="fas fa-fw fa-file-pdf-o zoom" style="color:crimson" aria-hidden="true"></i></a>
+      <a href="https://www.dropbox.com/scl/fi/8j5z20hqb0hktwez0y7qa/EnergiesMDPI20.pdf?rlkey=sarfchk9rmpiqit4yvjhrvvoq&dl=1"><i class="fas fa-fw fa-file-pdf-o zoom" style="color:crimson" aria-hidden="true"></i></a>
       </p><p class="archive__item-excerpt" itemprop="description"></p>
     </article>
 </div>
@@ -79,7 +79,7 @@ author_profile: false
       <p><strong>Hien Vu</strong>, Nhan Tran, Loan Pham-Nguyen, and Huy-Dung Han
       <br /> IEEE ICCE 2018
       <a href="https://ieeexplore.ieee.org/document/8465717"><i class="fas fa-fw fa-link zoom" style="color:crimson" aria-hidden="true"></i></a> 
-      <a href="/files/ICCE18.pdf"><i class="fas fa-fw fa-file-pdf-o zoom" style="color:crimson" aria-hidden="true"></i></a>
+      <a href="https://www.dropbox.com/scl/fi/9mo51dyjweuxpwpmbknub/ICCE18.pdf?rlkey=wq24t3b0f2wf6nn2pkbahjel5&dl=1"><i class="fas fa-fw fa-file-pdf-o zoom" style="color:crimson" aria-hidden="true"></i></a>
       </p><p class="archive__item-excerpt" itemprop="description"></p>
     </article>
 </div>
