@@ -7,7 +7,7 @@ redirect_from:
   - /projects
 ---
 
-**[DairyCows2024 Dataset](https://hienvuvg.github.io/dairycattle_dataset)**
+**[MmCows Dataset](https://hienvuvg.github.io/mmcows)**
 
 **[Spartan SSD](https://sites.google.com/view/hienvv/projects/spartan-ssd)**
 
