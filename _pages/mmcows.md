@@ -1,13 +1,13 @@
 ---
 layout: temp
-title: "DairyCows2024"
-permalink: /dairycattle_dataset/
+title: "MmCows"
+permalink: /mmcows/
 author_profile: false
 redirect_from:
-  - /dairycattle_dataset
+  - /mmcows
 ---
 
-## DairyCows2024 : A Multimodal Multi-view Dataset for Behavior Monitoring and Identification of Dairy Cattle
+## MmCows : A Multimodal Dataset for Dairy Cattle Monitoring
 
 Overview
 ------
