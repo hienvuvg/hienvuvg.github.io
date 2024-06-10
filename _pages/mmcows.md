@@ -26,7 +26,10 @@ Text
 
 Barn Environment
 ------
-Text
+pen size 20x12 m
+
+anchor locations in [x,y,z]:
+
 
 Other Information
 ------
