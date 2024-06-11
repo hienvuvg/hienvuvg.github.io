@@ -16,6 +16,10 @@ Overview
 
 [Download Data and Code](https://github.com/hienvuvg/dairycattle_dataset)
 
+<video width="320" height="240" controls autoplay loop>
+  <source src="movie.mp4" type="files/mmcows_vision_demo.mov">
+</video>
+
 Sensors
 ------
 Text
