@@ -23,7 +23,9 @@ Overview
 Sensors
 ------
 
-<img src="https://hienvuvg.github.io/files/media/cow_w_tag.pdf" style="max-width:100%; height:auto;" />
+<img src="https://hienvuvg.github.io/files/media/cow_w_sensors.pdf" style="width:80%; height:auto;" />
+
+<img src="https://hienvuvg.github.io/files/media/cow_w_tag.pdf" style="width:80%; height:auto;" />
 
 Data Processing Flow
 ------
@@ -31,6 +33,9 @@ Text
 
 Barn Environment
 ------
+
+<img src="https://hienvuvg.github.io/files/media/topview_pen_map.pdf" style="width:80%; height:auto;" />
+
 pen size 20x12 m
 
 anchor locations in [x,y,z]:
