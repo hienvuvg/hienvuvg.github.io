@@ -31,7 +31,7 @@ Data Processing Flow
 ------
 Text
 
-<img src="https://hienvuvg.github.io/files/media/processing_pipeline.pdf" style="width:80%; height:auto;" />
+<img src="https://hienvuvg.github.io/files/media/processing_pipeline.pdf" style="width:60%; height:auto;" />
 
 Barn Environment
 ------
