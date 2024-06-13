@@ -25,11 +25,13 @@ Sensors
 
 <img src="https://hienvuvg.github.io/files/media/cow_w_sensors.pdf" style="width:80%; height:auto;" />
 
-<img src="https://hienvuvg.github.io/files/media/cow_w_tag.pdf" style="width:80%; height:auto;" />
+
 
 Data Processing Flow
 ------
 Text
+
+<img src="https://hienvuvg.github.io/files/media/processing_pipeline.pdf" style="width:80%; height:auto;" />
 
 Barn Environment
 ------
