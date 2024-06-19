@@ -61,7 +61,7 @@ Data Processing Flow
 Text
 
 <p align="center">
-<img src="https://hienvuvg.github.io/files/media/processing_pipeline.png" style="width:60%; height:auto;" />
+<img src="https://hienvuvg.github.io/files/media/processing_pipeline.png" style="width:50%; height:auto;" />
 <p align="center">
 <br />
 
