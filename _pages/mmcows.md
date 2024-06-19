@@ -41,10 +41,9 @@ Isometric-view cameras provide ground truth as well as a non-invasive approach t
 Barn Environment
 ------
 
-<p align="center">
+<div align="center">
 <img src="https://hienvuvg.github.io/files/media/topview_pen_map.png" style="width:80%; height:auto;" />
-<p align="center">
-<br />
+</div>
 
 pen size 20x12 m
 
