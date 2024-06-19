@@ -26,6 +26,7 @@ Applications of MmCows spanning from behavior monitoring, dietary management, he
   <source src="https://hienvuvg.github.io/files/media/mmcows_vision_demo.mp4" type="video/mp4">
 </video>
 <p align="center">
+<br />
 
 Sensors
 ------
@@ -33,6 +34,7 @@ Sensors
 <p align="center">
 <img src="https://hienvuvg.github.io/files/media/cow_w_sensors.png" style="width:80%; height:auto;" />
 <p align="center">
+<br />
 
 Z wearable and implantable sensors that are used to collect 3D location and head direction, lying behavior, and core body temperature.
 
@@ -44,6 +46,7 @@ Barn Environment
 <p align="center">
 <img src="https://hienvuvg.github.io/files/media/topview_pen_map.png" style="width:80%; height:auto;" />
 <p align="center">
+<br />
 
 pen size 20x12 m
 
@@ -60,6 +63,7 @@ Text
 <p align="center">
 <img src="https://hienvuvg.github.io/files/media/processing_pipeline.png" style="width:60%; height:auto;" />
 <p align="center">
+<br />
 
 Uwb localization: including both measured data from an indoor uwb positioning system using two-way ranging, and 3D locations computed from the measured data using an optimization-based  localization algorithm.
 
