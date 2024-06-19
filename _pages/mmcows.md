@@ -21,20 +21,18 @@ Applications of MmCows spanning from behavior monitoring, dietary management, he
 
 [Download Data and Code](https://github.com/hienvuvg/dairycattle_dataset)
 
-<p align="center">
+<div align="center">
 <video width="720" controls autoplay loop>
   <source src="https://hienvuvg.github.io/files/media/mmcows_vision_demo.mp4" type="video/mp4">
 </video>
-<p align="center">
-<br />
+</div>
 
 Sensors
 ------
 
-<p align="center">
+<div align="center">
 <img src="https://hienvuvg.github.io/files/media/cow_w_sensors.png" style="width:80%; height:auto;" />
-<p align="center">
-<br />
+</div>
 
 Z wearable and implantable sensors that are used to collect 3D location and head direction, lying behavior, and core body temperature.
 
@@ -60,10 +58,9 @@ Data Processing Flow
 ------
 Text
 
-<p align="center">
+<div align="center">
 <img src="https://hienvuvg.github.io/files/media/processing_pipeline.png" style="width:50%; height:auto;" />
-<p align="center">
-<br />
+</div>
 
 Uwb localization: including both measured data from an indoor uwb positioning system using two-way ranging, and 3D locations computed from the measured data using an optimization-based  localization algorithm.
 
