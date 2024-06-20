@@ -58,7 +58,7 @@ Data Processing Flow
 Text
 
 <div align="center">
-<img src="https://hienvuvg.github.io/files/media/processing_pipeline.png" style="width:50%; height:auto;" />
+<img src="https://hienvuvg.github.io/files/media/processing_pipeline.png" style="width:54%; height:auto;" />
 </div>
 
 Uwb localization: including both measured data from an indoor uwb positioning system using two-way ranging, and 3D locations computed from the measured data using an optimization-based  localization algorithm.
