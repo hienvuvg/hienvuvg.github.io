@@ -134,7 +134,7 @@ Cow routine: milking, feeding, standing, bunching
 Cow ID and behavior with visual examples
 
 <div align="center">
-<img src="https://hienvuvg.github.io/files/media/behavior_examples.jpg" style="width:73%; height:auto;" />
+<img src="https://hienvuvg.github.io/files/media/behavior_examples.jpg" style="width:73%; height:auto; margin-bottom:15px;" />
 </div>
 
 [Annotation rules](https://docs.google.com/document/d/1NAfwlkVOnybEZPSC2KwAE4i7GHH12huKUijDDizSxiI/edit?usp=sharing)
@@ -149,7 +149,7 @@ Cow ID and behavior with visual examples
 Text
 
 <div align="center">
-<img src="https://hienvuvg.github.io/files/media/processing_pipeline.png" style="width:54%; height:auto;" />
+<img src="https://hienvuvg.github.io/files/media/processing_pipeline.png" style="width:54%; height:auto; margin-bottom:15px;" />
 </div>
 
 Uwb localization: including both measured data from an indoor uwb positioning system using two-way ranging, and 3D locations computed from the measured data using an optimization-based  localization algorithm.
