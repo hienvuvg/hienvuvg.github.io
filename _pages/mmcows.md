@@ -75,7 +75,7 @@ MmCows consists of data from 16 dairy cows collected during a 14-day real-world 
 The primary group includes 3D UWB location, cows' neck IMMU acceleration, air pressure, cows' CBT, ankle lying behavior, RGB images, indoor THI, outdoor weather, and milk yield. 
 The secondary group contains measured UWB distances, cows' head direction, ankle acceleration, and health records.
 
-MmCows also contains a comprehensive set of isometric-view visual data with 20,000 annotated images from multiple camera views in one day.
+This dataset also contains 20,000 annotated isometric-view images from multiple camera views in one day.
 All 16 cows with their ID and behavior are labeled as the ground truth, which was used to derive their 3D body location ground truth.
 
 <!--<p align="center">
