@@ -15,9 +15,9 @@ redirect_from:
   
   <div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
   	
-  	<a href="#ground_truth" style="text-decoration: none;">
-    <button style="padding: 10px 10px; background-color: #4CAF50; color: white; border: none; cursor: pointer; font-size: 15px;">Download Data and Code</button>
-    </a>
+  	<a href="https://github.com/hienvuvg/dairycattle_dataset" target="_blank" style="text-decoration: none;">
+  	<button style="padding: 10px 10px; background-color: #4CAF50; color: white; border: none; cursor: pointer; font-size: 15px;">Download Data and Code</button>
+	</a>
     
     <a href="#ground_truth" style="text-decoration: none;">
     <button style="padding: 10px 10px; background-color: #008CBA; color: white; border: none; cursor: pointer; font-size: 15px;">The Sensors</button>
