@@ -75,7 +75,8 @@ The dataset consists of data from 16 dairy cows collected during a 14-day real-w
 The primary group includes 3D UWB location, cows' neck IMMU acceleration, air pressure, cows' CBT, ankle lying behavior, multi-view RGB images, indoor THI, outdoor weather, and milk yield. 
 The secondary group contains measured UWB distances, cows' head direction, ankle acceleration, and health records.
 
-MmCows also contains 20,000 isometric-view images from multiple camera views in one day that are annotated with cows' ID and their behavior as the ground truth, which were also used to derive their 3D body location ground truth.
+MmCows also contains 20,000 isometric-view images from multiple camera views in one day that are annotated with cows' ID and their behavior as the ground truth.
+The annotated cow IDs from multi-views are used to derive their 3D body location ground truth.
 
 <!--<p align="center">
   <a href="https://github.com/hienvuvg/dairycattle_dataset">Download Data and Code</a>
