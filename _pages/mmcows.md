@@ -10,12 +10,12 @@ redirect_from:
 
 <!--<h2 style="font-size: 2em; text-align: center;">MmCows: A Multimodal Dataset for Dairy Cattle Monitoring</h2>-->
 
-<p style="font-size: 2em; text-align: center;"><strong>MmCows:A Multimodal Dataset for Dairy Cattle Monitoring</strong></p>
+<p style="font-size: 25px; text-align: center;"><strong>MmCows:A Multimodal Dataset for Dairy Cattle Monitoring</strong></p>
 
 <br />
 
 <!--#################################################-->
-<hr style="border: none; border-top: 1px solid #000; margin-bottom: 0px;">
+<hr style="border: 1px; border-top: none; margin-bottom: 0px;">
 <p style="font-size: 2em; text-align: center; margin-top: 0;"><strong>Overview</strong></p>
 
 
@@ -39,10 +39,10 @@ Applications of MmCows spanning from behavior monitoring, dietary management, he
 
 <!--#################################################-->
 <hr>
-<p style="font-size: 2em; text-align: center;"><strong>Data Acquisition</strong></p>
+<!--<p style="font-size: 25px; text-align: center;"><strong>Data Acquisition</strong></p>-->
 
 <div style="text-align:center;">
-    <p style="font-weight:bold; font-size:18px; margin-top:0; margin-bottom:5px;">The Sensors</p>
+    <p style="font-weight:bold; font-size:25px; margin-top:0; margin-bottom:5px;">The Sensors</p>
     <img src="https://hienvuvg.github.io/files/media/cow_w_sensors.png" style="width:80%; height:auto; vertical-align: middle;" />
 </div>
 
@@ -53,7 +53,7 @@ Isometric-view cameras provide ground truth as well as a non-invasive approach t
 <br />
 
 <div style="text-align:center;">
-    <p style="font-weight:bold; font-size:18px; margin-top:0; margin-bottom:5px;">The Barn Setup</p>
+    <p style="font-weight:bold; font-size:25px; margin-top:0; margin-bottom:5px;">The Barn Setup</p>
     <img src="https://hienvuvg.github.io/files/media/topview_pen_map.png" style="width:80%; height:auto; vertical-align: middle;" />
 </div>
 
@@ -73,7 +73,7 @@ Cow routine: milking, feeding, standing, bunching
 
 <!--#################################################-->
 <hr>
-<p style="font-size: 2em; text-align: center;"><strong>Ground Truth</strong></p>
+<p style="font-size: 25px; text-align: center;"><strong>Ground Truth</strong></p>
 
 Cow ID and behavior with visual examples
 
@@ -85,7 +85,7 @@ Cow ID and behavior with visual examples
 
 <!--#################################################-->
 <hr>
-<p style="font-size: 2em; text-align: center;"><strong>Data Processing Flow</strong></p>
+<p style="font-size: 25px; text-align: center;"><strong>Data Processing Flow</strong></p>
 
 Text
 
@@ -123,7 +123,7 @@ Visual localization
 
 <!--#################################################-->
 <hr>
-<p style="font-size: 2em; text-align: center;"><strong>Other Information</strong></p>
+<p style="font-size: 25px; text-align: center;"><strong>Other Information</strong></p>
 
 
 One application that we used to showcase the benefits of MmCows is behavior monitoring. Details of benchmarking MmCows for behavior monitoring using various modalities and their combinations are provided in this paper.
