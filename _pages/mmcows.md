@@ -114,22 +114,22 @@ Contact us:
 <div style="display: flex;">
     <div style="flex: 1;"></div> <!-- Empty column -->
     <div style="flex: 1;">
-        [Hien Vu](https://hienvuvg.github.io)
-        Omkar Prabhune
-        Unmesh Raskar
-        Dimuth Panditharatne
-        [Hanwook Chung](https://www.engineering.iastate.edu/people/profile/hwchung/)
-        [Christopher Y. Choi](https://bse.wisc.edu/staff/choi-christopher/)
-        [Younghyun Kim](https://engineering.purdue.edu/ECE/People/Faculty/ptProfile?resource_id=293362)
+        [Hien Vu](https://hienvuvg.github.io)<br>
+        Omkar Prabhune<br>
+        Unmesh Raskar<br>
+        Dimuth Panditharatne<br>
+        [Hanwook Chung](https://www.engineering.iastate.edu/people/profile/hwchung/)<br>
+        [Christopher Y. Choi](https://bse.wisc.edu/staff/choi-christopher/)<br>
+        [Younghyun Kim](https://engineering.purdue.edu/ECE/People/Faculty/ptProfile?resource_id=293362)<br>
     </div>
     <div style="flex: 1;">
-        hienvu@purdue.edu
-        oprabhun@purdue.edu
-        uraskar@wisc.edu
-        panditharatn@wisc.edu
-        hwchung@iastate.edu
-        cchoi22@wisc.edu
-        younghyun@purdue.edu
+        hienvu@purdue.edu<br>
+        oprabhun@purdue.edu<br>
+        uraskar@wisc.edu<br>
+        panditharatn@wisc.edu<br>
+        hwchung@iastate.edu<br>
+        cchoi22@wisc.edu<br>
+        younghyun@purdue.edu<br>
     </div>
     <div style="flex: 1;"></div> <!-- Empty column -->
 </div>
