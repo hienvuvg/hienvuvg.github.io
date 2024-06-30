@@ -10,7 +10,7 @@ redirect_from:
 
 <!--<p style="font-size: 25px; text-align: center;"><strong>MmCows: A Multimodal Dataset for Dairy Cattle Monitoring</strong></p>-->
 
-<div style="background-color: #f0f0f0; padding: 30px;">
+<!--<div style="background-color: #f0f0f0; padding: 30px;">
   <p style="font-size: 30px; text-align: center;"><strong>MmCows: A Multimodal Dataset for Dairy Cattle Monitoring</strong></p>
   
   <div style="display: flex; justify-content: center; gap: 20px; margin-top: 30px;">
@@ -33,6 +33,33 @@ redirect_from:
     
     <a href="#usage" style="text-decoration: none;">
     <button style="padding: 8px 10px; background-color: #4CAF50; color: white; border: none; cursor: pointer; font-size: 15px;">Citation and Usage</button>
+    </a>
+  </div>
+</div>-->
+
+<div style="background-color: #f0f0f0; padding: 30px;">
+  <p style="font-size: 30px; text-align: center;"><strong>MmCows: A Multimodal Dataset for Dairy Cattle Monitoring</strong></p>
+  
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 30px;">
+  	
+  	<a href="https://github.com/hienvuvg/dairycattle_dataset" target="_blank" style="text-decoration: none;">
+  	<button style="padding: 8px 10px; background-color: #f44336; color: white; border: none; cursor: pointer; font-size: 18px;">Download Data and Code</button>
+	</a>
+    
+    <a href="#sensors" style="text-decoration: none;">
+    <button style="padding: 8px 10px; background-color: #008CBA; color: white; border: none; cursor: pointer; font-size: 18px;">The Sensors</button>
+    </a>
+    
+    <a href="#ground_truth" style="text-decoration: none;">
+    <button style="padding: 8px 10px; background-color: #008CBA; color: white; border: none; cursor: pointer; font-size: 18px;">Ground Truth</button>
+    </a>
+    
+    <a href="#processing" style="text-decoration: none;">
+    <button style="padding: 8px 10px; background-color: #008CBA; color: white; border: none; cursor: pointer; font-size: 18px;">Data Processing</button>
+    </a>
+    
+    <a href="#usage" style="text-decoration: none;">
+    <button style="padding: 8px 10px; background-color: #4CAF50; color: white; border: none; cursor: pointer; font-size: 18px;">Citation and Usage</button>
     </a>
   </div>
 </div>
