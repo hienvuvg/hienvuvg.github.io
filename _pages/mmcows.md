@@ -45,8 +45,8 @@ redirect_from:
 MmCows is a large-scale multimodal dataset for behavior monitoring, visual cow identification, multi-view multi-cow visual localization, health management, and dietary management of dairy cattle.
 
 The dataset consists of data from 16 dairy cows collected during a 14-day real-world deployment, divided into two modality groups.
-The primary group includes 3D UWB location, cows' neck IMMU acceleration, air pressure, cows' CBT, ankle lying behavior, multi-view RGB images, indoor THI, outdoor weather, and milk yield. 
-The secondary group contains measured UWB distances, cows' head direction, ankle acceleration, and health records.
+The primary group includes 3D UWB location, cows' neck IMMU acceleration, air pressure, cows' CBT, ankle acceleration, multi-view RGB images, indoor THI, outdoor weather, and milk yield. 
+The secondary group contains measured UWB distances, cows' head direction, lying behavior, and health records.
 
 MmCows also contains 20,000 isometric-view images from multiple camera views in one day that are annotated with cows' ID and their behavior as the ground truth.
 The annotated cow IDs from multi-views are used to derive their 3D body location ground truth.
@@ -117,8 +117,6 @@ Details of [the annotation rules](https://docs.google.com/document/d/1NAfwlkVOny
 <hr style="border: 1px; border-top: none; margin-bottom: 5px;">
 <p style="font-size: 25px; text-align: center; margin-top: 0;"><strong>Data Processing Flow</strong></p>
 
-Text
-
 <div align="center">
 <img src="https://hienvuvg.github.io/files/media/processing_pipeline.png" style="width:54%; height:auto; margin-bottom:15px;" />
 </div>
@@ -147,9 +145,6 @@ Visual localization
         <div>Visual localization for multiple cows</div>
     </div>
 </div>
-
-
-
 
 
 <br />
