@@ -98,15 +98,14 @@ The annotated cow IDs from multi-views are used to derive their 3D body location
 
 <div style="text-align:center;">
     <p style="font-weight:bold; font-size:25px; margin-top:5px; margin-bottom:0px;">The Sensors</p>
-    <img src="https://hienvuvg.github.io/files/media/cow_w_sensors.png" style="width:80%; height:auto; vertical-align: middle; margin-bottom:5px;" />
+    <img src="https://hienvuvg.github.io/files/media/cow_w_sensors.png" style="width:80%; height:auto; vertical-align: middle; margin-bottom:15px;" />
 </div>
 
 The sensor suite consists of a neck-mounted collar tag, a vaginal temperature logger, and an ankle accelerometer for each of 10 cows, as well as four stationary cameras and six environmental sensors.
-The neck tag records distance from the cow to eight stationary UWB anchors, the acceleration and magnetic field, and the ambient air pressure.
-The temprature logger is used to provide the core body temperature, while the ankle accelerometer provides references for the lying behavior of the cow.
+The neck tag records distances from the cow to eight stationary UWB anchors, the acceleration and magnetic field, and the ambient air pressure.
+The temprature logger is used to measure the core body temperature, while the ankle accelerometer records the leg direction of the cow.
 
-The cameras provides visual data for identification, localization, and ground truth labeling.
-The environmental sensors provides references for indoor ambient conditions.
+The cameras provide visual data for identification, localization, and ground truth labeling of all 16 cows, while the environmental sensors measure indoor ambient conditions.
 Additional data such as outdoor weather is recorded by a nearby weather station, and milk weight is logged by the barn staff.
 All sensors are synchronized to the internet time.
 
@@ -114,7 +113,7 @@ All sensors are synchronized to the internet time.
 
 <div style="text-align:center;">
     <p style="font-weight:bold; font-size:25px; margin-top: 5px; margin-bottom:0px;">The Barn Setup</p>
-    <img src="https://hienvuvg.github.io/files/media/topview_pen_map.png" style="width:80%; height:auto; vertical-align: middle; margin-bottom:5px;" />
+    <img src="https://hienvuvg.github.io/files/media/topview_pen_map.png" style="width:80%; height:auto; vertical-align: middle; margin-bottom:15px;" />
 </div>
 
 The cows are housed in a pen with the size of 20x12 m
