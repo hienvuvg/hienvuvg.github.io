@@ -88,8 +88,8 @@ All sensors are synchronized to the internet time.
     <img src="https://hienvuvg.github.io/files/media/topview_pen_map.png" style="width:80%; height:auto; vertical-align: middle; margin-bottom:15px;" />
 </div>
 
-The cows are housed in a 20x12m pen, where they only leave for milking twice daily for approximately 30 min each time.
-Eight stationary UWB anchors are installed around the pen that work with the neck tags to provide the 3D location of the cows.
+The cows are housed in a 20x12m pen where they only leave for milking twice daily for approximately 30 min each time.
+Eight stationary UWB anchors are installed around the pen that work with the neck tags to provide 3D locations of the cows.
 Four high-resolution cameras are mounted at four corners of the pen to capture isometric-view images of the cows.
 
 
@@ -100,13 +100,15 @@ Four high-resolution cameras are mounted at four corners of the pen to capture i
 <hr style="border: 1px; border-top: none; margin-bottom: 5px;">
 <p style="font-size: 25px; text-align: center; margin-top: 0;"><strong>Ground Truth</strong></p>
 
-Cow ID and behavior with visual examples
-
 <div align="center">
 <img src="https://hienvuvg.github.io/files/media/behavior_examples.jpg" style="width:73%; height:auto; margin-bottom:15px;" />
 </div>
 
-[Annotation rules](https://docs.google.com/document/d/1NAfwlkVOnybEZPSC2KwAE4i7GHH12huKUijDDizSxiI/edit?usp=sharing)
+The ground truth of MmCows comprises visual cow IDs and behavior labels.
+Out of 4.8M image frames, 20k UWB-synced frames from all four cameras in one day are selected for cow ID annotation.
+The ID-annotated labels are used to obtain the 3D body location ground truth of the cows using an optimization-based visual localization algorithm. 
+We also defined and annotated seven behaviors of all 16 cows at the granularity of one second during the chosen day.
+Details of [the annotation rules](https://docs.google.com/document/d/1NAfwlkVOnybEZPSC2KwAE4i7GHH12huKUijDDizSxiI/edit?usp=sharing) are also provided.
 
 <br />
 
