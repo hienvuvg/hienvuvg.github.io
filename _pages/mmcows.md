@@ -117,9 +117,13 @@ Details of [the annotation rules](https://docs.google.com/document/d/1NAfwlkVOny
 <hr style="border: 1px; border-top: none; margin-bottom: 5px;">
 <p style="font-size: 25px; text-align: center; margin-top: 0;"><strong>Data Processing Flow</strong></p>
 
+Some of the measured parameters are processed to derive more meaningful parameters that indicate behaviors of the cows.
+
 <div align="center">
 <img src="https://hienvuvg.github.io/files/media/processing_pipeline.png" style="width:54%; height:auto; margin-bottom:15px;" />
 </div>
+
+
 
 Uwb localization: including both measured data from an indoor uwb positioning system using two-way ranging, and 3D locations computed from the measured data using an optimization-based  localization algorithm.
 
