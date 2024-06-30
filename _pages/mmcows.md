@@ -28,6 +28,8 @@ Applications of MmCows spanning from behavior monitoring, dietary management, he
 </video>
 </div>
 
+<br />
+
 Sensors
 ------
 
@@ -38,6 +40,18 @@ Sensors
 Z wearable and implantable sensors that are used to collect 3D location and head direction, lying behavior, and core body temperature.
 
 Isometric-view cameras provide ground truth as well as a non-invasive approach to behavior monitoring using computer vision.
+
+<br />
+
+Ground Truth
+------
+Cow ID and behavior with visual examples
+
+<div align="center">
+<img src="https://hienvuvg.github.io/files/media/individual_behaviors.png" style="width:100%; height:auto;" />
+</div>
+
+<br />
 
 Barn Environment
 ------
@@ -53,6 +67,7 @@ anchor locations in [x,y,z]:
 Uwb, camera, indoor sensor setups
 Cow routine: milking, feeding, standing, bunching
 
+<br />
 
 Data Processing Flow
 ------
@@ -88,7 +103,7 @@ Visual localization
 </div>
 
 
-
+<br />
 
 Other Information
 ------
