@@ -162,7 +162,7 @@ Ground truth
 ID and behavior labeling
 Visual localization
 
-<div style="display: flex; justify-content: center; gap: 20px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
     <div style="text-align: center;">
         <video width="480" controls autoplay loop>
             <source src="https://hienvuvg.github.io/files/media/uwb_loc_vid.mp4" type="video/mp4">
@@ -176,6 +176,9 @@ Visual localization
         <div>Visual localization for multiple cows</div>
     </div>
 </div>
+
+
+
 
 
 <br />
