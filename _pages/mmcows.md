@@ -48,7 +48,7 @@ Ground Truth
 Cow ID and behavior with visual examples
 
 <div align="center">
-<img src="https://hienvuvg.github.io/files/media/individual_behaviors.png" style="width:100%; height:auto;" />
+<img src="https://hienvuvg.github.io/files/media/behavior_examples.jpg" style="width:80%; height:auto;" />
 </div>
 
 <br />
