@@ -38,6 +38,10 @@ Data Acquisition
     <img src="https://hienvuvg.github.io/files/media/cow_w_sensors.png" style="width:80%; height:auto; vertical-align: middle;" />
 </div>
 
+Z wearable and implantable sensors that are used to collect 3D location and head direction, lying behavior, and core body temperature.
+
+Isometric-view cameras provide ground truth as well as a non-invasive approach to behavior monitoring using computer vision.
+
 <br />
 
 <div style="text-align:center;">
@@ -56,9 +60,6 @@ anchor locations in [x,y,z]:
 Uwb, camera, indoor sensor setups
 Cow routine: milking, feeding, standing, bunching
 
-Z wearable and implantable sensors that are used to collect 3D location and head direction, lying behavior, and core body temperature.
-
-Isometric-view cameras provide ground truth as well as a non-invasive approach to behavior monitoring using computer vision.
 
 <br />
 
