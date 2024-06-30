@@ -12,6 +12,9 @@ redirect_from:
 
 <p style="font-size: 2em; text-align: center;"><strong>MmCows:A Multimodal Dataset for Dairy Cattle Monitoring</strong></p>
 
+<br />
+
+<!--#################################################-->
 <hr>
 <p style="font-size: 2em; text-align: center;"><strong>Overview</strong></p>
 
@@ -33,8 +36,9 @@ Applications of MmCows spanning from behavior monitoring, dietary management, he
 
 <br />
 
-
-# Data Acquisition
+<!--#################################################-->
+<hr>
+<p style="font-size: 2em; text-align: center;"><strong>Data Acquisition</strong></p>
 
 <div style="text-align:center;">
     <p style="font-weight:bold; font-size:18px; margin-top:0; margin-bottom:5px;">The Sensors</p>
@@ -66,8 +70,9 @@ Cow routine: milking, feeding, standing, bunching
 
 <br />
 
-
-# Ground Truth
+<!--#################################################-->
+<hr>
+<p style="font-size: 2em; text-align: center;"><strong>Ground Truth</strong></p>
 
 Cow ID and behavior with visual examples
 
@@ -77,8 +82,9 @@ Cow ID and behavior with visual examples
 
 <br />
 
-
-# Data Processing Flow
+<!--#################################################-->
+<hr>
+<p style="font-size: 2em; text-align: center;"><strong>Data Processing Flow</strong></p>
 
 Text
 
@@ -114,8 +120,9 @@ Visual localization
 
 <br />
 
-
-# Other Information
+<!--#################################################-->
+<hr>
+<p style="font-size: 2em; text-align: center;"><strong>Other Information</strong></p>
 
 
 One application that we used to showcase the benefits of MmCows is behavior monitoring. Details of benchmarking MmCows for behavior monitoring using various modalities and their combinations are provided in this paper.
