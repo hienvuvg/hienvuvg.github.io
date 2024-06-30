@@ -114,13 +114,13 @@ Contact us:
 <div style="display: flex;">
     <div style="flex: 1;"></div> <!-- Empty column -->
     <div style="flex: 1;">
-        Hien Vu
+        [Hien Vu](https://hienvuvg.github.io)
         Omkar Prabhune
         Unmesh Raskar
         Dimuth Panditharatne
-        Hanwook Chung
-        Christopher Y. Choi
-        Younghyun Kim
+        [Hanwook Chung](https://www.engineering.iastate.edu/people/profile/hwchung/)
+        [Christopher Y. Choi](https://bse.wisc.edu/staff/choi-christopher/)
+        [Younghyun Kim](https://engineering.purdue.edu/ECE/People/Faculty/ptProfile?resource_id=293362)
     </div>
     <div style="flex: 1;">
         hienvu@purdue.edu
