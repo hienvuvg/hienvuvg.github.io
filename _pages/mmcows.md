@@ -15,7 +15,7 @@ redirect_from:
 <br />
 
 <!--#################################################-->
-<hr style="border: 1px; border-top: none; margin-bottom: 0px;">
+<hr style="border: 0.5px; border-top: none; margin-bottom: 0px;">
 <p style="font-size: 25px; text-align: center; margin-top: 0;"><strong>Overview</strong></p>
 
 
@@ -38,7 +38,7 @@ Applications of MmCows spanning from behavior monitoring, dietary management, he
 <br />
 
 <!--#################################################-->
-<hr>
+<hr style="border: 0.5px; border-top: none; margin-bottom: 0px;">
 <!--<p style="font-size: 25px; text-align: center;"><strong>Data Acquisition</strong></p>-->
 
 <div style="text-align:center;">
@@ -72,8 +72,8 @@ Cow routine: milking, feeding, standing, bunching
 <br />
 
 <!--#################################################-->
-<hr>
-<p style="font-size: 25px; text-align: center;"><strong>Ground Truth</strong></p>
+<hr style="border: 0.5px; border-top: none; margin-bottom: 0px;">
+<p style="font-size: 25px; text-align: center; margin-top: 0;"><strong>Ground Truth</strong></p>
 
 Cow ID and behavior with visual examples
 
@@ -84,8 +84,8 @@ Cow ID and behavior with visual examples
 <br />
 
 <!--#################################################-->
-<hr>
-<p style="font-size: 25px; text-align: center;"><strong>Data Processing Flow</strong></p>
+<hr style="border: 0.5px; border-top: none; margin-bottom: 0px;">
+<p style="font-size: 25px; text-align: center; margin-top: 0;"><strong>Data Processing Flow</strong></p>
 
 Text
 
@@ -122,8 +122,8 @@ Visual localization
 <br />
 
 <!--#################################################-->
-<hr>
-<p style="font-size: 25px; text-align: center;"><strong>Other Information</strong></p>
+<hr style="border: 0.5px; border-top: none; margin-bottom: 0px;">
+<p style="font-size: 25px; text-align: center; margin-top: 0;"><strong>Other Information</strong></p>
 
 
 One application that we used to showcase the benefits of MmCows is behavior monitoring. Details of benchmarking MmCows for behavior monitoring using various modalities and their combinations are provided in this paper.
