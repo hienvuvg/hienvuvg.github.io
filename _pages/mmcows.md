@@ -11,28 +11,28 @@ redirect_from:
 <!--<p style="font-size: 25px; text-align: center;"><strong>MmCows: A Multimodal Dataset for Dairy Cattle Monitoring</strong></p>-->
 
 <div style="background-color: #f0f0f0; padding: 20px;">
-  <p style="font-size: 25px; text-align: center;"><strong>MmCows: A Multimodal Dataset for Dairy Cattle Monitoring</strong></p>
+  <p style="font-size: 30px; text-align: center;"><strong>MmCows: A Multimodal Dataset for Dairy Cattle Monitoring</strong></p>
   
   <div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
   	
   	<a href="https://github.com/hienvuvg/dairycattle_dataset" target="_blank" style="text-decoration: none;">
-  	<button style="padding: 10px 10px; background-color: #4CAF50; color: white; border: none; cursor: pointer; font-size: 15px;">Download Data and Code</button>
+  	<button style="padding: 8px 10px; background-color: #f44336; color: white; border: none; cursor: pointer; font-size: 15px;">Download Data and Code</button>
 	</a>
     
     <a href="#sensors" style="text-decoration: none;">
-    <button style="padding: 10px 10px; background-color: #008CBA; color: white; border: none; cursor: pointer; font-size: 15px;">The Sensors</button>
+    <button style="padding: 8px 10px; background-color: #008CBA; color: white; border: none; cursor: pointer; font-size: 15px;">The Sensors</button>
     </a>
     
     <a href="#ground_truth" style="text-decoration: none;">
-    <button style="padding: 10px 10px; background-color: #f44336; color: white; border: none; cursor: pointer; font-size: 15px;">Ground Truth</button>
+    <button style="padding: 8px 10px; background-color: #008CBA; color: white; border: none; cursor: pointer; font-size: 15px;">Ground Truth</button>
     </a>
     
     <a href="#processing" style="text-decoration: none;">
-    <button style="padding: 10px 10px; background-color: #f44336; color: white; border: none; cursor: pointer; font-size: 15px;">Data Processing</button>
+    <button style="padding: 8px 10px; background-color: #008CBA; color: white; border: none; cursor: pointer; font-size: 15px;">Data Processing</button>
     </a>
     
     <a href="#usage" style="text-decoration: none;">
-    <button style="padding: 10px 10px; background-color: #f44336; color: white; border: none; cursor: pointer; font-size: 15px;">Citation and Usage</button>
+    <button style="padding: 8px 10px; background-color: #4CAF50; color: white; border: none; cursor: pointer; font-size: 15px;">Citation and Usage</button>
     </a>
   </div>
 </div>
@@ -58,11 +58,11 @@ Applications of MmCows span from behavior monitoring, health management, and die
 </p>
 
 
-<div align="center">
+<!--<div align="center">
 <video width="720" controls autoplay loop>
   <source src="https://hienvuvg.github.io/files/media/mmcows_vision_demo.mp4" type="video/mp4">
 </video>
-</div>
+</div>-->
 
 <br />
 
@@ -156,7 +156,7 @@ Visual localization
 <a id="usage"></a>
 <!--#################################################-->
 <hr style="border: 1px; border-top: none; margin-bottom: 5px;">
-<p style="font-size: 25px; text-align: center; margin-top: 0;"><strong>Other Information</strong></p>
+<p style="font-size: 25px; text-align: center; margin-top: 0;"><strong>Citation and Usage</strong></p>
 
 
 One application that we used to showcase the benefits of MmCows is behavior monitoring. Details of benchmarking MmCows for behavior monitoring using various modalities and their combinations are provided in this paper.
