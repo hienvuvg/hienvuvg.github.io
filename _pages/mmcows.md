@@ -30,12 +30,31 @@ Applications of MmCows spanning from behavior monitoring, dietary management, he
 
 <br />
 
-Sensors
+Data Acquisition
 ------
 
-<div align="center">
-<img src="https://hienvuvg.github.io/files/media/cow_w_sensors.png" style="width:80%; height:auto;" />
+<div style="text-align:center;">
+    <p style="font-weight:bold; font-size:18px; margin-top:0; margin-bottom:5px;">The Sensors</p>
+    <img src="https://hienvuvg.github.io/files/media/cow_w_sensors.png" style="width:80%; height:auto; vertical-align: middle;" />
 </div>
+
+<br />
+
+<div style="text-align:center;">
+    <p style="font-weight:bold; font-size:18px; margin-top:0; margin-bottom:5px;">The Barn Setup</p>
+    <img src="https://hienvuvg.github.io/files/media/topview_pen_map.png" style="width:80%; height:auto; vertical-align: middle;" />
+</div>
+
+
+
+
+
+pen size 20x12 m
+
+anchor locations in [x,y,z]:
+
+Uwb, camera, indoor sensor setups
+Cow routine: milking, feeding, standing, bunching
 
 Z wearable and implantable sensors that are used to collect 3D location and head direction, lying behavior, and core body temperature.
 
@@ -53,21 +72,6 @@ Cow ID and behavior with visual examples
 
 <br />
 
-Barn Environment
-------
-
-<div align="center">
-<img src="https://hienvuvg.github.io/files/media/topview_pen_map.png" style="width:80%; height:auto;" />
-</div>
-
-pen size 20x12 m
-
-anchor locations in [x,y,z]:
-
-Uwb, camera, indoor sensor setups
-Cow routine: milking, feeding, standing, bunching
-
-<br />
 
 Data Processing Flow
 ------
