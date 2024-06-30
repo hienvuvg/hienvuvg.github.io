@@ -43,33 +43,31 @@ redirect_from:
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 30px;">
   	
   	<a href="https://github.com/hienvuvg/dairycattle_dataset" target="_blank" style="text-decoration: none;">
-  	<button style="padding: 8px 10px; background-color:  #e44220 ; color: white; border: none; cursor: pointer; font-size: 18px;">Download Data and Code</button>
+  	<button style="padding: 6px 10px; background-color:  #e44220 ; color: white; border: none; cursor: pointer; font-size: 18px;">Download Data and Code</button>
 	</a>
     
     <a href="#sensors" style="text-decoration: none;">
-    <button style="padding: 8px 10px; background-color: #008CBA; color: white; border: none; cursor: pointer; font-size: 18px;">The Sensors</button>
+    <button style="padding: 6px 10px; background-color: #008CBA; color: white; border: none; cursor: pointer; font-size: 18px;">The Sensors</button>
     </a>
     
     <a href="#ground_truth" style="text-decoration: none;">
-    <button style="padding: 8px 10px; background-color: #008CBA; color: white; border: none; cursor: pointer; font-size: 18px;">Ground Truth</button>
+    <button style="padding: 6px 10px; background-color: #008CBA; color: white; border: none; cursor: pointer; font-size: 18px;">Ground Truth</button>
     </a>
     
     <a href="#processing" style="text-decoration: none;">
-    <button style="padding: 8px 10px; background-color: #008CBA; color: white; border: none; cursor: pointer; font-size: 18px;">Data Processing</button>
+    <button style="padding: 6px 10px; background-color: #008CBA; color: white; border: none; cursor: pointer; font-size: 18px;">Data Processing</button>
     </a>
     
     <a href="#usage" style="text-decoration: none;">
-    <button style="padding: 8px 10px; background-color: #4CAF50; color: white; border: none; cursor: pointer; font-size: 18px;">Citation and Usage</button>
+    <button style="padding: 6px 10px; background-color: #4CAF50; color: white; border: none; cursor: pointer; font-size: 18px;">Citation and Usage</button>
     </a>
   </div>
 </div>
 
 
-<br />
-
 <!--#################################################-->
 <!--<hr style="border: 1px; border-top: none; margin-bottom: 5px;">-->
-<p style="font-size: 25px; text-align: center; margin-top: 0;"><strong>Overview</strong></p>
+<p style="font-size: 25px; text-align: center; margin-top: 20px;"><strong>Overview</strong></p>
 
 MmCows consists of data from 16 dairy cows collected during a 14-day real-world deployment, divided into two modality groups.
 The primary group includes 3D UWB location, cows' neck IMMU acceleration, air pressure, cows' CBT, ankle lying behavior, RGB images, indoor THI, outdoor weather, and milk yield. 
