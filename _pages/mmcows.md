@@ -9,7 +9,7 @@ redirect_from:
 
 <h2 style="font-size: 2em; text-align: center;">MmCows: A Multimodal Dataset for Dairy Cattle Monitoring</h2>
 
----
+-
 # Overview
 
 MmCows consists of nine primary modalities and y secondary modalities. The primary modalities includes 3D uwb location, 3D visual location, neck acceleration , pressure, cbt, ankle, thi, isometric-view images. While the secondary modalities consists of 3D head direction, body location ground truth.
@@ -29,8 +29,8 @@ Applications of MmCows spanning from behavior monitoring, dietary management, he
 
 <br />
 
-Data Acquisition
-------
+-
+# Data Acquisition
 
 <div style="text-align:center;">
     <p style="font-weight:bold; font-size:18px; margin-top:0; margin-bottom:5px;">The Sensors</p>
