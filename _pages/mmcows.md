@@ -7,7 +7,7 @@ redirect_from:
   - /mmcows
 ---
 
-<p align="center"><strong>## MmCows: A Multimodal Dataset for Dairy Cattle Monitoring</strong></p>
+<h2 style="font-size: 2em; text-align: center;">MmCows: A Multimodal Dataset for Dairy Cattle Monitoring</h2>
 
 
 Overview
