@@ -77,7 +77,7 @@ The annotated cow IDs from multi-views are used to derive their 3D body location
 
 The sensor suite consists of a neck-mounted collar tag, a vaginal temperature logger, and an ankle accelerometer for each of 10 cows, as well as four stationary cameras and six environmental sensors.
 The neck tag records distances from the cow to eight stationary UWB anchors, the acceleration and magnetic field, and the ambient air pressure.
-The temprature logger measures the core body temperature, while the ankle accelerometer records the leg direction of the cow.
+The temperature logger measures the core body temperature, while the ankle accelerometer records the leg direction of the cow.
 
 The cameras provide visual data for identification, localization, and ground truth labeling of all 16 cows, while the environmental sensors measure indoor ambient conditions.
 Additional data such as outdoor weather is recorded by a nearby weather station, and milk weight is logged by the barn staff.
@@ -88,12 +88,9 @@ All sensors are synchronized to the internet time.
     <img src="https://hienvuvg.github.io/files/media/topview_pen_map.png" style="width:80%; height:auto; vertical-align: middle; margin-bottom:15px;" />
 </div>
 
-The cows are housed in a pen with the size of 20x12 m
-
-anchor locations in [x,y,z]:
-
-Uwb, camera, indoor sensor setups
-Cow routine: milking, feeding, standing, bunching
+The cows are housed in a 20x12m pen, where they only leave for milking twice daily for approximately 30 min each time.
+Eight stationary UWB anchors are installed around the pen that work with the neck tags to provide the 3D location of the cows.
+Four high-resolution cameras are mounted at four corners of the pen to capture isometric-view images of the cows.
 
 
 <br />
