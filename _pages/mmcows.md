@@ -69,14 +69,13 @@ redirect_from:
 <!--<hr style="border: 1px; border-top: none; margin-bottom: 5px;">-->
 <p style="font-size: 25px; text-align: center; margin-top: 20px;"><strong>Overview</strong></p>
 
-MmCows is a multimodal dataset for behavior monitoring, visual cow identification, multi-view multi-cow visual localization, health management, and dietary management.
+MmCows is a large-scale multimodal dataset for behavior monitoring, visual cow identification, multi-view multi-cow visual localization, health management, and dietary management.
 
 MmCows consists of data from 16 dairy cows collected during a 14-day real-world deployment, divided into two modality groups.
-The primary group includes 3D UWB location, cows' neck IMMU acceleration, air pressure, cows' CBT, ankle lying behavior, RGB images, indoor THI, outdoor weather, and milk yield. 
+The primary group includes 3D UWB location, cows' neck IMMU acceleration, air pressure, cows' CBT, ankle lying behavior, multi-view RGB images, indoor THI, outdoor weather, and milk yield. 
 The secondary group contains measured UWB distances, cows' head direction, ankle acceleration, and health records.
 
-This dataset also contains 20,000 annotated isometric-view images from multiple camera views in one day.
-All 16 cows with their ID and behavior are labeled as the ground truth, which was used to derive their 3D body location ground truth.
+This dataset also contains 20,000 isometric-view images from multiple camera views in one day, annotated with cows' ID and their behavior as the ground truth, which was also used to derive their 3D body location ground truth.
 
 <!--<p align="center">
   <a href="https://github.com/hienvuvg/dairycattle_dataset">Download Data and Code</a>
