@@ -60,6 +60,7 @@ The annotated cow IDs from multi-views are used to derive their 3D body location
 <video width="720" controls autoplay loop>
   <source src="https://hienvuvg.github.io/files/media/mmcows_vision_demo.mp4" type="video/mp4">
 </video>
+<div>Multiview visual data with annotated cow IDs</div>
 </div>
 
 <br />
