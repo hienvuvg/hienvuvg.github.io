@@ -25,7 +25,7 @@ The secondary group contains measured UWB distances, cows' head direction, ankle
 MmCows also contains a comprehensive set of isometric-view visual data with 20,000 annotated images from multiple camera views in one day.
 All 16 cows with their ID and behavior are labeled as the ground truth, which was used to derive their 3D body location ground truth.
 
-Applications of MmCows span from behavior monitoring, dietary management, and health management, to visual cow identification and multi-view multi-cow visual localization.
+Applications of MmCows span from behavior monitoring, health management, and dietary management, to visual cow identification and multi-view multi-cow visual localization.
 
 <p style="text-align: center;">
   [Download Data and Code](https://github.com/hienvuvg/dairycattle_dataset)
