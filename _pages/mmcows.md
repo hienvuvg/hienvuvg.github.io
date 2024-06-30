@@ -137,7 +137,7 @@ Cow ID and behavior with visual examples
 <img src="https://hienvuvg.github.io/files/media/behavior_examples.jpg" style="width:73%; height:auto;" />
 </div>
 
-Annotation rules
+[Annotation rules](https://docs.google.com/document/d/1NAfwlkVOnybEZPSC2KwAE4i7GHH12huKUijDDizSxiI/edit?usp=sharing)
 
 <br />
 
