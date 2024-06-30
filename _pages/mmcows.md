@@ -75,7 +75,7 @@ Visual localization
 <div style="display: flex; justify-content: center; gap: 20px;">
     <div style="text-align: center;">
         <video width="480" controls autoplay loop>
-            <source src="https://hienvuvg.github.io/files/media/uwb_loc_vid.mov" type="video/mov">
+            <source src="https://hienvuvg.github.io/files/media/uwb_loc_vid.mov" type="video/quicktime">
         </video>
         <div>UWB localization for a cow</div>
     </div>
