@@ -10,33 +10,6 @@ redirect_from:
 
 <!--<p style="font-size: 25px; text-align: center;"><strong>MmCows: A Multimodal Dataset for Dairy Cattle Monitoring</strong></p>-->
 
-<!--<div style="background-color: #f0f0f0; padding: 30px;">
-  <p style="font-size: 30px; text-align: center;"><strong>MmCows: A Multimodal Dataset for Dairy Cattle Monitoring</strong></p>
-  
-  <div style="display: flex; justify-content: center; gap: 20px; margin-top: 30px;">
-  	
-  	<a href="https://github.com/hienvuvg/dairycattle_dataset" target="_blank" style="text-decoration: none;">
-  	<button style="padding: 8px 10px; background-color: #f44336; color: white; border: none; cursor: pointer; font-size: 15px;">Download Data and Code</button>
-	</a>
-    
-    <a href="#sensors" style="text-decoration: none;">
-    <button style="padding: 8px 10px; background-color: #008CBA; color: white; border: none; cursor: pointer; font-size: 15px;">The Sensors</button>
-    </a>
-    
-    <a href="#ground_truth" style="text-decoration: none;">
-    <button style="padding: 8px 10px; background-color: #008CBA; color: white; border: none; cursor: pointer; font-size: 15px;">Ground Truth</button>
-    </a>
-    
-    <a href="#processing" style="text-decoration: none;">
-    <button style="padding: 8px 10px; background-color: #008CBA; color: white; border: none; cursor: pointer; font-size: 15px;">Data Processing</button>
-    </a>
-    
-    <a href="#usage" style="text-decoration: none;">
-    <button style="padding: 8px 10px; background-color: #4CAF50; color: white; border: none; cursor: pointer; font-size: 15px;">Citation and Usage</button>
-    </a>
-  </div>
-</div>-->
-
 <div style="background-color: #f0f0f0; padding: 30px;">
   <p style="font-size: 33px; text-align: center;"><strong>MmCows: A Multimodal Dataset for Dairy Cattle Monitoring</strong></p>
   
@@ -103,7 +76,7 @@ The annotated cow IDs from multi-views are used to derive their 3D body location
 
 The sensor suite consists of a neck-mounted collar tag, a vaginal temperature logger, and an ankle accelerometer for each of 10 cows, as well as four stationary cameras and six environmental sensors.
 The neck tag records distances from the cow to eight stationary UWB anchors, the acceleration and magnetic field, and the ambient air pressure.
-The temprature logger is used to measure the core body temperature, while the ankle accelerometer records the leg direction of the cow.
+The temprature logger measures the core body temperature, while the ankle accelerometer records the leg direction of the cow.
 
 The cameras provide visual data for identification, localization, and ground truth labeling of all 16 cows, while the environmental sensors measure indoor ambient conditions.
 Additional data such as outdoor weather is recorded by a nearby weather station, and milk weight is logged by the barn staff.
