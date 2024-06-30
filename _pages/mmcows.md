@@ -19,7 +19,7 @@ redirect_from:
   	<button style="padding: 10px 10px; background-color: #4CAF50; color: white; border: none; cursor: pointer; font-size: 15px;">Download Data and Code</button>
 	</a>
     
-    <a href="#ground_truth" style="text-decoration: none;">
+    <a href="#sensors" style="text-decoration: none;">
     <button style="padding: 10px 10px; background-color: #008CBA; color: white; border: none; cursor: pointer; font-size: 15px;">The Sensors</button>
     </a>
     
@@ -27,11 +27,11 @@ redirect_from:
     <button style="padding: 10px 10px; background-color: #f44336; color: white; border: none; cursor: pointer; font-size: 15px;">Ground Truth</button>
     </a>
     
-    <a href="#ground_truth" style="text-decoration: none;">
+    <a href="#processing" style="text-decoration: none;">
     <button style="padding: 10px 10px; background-color: #f44336; color: white; border: none; cursor: pointer; font-size: 15px;">Data Processing</button>
     </a>
     
-    <a href="#ground_truth" style="text-decoration: none;">
+    <a href="#usage" style="text-decoration: none;">
     <button style="padding: 10px 10px; background-color: #f44336; color: white; border: none; cursor: pointer; font-size: 15px;">Citation and Usage</button>
     </a>
   </div>
@@ -66,6 +66,7 @@ Applications of MmCows span from behavior monitoring, health management, and die
 
 <br />
 
+<a id="sensors"></a>
 <!--#################################################-->
 <hr style="border: 1px; border-top: none; margin-bottom: 5px;">
 <!--<p style="font-size: 25px; text-align: center;"><strong>Data Acquisition</strong></p>-->
@@ -113,6 +114,7 @@ Cow ID and behavior with visual examples
 
 <br />
 
+<a id="processing"></a>
 <!--#################################################-->
 <hr style="border: 1px; border-top: none; margin-bottom: 5px;">
 <p style="font-size: 25px; text-align: center; margin-top: 0;"><strong>Data Processing Flow</strong></p>
@@ -151,6 +153,7 @@ Visual localization
 
 <br />
 
+<a id="usage"></a>
 <!--#################################################-->
 <hr style="border: 1px; border-top: none; margin-bottom: 5px;">
 <p style="font-size: 25px; text-align: center; margin-top: 0;"><strong>Other Information</strong></p>
