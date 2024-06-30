@@ -13,7 +13,7 @@ redirect_from:
 Overview
 ------
 
-MmCows is a large-scale multimodal dataset of dairy cattle for automated livestock monitoring consisting nine primary modalities and y secondary modalities. The primary modalities includes 3D uwb location, 3D visual location, neck acceleration , pressure, cbt, ankle, thi, isometric-view images. While the secondary modalities consists of 3D head direction, body location ground truth.
+MmCows consists of nine primary modalities and y secondary modalities. The primary modalities includes 3D uwb location, 3D visual location, neck acceleration , pressure, cbt, ankle, thi, isometric-view images. While the secondary modalities consists of 3D head direction, body location ground truth.
 The data is collected from a cow pen during 14 days of a real-world deployment.
 
 MmCows also contains a comprehensive set  of isometric-view visual data with 20k of annotated images from multiple cameras where 16 cows with their ID and behavior are labeled. 
@@ -71,6 +71,18 @@ Ankle lying reference:
 Ground truth
 ID and behavior labeling
 Visual localization
+
+<div align="center">
+<video width="480" controls autoplay loop>
+  <source src="https://hienvuvg.github.io/files/media/uwb_loc_vid.mp4" type="video/mp4">
+</video>
+</div>
+
+<div align="center">
+<video width="480" controls autoplay loop>
+  <source src="https://hienvuvg.github.io/files/media/visual_loc_vid.mp4" type="video/mp4">
+</video>
+</div>
 
 Other Information
 ------
