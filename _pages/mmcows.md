@@ -27,7 +27,9 @@ All 16 cows with their ID and behavior are labeled as the ground truth, which wa
 
 Applications of MmCows span from behavior monitoring, dietary management, and health management, to visual cow identification and multi-view multi-cow visual localization.
 
-[Download Data and Code](https://github.com/hienvuvg/dairycattle_dataset)
+<p style="text-align: center;">
+  [Download Data and Code](https://github.com/hienvuvg/dairycattle_dataset)
+</p>
 
 <div align="center">
 <video width="720" controls autoplay loop>
