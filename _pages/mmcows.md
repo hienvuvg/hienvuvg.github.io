@@ -97,8 +97,8 @@ The annotated cow IDs from multi-views are used to derive their 3D body location
 <!--<p style="font-size: 25px; text-align: center;"><strong>Data Acquisition</strong></p>-->
 
 <div style="text-align:center;">
-    <p style="font-weight:bold; font-size:25px; margin-top:5px; margin-bottom:5px;">The Sensors</p>
-    <img src="https://hienvuvg.github.io/files/media/cow_w_sensors.png" style="width:80%; height:auto; vertical-align: middle;" />
+    <p style="font-weight:bold; font-size:25px; margin-top:5px; margin-bottom:0px;">The Sensors</p>
+    <img src="https://hienvuvg.github.io/files/media/cow_w_sensors.png" style="width:80%; height:auto; vertical-align: middle; margin-bottom:5px;" />
 </div>
 
 The sensor suite consists of a neck-mounted collar tag, a vaginal temperature logger, and an ankle accelerometer for each of 10 cows, as well as four stationary cameras and six environmental sensors.
@@ -113,8 +113,8 @@ All sensors are synchronized to the internet time.
 <br />
 
 <div style="text-align:center;">
-    <p style="font-weight:bold; font-size:25px; margin-top: 5px; margin-bottom:5px;">The Barn Setup</p>
-    <img src="https://hienvuvg.github.io/files/media/topview_pen_map.png" style="width:80%; height:auto; vertical-align: middle;" />
+    <p style="font-weight:bold; font-size:25px; margin-top: 5px; margin-bottom:0px;">The Barn Setup</p>
+    <img src="https://hienvuvg.github.io/files/media/topview_pen_map.png" style="width:80%; height:auto; vertical-align: middle; margin-bottom:5px;" />
 </div>
 
 The cows are housed in a pen with the size of 20x12 m
