@@ -100,15 +100,15 @@ Four high-resolution cameras are mounted at four corners of the pen to capture i
 <hr style="border: 1px; border-top: none; margin-bottom: 5px;">
 <p style="font-size: 25px; text-align: center; margin-top: 0;"><strong>Ground Truth</strong></p>
 
-<div align="center">
-<img src="https://hienvuvg.github.io/files/media/behavior_examples.jpg" style="width:73%; height:auto; margin-bottom:15px;" />
-</div>
-
 The ground truth of MmCows comprises visual cow IDs and behavior labels.
 Out of 4.8M image frames, 20k UWB-synced frames from all four cameras in one day are selected for cow ID annotation.
 The ID-annotated labels are used to obtain the 3D body location ground truth of the cows using an optimization-based visual localization algorithm. 
 We also defined and annotated seven behaviors of all 16 cows at the granularity of one second during the chosen day.
 Details of [the annotation rules](https://docs.google.com/document/d/1NAfwlkVOnybEZPSC2KwAE4i7GHH12huKUijDDizSxiI/edit?usp=sharing) are also provided.
+
+<div align="center">
+<img src="https://hienvuvg.github.io/files/media/behavior_examples.jpg" style="width:73%; height:auto; margin-bottom:15px;" />
+</div>
 
 <br />
 
