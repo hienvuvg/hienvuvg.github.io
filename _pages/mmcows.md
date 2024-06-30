@@ -72,17 +72,15 @@ Ground truth
 ID and behavior labeling
 Visual localization
 
-<div align="center">
-<video width="480" controls autoplay loop>
-  <source src="https://hienvuvg.github.io/files/media/uwb_loc_vid.mp4" type="video/mp4">
-</video>
+<div style="display: flex; justify-content: center;">
+    <video width="480" controls autoplay loop>
+        <source src="https://hienvuvg.github.io/files/media/uwb_loc_vid.mp4" type="video/mp4">
+    </video>
+    <video width="480" controls autoplay loop>
+        <source src="https://hienvuvg.github.io/files/media/visual_loc_vid.mp4" type="video/mp4">
+    </video>
 </div>
 
-<div align="center">
-<video width="480" controls autoplay loop>
-  <source src="https://hienvuvg.github.io/files/media/visual_loc_vid.mp4" type="video/mp4">
-</video>
-</div>
 
 Other Information
 ------
