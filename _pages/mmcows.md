@@ -77,7 +77,7 @@ Visual localization
         <video width="480" controls autoplay loop>
             <source src="https://hienvuvg.github.io/files/media/uwb_loc_vid.mp4" type="video/mp4">
         </video>
-        <div>UWB localization for a cow</div>
+        <div>UWB localization for one cow</div>
     </div>
     <div style="text-align: center;">
         <video width="480" controls autoplay loop>
