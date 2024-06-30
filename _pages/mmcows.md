@@ -104,8 +104,10 @@ The annotated cow IDs from multi-views are used to derive their 3D body location
 The sensor suite consists of a neck-mounted collar tag, a vaginal temperature logger, and an ankle accelerometer for each of 10 cows, as well as four stationary cameras and six environmental sensors.
 The neck tag records distance from the cow to eight stationary UWB anchors, the acceleration and magnetic field, and the ambient air pressure.
 The temprature logger is used to provide the core body temperature, while the ankle accelerometer provides references for the lying behavior of the cow.
+
 The cameras provides visual data for identification, localization, and ground truth labeling.
 The environmental sensors provides references for indoor ambient conditions.
+Additional data such as outdoor weather is recorded by a nearby weather station, and milk weight is logged by the barn staff.
 All sensors are synchronized to the internet time.
 
 <br />
