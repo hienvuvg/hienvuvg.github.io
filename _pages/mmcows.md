@@ -10,7 +10,7 @@ redirect_from:
 
 <!--<h2 style="font-size: 2em; text-align: center;">MmCows: A Multimodal Dataset for Dairy Cattle Monitoring</h2>-->
 
-<p style="font-size: 25px; text-align: center;"><strong>MmCows:A Multimodal Dataset for Dairy Cattle Monitoring</strong></p>
+<p style="font-size: 25px; text-align: center;"><strong>MmCows: A Multimodal Dataset for Dairy Cattle Monitoring</strong></p>
 
 <br />
 
@@ -18,14 +18,14 @@ redirect_from:
 <hr style="border: 1px; border-top: none; margin-bottom: 5px;">
 <p style="font-size: 25px; text-align: center; margin-top: 0;"><strong>Overview</strong></p>
 
+MmCows consists of data from 16 dairy cows collected during a 14-day real-world deployment, divided into two modality groups.
+The primary group includes 3D UWB location, cows' neck IMMU acceleration, air pressure, cows' CBT, ankle lying behavior, RGB images, indoor THI, outdoor weather, and milk yield. 
+The secondary group contains measured UWB distances, cows' head direction, ankle acceleration, and health records.
 
+MmCows also contains a comprehensive set of isometric-view visual data with 20,000 annotated images from multiple camera views in one day.
+All 16 cows with their ID and behavior are labeled as the ground truth, which was used to derive their 3D body location ground truth.
 
-MmCows consists of nine primary modalities and y secondary modalities. The primary modalities includes 3D uwb location, 3D visual location, neck acceleration , pressure, cbt, ankle, thi, isometric-view images. While the secondary modalities consists of 3D head direction, body location ground truth.
-The data is collected from a cow pen during 14 days of a real-world deployment.
-
-MmCows also contains a comprehensive set  of isometric-view visual data with 20k of annotated images from multiple cameras where 16 cows with their ID and behavior are labeled. 
-
-Applications of MmCows spanning from behavior monitoring, dietary management, health management, to visual cow identification and multi-view multi-cow visual localization.
+Applications of MmCows span from behavior monitoring, dietary management, and health management, to visual cow identification and multi-view multi-cow visual localization.
 
 [Download Data and Code](https://github.com/hienvuvg/dairycattle_dataset)
 
