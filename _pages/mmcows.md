@@ -65,7 +65,7 @@ redirect_from:
 </div>
 
 
-<!--#################################################-->
+<!-- OVERVIEW #################################################-->
 <!--<hr style="border: 1px; border-top: none; margin-bottom: 5px;">-->
 <p style="font-size: 25px; text-align: center; margin-top: 20px;"><strong>Overview</strong></p>
 
@@ -92,7 +92,7 @@ Applications of MmCows span from behavior monitoring, health management, and die
 <br />
 
 <a id="sensors"></a>
-<!--#################################################-->
+<!-- SENSORS #################################################-->
 <hr style="border: 1px; border-top: none; margin-bottom: 5px;">
 <!--<p style="font-size: 25px; text-align: center;"><strong>Data Acquisition</strong></p>-->
 
@@ -127,7 +127,7 @@ Cow routine: milking, feeding, standing, bunching
 <br />
 
 <a id="ground_truth"></a>
-<!--#################################################-->
+<!-- GROUND TRUTH #################################################-->
 <hr style="border: 1px; border-top: none; margin-bottom: 5px;">
 <p style="font-size: 25px; text-align: center; margin-top: 0;"><strong>Ground Truth</strong></p>
 
@@ -137,10 +137,12 @@ Cow ID and behavior with visual examples
 <img src="https://hienvuvg.github.io/files/media/behavior_examples.jpg" style="width:73%; height:auto;" />
 </div>
 
+Annotation rules
+
 <br />
 
 <a id="processing"></a>
-<!--#################################################-->
+<!-- DATA PROCESSING #################################################-->
 <hr style="border: 1px; border-top: none; margin-bottom: 5px;">
 <p style="font-size: 25px; text-align: center; margin-top: 0;"><strong>Data Processing Flow</strong></p>
 
@@ -179,7 +181,7 @@ Visual localization
 <br />
 
 <a id="usage"></a>
-<!--#################################################-->
+<!-- USAGE #################################################-->
 <hr style="border: 1px; border-top: none; margin-bottom: 5px;">
 <p style="font-size: 25px; text-align: center; margin-top: 0;"><strong>Citation and Usage</strong></p>
 
