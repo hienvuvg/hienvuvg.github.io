@@ -5,7 +5,7 @@ permalink: /mmcows/
 author_profile: false
 redirect_from:
   - /mmcows
----
+
 
 <h2 style="font-size: 2em; text-align: center;">MmCows: A Multimodal Dataset for Dairy Cattle Monitoring</h2>
 
