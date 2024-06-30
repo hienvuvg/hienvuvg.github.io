@@ -110,7 +110,7 @@ Other Information
 
 One application that we used to showcase the benefits of MmCows is behavior monitoring. Details of benchmarking MmCows for behavior monitoring using various modalities and their combinations are provided in this paper.
 
-Contact us:
+### Contact us
 <div style="display: flex;">
     <div style="flex: 1;"></div> <!-- Empty column -->
     <div style="flex: 1;">
