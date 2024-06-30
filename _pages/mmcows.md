@@ -109,8 +109,6 @@ The cameras provide visual data for identification, localization, and ground tru
 Additional data such as outdoor weather is recorded by a nearby weather station, and milk weight is logged by the barn staff.
 All sensors are synchronized to the internet time.
 
-<br />
-
 <div style="text-align:center;">
     <p style="font-weight:bold; font-size:25px; margin-top: 5px; margin-bottom:0px;">The Barn Setup</p>
     <img src="https://hienvuvg.github.io/files/media/topview_pen_map.png" style="width:80%; height:auto; vertical-align: middle; margin-bottom:15px;" />
