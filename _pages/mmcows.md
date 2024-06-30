@@ -14,17 +14,26 @@ redirect_from:
   <p style="font-size: 25px; text-align: center;"><strong>MmCows: A Multimodal Dataset for Dairy Cattle Monitoring</strong></p>
   
   <div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
-  
+  	
+  	<a href="#ground_truth" style="text-decoration: none;">
     <button style="padding: 10px 10px; background-color: #4CAF50; color: white; border: none; cursor: pointer; font-size: 15px;">Download Data and Code</button>
+    </a>
     
+    <a href="#ground_truth" style="text-decoration: none;">
     <button style="padding: 10px 10px; background-color: #008CBA; color: white; border: none; cursor: pointer; font-size: 15px;">The Sensors</button>
+    </a>
     
     <a href="#ground_truth" style="text-decoration: none;">
     <button style="padding: 10px 10px; background-color: #f44336; color: white; border: none; cursor: pointer; font-size: 15px;">Ground Truth</button>
+    </a>
     
+    <a href="#ground_truth" style="text-decoration: none;">
     <button style="padding: 10px 10px; background-color: #f44336; color: white; border: none; cursor: pointer; font-size: 15px;">Data Processing</button>
+    </a>
     
+    <a href="#ground_truth" style="text-decoration: none;">
     <button style="padding: 10px 10px; background-color: #f44336; color: white; border: none; cursor: pointer; font-size: 15px;">Citation and Usage</button>
+    </a>
   </div>
 </div>
 
