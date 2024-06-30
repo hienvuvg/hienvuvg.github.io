@@ -167,9 +167,9 @@ One application that we used to showcase the benefits of MmCows is behavior moni
     <div style="flex: 1;"></div> <!-- Empty column -->
     <div style="flex: 1;">
         <a href="https://hienvuvg.github.io">Hien Vu</a> <br>
-        Omkar Prabhune <br>
-        Unmesh Raskar <br>
-        Dimuth Panditharatne <br>
+        <a href="https://www.linkedin.com/in/omkar-prabhune/">Omkar Prabhune</a> <br>
+        <a href="https://www.linkedin.com/in/unmesh-raskar-860273188/">Unmesh Raskar</a> <br>
+        <a href="https://www.linkedin.com/in/dimuth-panditharatne/">Dimuth Panditharatne</a> <br>
         <a href="https://www.engineering.iastate.edu/people/profile/hwchung/">Hanwook Chung</a> <br>
         <a href="https://bse.wisc.edu/staff/choi-christopher/">Christopher Y. Choi</a> <br>
         <a href="https://engineering.purdue.edu/ECE/People/Faculty/ptProfile?resource_id=293362">Younghyun Kim</a> <br>
