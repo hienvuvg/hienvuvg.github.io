@@ -62,8 +62,9 @@ Cow routine: milking, feeding, standing, bunching
 
 <br />
 
-Ground Truth
-------
+-
+# Ground Truth
+
 Cow ID and behavior with visual examples
 
 <div align="center">
@@ -72,9 +73,9 @@ Cow ID and behavior with visual examples
 
 <br />
 
+-
+# Data Processing Flow
 
-Data Processing Flow
-------
 Text
 
 <div align="center">
@@ -109,8 +110,9 @@ Visual localization
 
 <br />
 
-Other Information
-------
+-
+# Other Information
+
 
 One application that we used to showcase the benefits of MmCows is behavior monitoring. Details of benchmarking MmCows for behavior monitoring using various modalities and their combinations are provided in this paper.
 
