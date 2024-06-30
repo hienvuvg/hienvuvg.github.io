@@ -15,7 +15,7 @@ redirect_from:
 <br />
 
 <!--#################################################-->
-<hr style="border: 1px; border-top: none; margin-bottom: 0px;">
+<hr style="border: 1px; border-top: none; margin-bottom: 5px;">
 <p style="font-size: 25px; text-align: center; margin-top: 0;"><strong>Overview</strong></p>
 
 
@@ -38,7 +38,7 @@ Applications of MmCows spanning from behavior monitoring, dietary management, he
 <br />
 
 <!--#################################################-->
-<hr style="border: 1px; border-top: none; margin-bottom: 0px;">
+<hr style="border: 1px; border-top: none; margin-bottom: 5px;">
 <!--<p style="font-size: 25px; text-align: center;"><strong>Data Acquisition</strong></p>-->
 
 <div style="text-align:center;">
@@ -72,7 +72,7 @@ Cow routine: milking, feeding, standing, bunching
 <br />
 
 <!--#################################################-->
-<hr style="border: 1px; border-top: none; margin-bottom: 0px;">
+<hr style="border: 1px; border-top: none; margin-bottom: 5px;">
 <p style="font-size: 25px; text-align: center; margin-top: 0;"><strong>Ground Truth</strong></p>
 
 Cow ID and behavior with visual examples
@@ -84,7 +84,7 @@ Cow ID and behavior with visual examples
 <br />
 
 <!--#################################################-->
-<hr style="border: 1px; border-top: none; margin-bottom: 0px;">
+<hr style="border: 1px; border-top: none; margin-bottom: 5px;">
 <p style="font-size: 25px; text-align: center; margin-top: 0;"><strong>Data Processing Flow</strong></p>
 
 Text
@@ -122,7 +122,7 @@ Visual localization
 <br />
 
 <!--#################################################-->
-<hr style="border: 1px; border-top: none; margin-bottom: 0px;">
+<hr style="border: 1px; border-top: none; margin-bottom: 5px;">
 <p style="font-size: 25px; text-align: center; margin-top: 0;"><strong>Other Information</strong></p>
 
 
