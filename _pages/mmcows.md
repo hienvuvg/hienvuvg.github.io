@@ -13,7 +13,7 @@ redirect_from:
 <hr>
 <p style="text-align: center;"><strong>Overview</strong></p>
 
-<hr style="border: none; border-top: 1px solid #000;">
+<hr style="border-top: 1px solid #000;">
 <p style="text-align: center;"><strong>Your Bold Text</strong></p>
 
 MmCows consists of nine primary modalities and y secondary modalities. The primary modalities includes 3D uwb location, 3D visual location, neck acceleration , pressure, cbt, ankle, thi, isometric-view images. While the secondary modalities consists of 3D head direction, body location ground truth.
@@ -33,7 +33,7 @@ Applications of MmCows spanning from behavior monitoring, dietary management, he
 
 <br />
 
--
+
 # Data Acquisition
 
 <div style="text-align:center;">
@@ -66,7 +66,7 @@ Cow routine: milking, feeding, standing, bunching
 
 <br />
 
--
+
 # Ground Truth
 
 Cow ID and behavior with visual examples
@@ -77,7 +77,7 @@ Cow ID and behavior with visual examples
 
 <br />
 
--
+
 # Data Processing Flow
 
 Text
@@ -114,7 +114,7 @@ Visual localization
 
 <br />
 
--
+
 # Other Information
 
 
