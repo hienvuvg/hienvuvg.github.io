@@ -101,9 +101,12 @@ The annotated cow IDs from multi-views are used to derive their 3D body location
     <img src="https://hienvuvg.github.io/files/media/cow_w_sensors.png" style="width:80%; height:auto; vertical-align: middle;" />
 </div>
 
-Z wearable and implantable sensors that are used to collect 3D location and head direction, lying behavior, and core body temperature.
-
-Isometric-view cameras provide ground truth as well as a non-invasive approach to behavior monitoring using computer vision.
+The sensor suite consists of a neck-mounted collar tag, a vaginal temperature logger, and an ankle accelerometer for each of 10 cows, as well as four stationary cameras and six environmental sensors.
+The neck tag records distance from the cow to eight stationary UWB anchors, the acceleration and magnetic field, and the ambient air pressure.
+The temprature logger is used to provide the core body temperature, while the ankle accelerometer provides references for the lying behavior of the cow.
+The cameras provides visual data for identification, localization, and ground truth labeling.
+The environmental sensors provides references for indoor ambient conditions.
+All sensors are synchronized to the internet time.
 
 <br />
 
@@ -112,11 +115,7 @@ Isometric-view cameras provide ground truth as well as a non-invasive approach t
     <img src="https://hienvuvg.github.io/files/media/topview_pen_map.png" style="width:80%; height:auto; vertical-align: middle;" />
 </div>
 
-
-
-
-
-pen size 20x12 m
+The cows are housed in a pen with the size of 20x12 m
 
 anchor locations in [x,y,z]:
 
