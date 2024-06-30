@@ -8,14 +8,31 @@ redirect_from:
 ---
 
 
-<!--<h2 style="font-size: 2em; text-align: center;">MmCows: A Multimodal Dataset for Dairy Cattle Monitoring</h2>-->
+<!--<p style="font-size: 25px; text-align: center;"><strong>MmCows: A Multimodal Dataset for Dairy Cattle Monitoring</strong></p>-->
 
-<p style="font-size: 25px; text-align: center;"><strong>MmCows: A Multimodal Dataset for Dairy Cattle Monitoring</strong></p>
+<div style="background-color: #f0f0f0; padding: 20px;">
+  <p style="font-size: 25px; text-align: center;"><strong>MmCows: A Multimodal Dataset for Dairy Cattle Monitoring</strong></p>
+  
+  <div style="display: flex; justify-content: center; gap: 20px; margin-top: 20px;">
+  
+    <button style="padding: 10px 10px; background-color: #4CAF50; color: white; border: none; cursor: pointer; font-size: 15px;">Download Data and Code</button>
+    
+    <button style="padding: 10px 10px; background-color: #008CBA; color: white; border: none; cursor: pointer; font-size: 15px;">The Sensors</button>
+    
+    <a href="#ground_truth" style="text-decoration: none;">
+    <button style="padding: 10px 10px; background-color: #f44336; color: white; border: none; cursor: pointer; font-size: 15px;">Ground Truth</button>
+    
+    <button style="padding: 10px 10px; background-color: #f44336; color: white; border: none; cursor: pointer; font-size: 15px;">Data Processing</button>
+    
+    <button style="padding: 10px 10px; background-color: #f44336; color: white; border: none; cursor: pointer; font-size: 15px;">Citation and Usage</button>
+  </div>
+</div>
+
 
 <br />
 
 <!--#################################################-->
-<hr style="border: 1px; border-top: none; margin-bottom: 5px;">
+<!--<hr style="border: 1px; border-top: none; margin-bottom: 5px;">-->
 <p style="font-size: 25px; text-align: center; margin-top: 0;"><strong>Overview</strong></p>
 
 MmCows consists of data from 16 dairy cows collected during a 14-day real-world deployment, divided into two modality groups.
@@ -74,6 +91,7 @@ Cow routine: milking, feeding, standing, bunching
 
 <br />
 
+<a id="ground_truth"></a>
 <!--#################################################-->
 <hr style="border: 1px; border-top: none; margin-bottom: 5px;">
 <p style="font-size: 25px; text-align: center; margin-top: 0;"><strong>Ground Truth</strong></p>
