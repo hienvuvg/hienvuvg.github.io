@@ -38,7 +38,7 @@ redirect_from:
 </div>-->
 
 <div style="background-color: #f0f0f0; padding: 30px;">
-  <p style="font-size: 32px; text-align: center;"><strong>MmCows: A Multimodal Dataset for Dairy Cattle Monitoring</strong></p>
+  <p style="font-size: 33px; text-align: center;"><strong>MmCows: A Multimodal Dataset for Dairy Cattle Monitoring</strong></p>
   
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 30px;">
   	
