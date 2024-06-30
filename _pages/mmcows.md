@@ -15,8 +15,9 @@ redirect_from:
 <br />
 
 <!--#################################################-->
-<hr>
-<p style="font-size: 2em; text-align: center;"><strong>Overview</strong></p>
+<hr style="border: none; border-top: 1px solid #000; margin-bottom: 0px;">
+<p style="font-size: 2em; text-align: center; margin-top: 0;"><strong>Overview</strong></p>
+
 
 
 MmCows consists of nine primary modalities and y secondary modalities. The primary modalities includes 3D uwb location, 3D visual location, neck acceleration , pressure, cbt, ankle, thi, isometric-view images. While the secondary modalities consists of 3D head direction, body location ground truth.
