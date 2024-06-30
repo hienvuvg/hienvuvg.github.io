@@ -110,6 +110,31 @@ Other Information
 
 One application that we used to showcase the benefits of MmCows is behavior monitoring. Details of benchmarking MmCows for behavior monitoring using various modalities and their combinations are provided in this paper.
 
+Contact us:
+<div style="display: flex;">
+    <div style="flex: 1;"></div> <!-- Empty column -->
+    <div style="flex: 1;">
+        Hien Vu
+        Omkar Prabhune
+        Unmesh Raskar
+        Dimuth Panditharatne
+        Hanwook Chung
+        Christopher Y. Choi
+        Younghyun Kim
+    </div>
+    <div style="flex: 1;">
+        hienvu@purdue.edu
+        oprabhun@purdue.edu
+        uraskar@wisc.edu
+        panditharatn@wisc.edu
+        hwchung@iastate.edu
+        cchoi22@wisc.edu
+        younghyun@purdue.edu
+    </div>
+    <div style="flex: 1;"></div> <!-- Empty column -->
+</div>
+
+
 Text
 ```
 Text
