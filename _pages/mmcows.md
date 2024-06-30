@@ -114,22 +114,22 @@ One application that we used to showcase the benefits of MmCows is behavior moni
 <div style="display: flex;">
     <div style="flex: 1;"></div> <!-- Empty column -->
     <div style="flex: 1;">
-        [Hien Vu](https://hienvuvg.github.io)<br>
-        Omkar Prabhune<br>
-        Unmesh Raskar<br>
-        Dimuth Panditharatne<br>
-        [Hanwook Chung](https://www.engineering.iastate.edu/people/profile/hwchung/)<br>
-        [Christopher Y. Choi](https://bse.wisc.edu/staff/choi-christopher/)<br>
-        [Younghyun Kim](https://engineering.purdue.edu/ECE/People/Faculty/ptProfile?resource_id=293362)<br>
+        <a href="https://hienvuvg.github.io">Hien Vu</a> <br>
+        Omkar Prabhune <br>
+        Unmesh Raskar <br>
+        Dimuth Panditharatne <br>
+        <a href="https://www.engineering.iastate.edu/people/profile/hwchung/">Hanwook Chung</a> <br>
+        <a href="https://bse.wisc.edu/staff/choi-christopher/">Christopher Y. Choi</a> <br>
+        <a href="https://engineering.purdue.edu/ECE/People/Faculty/ptProfile?resource_id=293362">Younghyun Kim</a> <br>
     </div>
     <div style="flex: 1;">
-        hienvu@purdue.edu<br>
-        oprabhun@purdue.edu<br>
-        uraskar@wisc.edu<br>
-        panditharatn@wisc.edu<br>
-        hwchung@iastate.edu<br>
-        cchoi22@wisc.edu<br>
-        younghyun@purdue.edu<br>
+        hienvu@purdue.edu <br>
+        oprabhun@purdue.edu <br>
+        uraskar@wisc.edu <br>
+        panditharatn@wisc.edu <br>
+        hwchung@iastate.edu <br>
+        cchoi22@wisc.edu <br>
+        younghyun@purdue.edu <br>
     </div>
     <div style="flex: 1;"></div> <!-- Empty column -->
 </div>
