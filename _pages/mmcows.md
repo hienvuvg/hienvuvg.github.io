@@ -123,7 +123,8 @@ Some of the measured parameters are processed to derive more meaningful data tha
 <img src="https://hienvuvg.github.io/files/media/processing_pipeline.jpg" style="width:54%; height:auto; margin-bottom:15px;" />
 </div>
 
-
+The heading direction related to feeding and drinking behaviors of the cows is obtained from the ```immu```.
+The lying behavior is classifed from the ankle acceleration using K-means clustering. 
 
 Uwb localization: including both measured data from an indoor uwb positioning system using two-way ranging, and 3D locations computed from the measured data using an optimization-based  localization algorithm.
 
