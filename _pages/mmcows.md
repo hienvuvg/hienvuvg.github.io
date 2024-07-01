@@ -85,7 +85,7 @@ All sensors are synchronized to the internet time.
 
 <div style="text-align:center;">
     <p style="font-weight:bold; font-size:25px; margin-top: 5px; margin-bottom:0px;">The Barn Setup</p>
-    <img src="https://hienvuvg.github.io/files/media/topview_pen_map.png" style="width:80%; height:auto; max-width:100%; vertical-align: middle; margin-bottom:15px;" />
+    <img src="https://hienvuvg.github.io/files/media/topview_pen_map.png" style="width:90%; height:auto; max-width:100%; vertical-align: middle; margin-bottom:15px;" />
 </div>
 
 The cows are housed in a 20x12m pen where they only leave for milking twice daily for approximately 30 min each time.
