@@ -57,7 +57,7 @@ The annotated cow IDs from multi-views are used to derive their 3D body location
 
 
 <div align="center">
-<video width="720" controls autoplay loop>
+<video width="100%" controls autoplay loop>
   <source src="https://hienvuvg.github.io/files/media/mmcows_vision_demo.mp4" type="video/mp4">
 </video>
 <div><a href="https://github.com/hienvuvg/dairycattle_dataset/tree/main/visualization">Multiview visual data with annotated cow IDs</a></div>
@@ -72,7 +72,7 @@ The annotated cow IDs from multi-views are used to derive their 3D body location
 
 <div style="text-align:center;">
     <p style="font-weight:bold; font-size:25px; margin-top:5px; margin-bottom:0px;">The Sensors</p>
-    <img src="https://hienvuvg.github.io/files/media/cow_w_sensors.png" style="max-width:100%; width:80%; height:auto; vertical-align: middle; margin-bottom:15px;" />
+    <img src="https://hienvuvg.github.io/files/media/cow_w_sensors.png" style="max-width:100%; width:90%; height:auto; vertical-align: middle; margin-bottom:15px;" />
 </div>
 
 The sensor suite consists of a neck-mounted collar tag, a vaginal temperature logger, and an ankle accelerometer for each of 10 cows, as well as four stationary cameras and six environmental sensors.
@@ -127,13 +127,13 @@ The 3D neck location ```uwb``` is calculated from UWB distances, while the 3D bo
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
     <div style="text-align: center;">
-        <video width="480" controls autoplay loop>
+        <video width="45%" controls autoplay loop>
             <source src="https://hienvuvg.github.io/files/media/uwb_loc_vid.mp4" type="video/mp4">
         </video>
         <div><a href="https://github.com/hienvuvg/dairycattle_dataset/tree/main/visualization">UWB localization for one cow</a></div>
     </div>
     <div style="text-align: center;">
-        <video width="480" controls autoplay loop>
+        <video width="45%" controls autoplay loop>
             <source src="https://hienvuvg.github.io/files/media/visual_loc_vid.mp4" type="video/mp4">
         </video>
         <div><a href="https://github.com/hienvuvg/dairycattle_dataset/tree/main/visualization">Visual localization for multiple cows</a></div>
