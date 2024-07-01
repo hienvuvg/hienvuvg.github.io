@@ -120,7 +120,7 @@ Details of [the annotation rules](https://docs.google.com/document/d/1NAfwlkVOny
 Some of the measured parameters are processed to derive more meaningful parameters that indicate behaviors of the cows.
 
 <div align="center">
-<img src="https://hienvuvg.github.io/files/media/processing_pipeline.png" style="width:54%; height:auto; margin-bottom:15px;" />
+<img src="https://hienvuvg.github.io/files/media/processing_pipeline.jpg" style="width:54%; height:auto; margin-bottom:15px;" />
 </div>
 
 
