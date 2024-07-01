@@ -72,7 +72,7 @@ The annotated cow IDs from multi-views are used to derive their 3D body location
 
 <div style="text-align:center;">
     <p style="font-weight:bold; font-size:25px; margin-top:5px; margin-bottom:0px;">The Sensors</p>
-    <img src="https://hienvuvg.github.io/files/media/cow_w_sensors.png" style="width:80%; height:auto; vertical-align: middle; margin-bottom:15px;" />
+    <img src="https://hienvuvg.github.io/files/media/cow_w_sensors.png" style="width:80%; height:auto; max-width:100%; vertical-align: middle; margin-bottom:15px;" />
 </div>
 
 The sensor suite consists of a neck-mounted collar tag, a vaginal temperature logger, and an ankle accelerometer for each of 10 cows, as well as four stationary cameras and six environmental sensors.
@@ -85,7 +85,7 @@ All sensors are synchronized to the internet time.
 
 <div style="text-align:center;">
     <p style="font-weight:bold; font-size:25px; margin-top: 5px; margin-bottom:0px;">The Barn Setup</p>
-    <img src="https://hienvuvg.github.io/files/media/topview_pen_map.png" style="width:80%; height:auto; vertical-align: middle; margin-bottom:15px;" />
+    <img src="https://hienvuvg.github.io/files/media/topview_pen_map.png" style="width:80%; height:auto; max-width:100%; vertical-align: middle; margin-bottom:15px;" />
 </div>
 
 The cows are housed in a 20x12m pen where they only leave for milking twice daily for approximately 30 min each time.
@@ -106,7 +106,7 @@ We defined and annotated seven behaviors of all 16 cows at the granularity of on
 Details of the annotation rules can be found [here](https://docs.google.com/document/d/1NAfwlkVOnybEZPSC2KwAE4i7GHH12huKUijDDizSxiI/edit?usp=sharing).
 
 <div align="center">
-<img src="https://hienvuvg.github.io/files/media/behavior_examples.jpg" style="width:73%; height:auto; margin-bottom:15px;" />
+<img src="https://hienvuvg.github.io/files/media/behavior_examples.jpg" style="width:73%; height:auto; max-width:100%; margin-bottom:15px;" />
 </div>
 
 <br />
@@ -117,7 +117,7 @@ Details of the annotation rules can be found [here](https://docs.google.com/docu
 <p style="font-size: 25px; text-align: center; margin-top: 0;"><strong>Data Processing Flow</strong></p>
 
 <div align="center">
-<img src="https://hienvuvg.github.io/files/media/processing_pipeline.jpg" style="width:54%; height:auto; margin-bottom:15px;" />
+<img src="https://hienvuvg.github.io/files/media/processing_pipeline.jpg" style="width:54%; height:auto; max-width:100%; margin-bottom:15px;" />
 </div>
 
 Some of the measured parameters are processed to derive more meaningful data that indicates the behaviors of the cows.
