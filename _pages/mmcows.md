@@ -154,8 +154,8 @@ Benchmarking of MmCows for behavior monitoring is discussed in our paper: [Main 
 
 Text
 ```
-Text-->
-```
+Text
+```-->
 
 ### Contact us
 <div style="display: flex;">
