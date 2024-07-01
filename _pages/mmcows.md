@@ -42,7 +42,7 @@ redirect_from:
 <!--<hr style="border: 1px; border-top: none; margin-bottom: 5px;">-->
 <p style="font-size: 25px; text-align: center; margin-top: 20px;"><strong>Overview</strong></p>
 
-MmCows is a large-scale multimodal dataset for behavior monitoring, visual cow identification, multi-view multi-cow visual localization, health management, and dietary management of dairy cattle.
+MmCows is a large-scale multimodal dataset for behavior monitoring, health management, and dietary management of dairy cattle.
 
 The dataset consists of data from 16 dairy cows collected during a 14-day real-world deployment, divided into two modality groups.
 The primary group includes 3D UWB location, cows' neck IMMU acceleration, air pressure, cows' CBT, ankle acceleration, multi-view RGB images, indoor THI, outdoor weather, and milk yield. 
