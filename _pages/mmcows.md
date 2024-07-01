@@ -116,12 +116,11 @@ Details of the annotation rules can be found [here](https://docs.google.com/docu
 <hr style="border: 1px; border-top: none; margin-bottom: 5px;">
 <p style="font-size: 25px; text-align: center; margin-top: 0;"><strong>Data Processing Flow</strong></p>
 
-Some of the measured parameters are processed to derive more meaningful data that indicates the behaviors of the cows.
-
 <div align="center">
 <img src="https://hienvuvg.github.io/files/media/processing_pipeline.jpg" style="width:54%; height:auto; margin-bottom:15px;" />
 </div>
 
+Some of the measured parameters are processed to derive more meaningful data that indicates the behaviors of the cows.
 The heading direction related to feeding and drinking behaviors is obtained from the ```immu```.
 The lying behavior is classified from the ankle acceleration. 
 The 3D neck location ```uwb``` is calculated from UWB distances, while the 3D body location ground truth is derived from the ID-annotated labels.
