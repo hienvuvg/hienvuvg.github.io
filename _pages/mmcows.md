@@ -176,9 +176,11 @@ Benchmarking of MmCows for behavior monitoring is discussed in our paper.
     <div style="flex: 1;"></div> <!-- Empty column -->
 </div>
 
+Text
+```
+Text
+```
 
-Text
-```
-Text
-```
+### License
+MmCows is available under the CC BY-NC-SA 4.0 license. You can use, duplicate, and redistribute the material for non-commercial purposes, provided you credit the original source, include a link to the license, and indicate any modifications made. If you alter, adapt, or expand upon the material, your contributions must be distributed under the same license as the original. Commercial use of the material might not be permitted.
 
