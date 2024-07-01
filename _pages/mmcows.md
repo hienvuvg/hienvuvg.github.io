@@ -102,7 +102,6 @@ Four high-resolution cameras are mounted at four corners of the pen to capture i
 
 The ground truth of MmCows comprises visual cow IDs and behavior labels.
 Out of 4.8M image frames, 20k UWB-synced frames from all four cameras in one day are selected for cow ID annotation.
-The ID-annotated labels are used to obtain the 3D body location ground truth of the cows using an optimization-based visual localization algorithm. 
 We also defined and annotated seven behaviors of all 16 cows at the granularity of one second during the chosen day.
 Details of [the annotation rules](https://docs.google.com/document/d/1NAfwlkVOnybEZPSC2KwAE4i7GHH12huKUijDDizSxiI/edit?usp=sharing) are also provided.
 
@@ -123,18 +122,9 @@ Some of the measured parameters are processed to derive more meaningful data tha
 <img src="https://hienvuvg.github.io/files/media/processing_pipeline.jpg" style="width:54%; height:auto; margin-bottom:15px;" />
 </div>
 
-The heading direction related to feeding and drinking behaviors of the cows is obtained from the ```immu```.
-The lying behavior is classifed from the ankle acceleration using K-means clustering. 
-
-Uwb localization: including both measured data from an indoor uwb positioning system using two-way ranging, and 3D locations computed from the measured data using an optimization-based  localization algorithm.
-
-Head direction: is derived from the neck acceleration and magnetic data where we use the Earth gravity and magnetic fields as reference vectors in 3D space.
-
-Ankle lying reference: 
-
-Ground truth
-ID and behavior labeling
-Visual localization
+The heading direction related to feeding and drinking behaviors is obtained from the ```immu```.
+The lying behavior is classifed from the ankle acceleration. 
+The 3D neck location ```uwb``` is calculated from UWB distances, while the 3D body location ground truth is derived from the ID-annotated labels.
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
     <div style="text-align: center;">
@@ -159,8 +149,8 @@ Visual localization
 <hr style="border: 1px; border-top: none; margin-bottom: 5px;">
 <p style="font-size: 25px; text-align: center; margin-top: 0;"><strong>Citation and Usage</strong></p>
 
-
-One application that we used to showcase the benefits of MmCows is behavior monitoring. Details of benchmarking MmCows for behavior monitoring using various modalities and their combinations are provided in this paper.
+One of the MmCows's applications is behavior monitoring.
+Benchmarking of MmCows for behavior monitoring is discussed in our paper.
 
 ### Contact us
 <div style="display: flex;">
