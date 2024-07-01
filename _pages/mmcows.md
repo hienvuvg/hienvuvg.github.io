@@ -106,7 +106,7 @@ We defined and annotated seven behaviors of all 16 cows at the granularity of on
 Details of the annotation rules can be found [here](https://docs.google.com/document/d/1NAfwlkVOnybEZPSC2KwAE4i7GHH12huKUijDDizSxiI/edit?usp=sharing).
 
 <div align="center">
-<img src="https://hienvuvg.github.io/files/media/behavior_examples.jpg" style="width:73%; height:auto; max-width:100%; margin-bottom:15px;" />
+<img src="https://hienvuvg.github.io/files/media/behavior_examples.jpg" style="width:85%; height:auto; max-width:100%; margin-bottom:15px;" />
 </div>
 
 <br />
@@ -117,7 +117,7 @@ Details of the annotation rules can be found [here](https://docs.google.com/docu
 <p style="font-size: 25px; text-align: center; margin-top: 0;"><strong>Data Processing Flow</strong></p>
 
 <div align="center">
-<img src="https://hienvuvg.github.io/files/media/processing_pipeline.jpg" style="width:54%; height:auto; max-width:100%; margin-bottom:15px;" />
+<img src="https://hienvuvg.github.io/files/media/processing_pipeline.jpg" style="width:65%; height:auto; max-width:100%; margin-bottom:15px;" />
 </div>
 
 Some of the measured parameters are processed to derive more meaningful data that indicates the behaviors of the cows.
