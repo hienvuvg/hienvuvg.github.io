@@ -149,12 +149,12 @@ The 3D neck location ```uwb``` is calculated from UWB distances, while the 3D bo
 <hr style="border: 1px; border-top: none; margin-bottom: 5px;">
 <p style="font-size: 25px; text-align: center; margin-top: 0;"><strong>Citation and Usage</strong></p>
 
-One of the MmCows's applications is behavior monitoring.
-Benchmarking of MmCows for behavior monitoring is discussed in our paper.
+<!--One of the MmCows's applications is behavior monitoring.
+Benchmarking of MmCows for behavior monitoring is discussed in our paper: [Main Paper] | [Supplementary Materials]
 
 Text
 ```
-Text
+Text-->
 ```
 
 ### Contact us
