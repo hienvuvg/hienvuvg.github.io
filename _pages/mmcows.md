@@ -103,7 +103,7 @@ Four high-resolution cameras are mounted at four corners of the pen to capture i
 The ground truth of MmCows comprises visual cow IDs and behavior labels.
 Out of 4.8M image frames, 20k UWB-synced frames from all four cameras in one day are selected for cow ID annotation.
 We defined and annotated seven behaviors of all 16 cows at the granularity of one second during the chosen day.
-Details of [the annotation rules](https://docs.google.com/document/d/1NAfwlkVOnybEZPSC2KwAE4i7GHH12huKUijDDizSxiI/edit?usp=sharing) are also provided.
+Details of the annotation rules can be found [here](https://docs.google.com/document/d/1NAfwlkVOnybEZPSC2KwAE4i7GHH12huKUijDDizSxiI/edit?usp=sharing).
 
 <div align="center">
 <img src="https://hienvuvg.github.io/files/media/behavior_examples.jpg" style="width:73%; height:auto; margin-bottom:15px;" />
