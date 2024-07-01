@@ -72,7 +72,7 @@ The annotated cow IDs from multi-views are used to derive their 3D body location
 
 <div style="text-align:center;">
     <p style="font-weight:bold; font-size:25px; margin-top:5px; margin-bottom:0px;">The Sensors</p>
-    <img src="https://hienvuvg.github.io/files/media/cow_w_sensors.png" style="width:80%; height:auto; max-width:100%; vertical-align: middle; margin-bottom:15px;" />
+    <img src="https://hienvuvg.github.io/files/media/cow_w_sensors.png" style="max-width:100%; width:80%; height:auto; vertical-align: middle; margin-bottom:15px;" />
 </div>
 
 The sensor suite consists of a neck-mounted collar tag, a vaginal temperature logger, and an ankle accelerometer for each of 10 cows, as well as four stationary cameras and six environmental sensors.
