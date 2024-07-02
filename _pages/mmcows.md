@@ -60,7 +60,7 @@ The annotated cow IDs from multi-views are used to derive their 3D body location
 <video width="100%" controls autoplay loop>
   <source src="https://hienvuvg.github.io/files/media/mmcows_vision_demo.mp4" type="video/mp4">
 </video>
-<div><a href="https://github.com/hienvuvg/dairycattle_dataset/tree/main/visualization">Multiview visual data with annotated cow IDs</a></div>
+<div><a href="https://github.com/hienvuvg/dairycattle_dataset/tree/main/visualization">Visualization of MmCows using an interactive 3D map and multiple views</a></div>
 </div>
 
 <br />
