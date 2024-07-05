@@ -182,7 +182,7 @@ Text
 
 
 ### License
-MmCows is available under the CC BY-NC-SA 4.0 license. You can use, copy, and redistribute the material for non-commercial purposes, provided you credit the original source, include a link to the license, and indicate any modifications made. If you alter, adapt, or expand upon the material, your contributions must be distributed under the same license as the original. Commercial use of the material might not be permitted.
+MmCows is available under the CC BY-NC-SA 4.0 license. You can use, copy, and redistribute the material for non-commercial purposes, provided you credit the original source, include a link to the license, and indicate any modifications made. If you alter, adapt, or expand upon the material, your contributions must be distributed under the same license as the original. Commercial use of the material is not permitted.
 
 <br />
 <br />
