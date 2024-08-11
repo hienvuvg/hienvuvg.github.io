@@ -15,7 +15,7 @@ redirect_from:
   
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 30px;">
   	
-  	<a href="https://github.com/hienvuvg/dairycattle_dataset" target="_blank" style="text-decoration: none;">
+  	<a href="https://github.com/hienvuvg/mmcows" target="_blank" style="text-decoration: none;">
   	<button style="padding: 6px 10px; background-color:  #e44220 ; color: white; border: none; cursor: pointer; font-size: 18px;">Download Data and Code</button>
 	</a>
     
