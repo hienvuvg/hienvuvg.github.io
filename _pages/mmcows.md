@@ -52,7 +52,7 @@ MmCows also contains 20,000 isometric-view images from multiple camera views in 
 The annotated cow IDs from multi-views are used to derive their 3D body location ground truth.
 
 <!--<p align="center">
-  <a href="https://github.com/hienvuvg/dairycattle_dataset">Download Data and Code</a>
+  <a href="https://github.com/hienvuvg/mmcows">Download Data and Code</a>
 </p>-->
 
 
@@ -60,7 +60,7 @@ The annotated cow IDs from multi-views are used to derive their 3D body location
 <video width="100%" controls autoplay loop>
   <source src="https://hienvuvg.github.io/files/media/mmcows_vision_demo.mp4" type="video/mp4">
 </video>
-<div><a href="https://github.com/hienvuvg/dairycattle_dataset/tree/main/visualization">Visualization of MmCows using an interactive 3D map and multiple views</a></div>
+<div><a href="https://github.com/hienvuvg/mmcows/tree/main/visualization">Visualization of MmCows using an interactive 3D map and multiple views</a></div>
 </div>
 
 <br />
@@ -130,13 +130,13 @@ The 3D neck location ```uwb``` is calculated from UWB distances, while the 3D bo
         <video width="480" controls autoplay loop>
             <source src="https://hienvuvg.github.io/files/media/uwb_loc_vid.mp4" type="video/mp4">
         </video>
-        <div><a href="https://github.com/hienvuvg/dairycattle_dataset/tree/main/visualization">UWB localization for one cow</a></div>
+        <div><a href="https://github.com/hienvuvg/mmcows/tree/main/visualization">UWB localization for one cow</a></div>
     </div>
     <div style="text-align: center;">
         <video width="480" controls autoplay loop>
             <source src="https://hienvuvg.github.io/files/media/visual_loc_vid.mp4" type="video/mp4">
         </video>
-        <div><a href="https://github.com/hienvuvg/dairycattle_dataset/tree/main/visualization">Visual localization for multiple cows</a></div>
+        <div><a href="https://github.com/hienvuvg/mmcows/tree/main/visualization">Visual localization for multiple cows</a></div>
     </div>
 </div>
 
