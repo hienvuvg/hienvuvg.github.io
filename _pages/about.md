@@ -16,7 +16,8 @@ redirect_from:
 
 About
 ------
-Prior to joining my Ph.D. program, I was with the Energy-Aware Computing Lab at Soongsil University, South Korea, where my research focused on advanced energy management systems.  At Purdue University, I have been actively engaging in research on low-power embedded computing and sensing systems. Currently, I am investigating the viability of various non-contact sensing and wireless communication techniques in improving the sustainability of dairy farming. I am also interested in improving battery-less sensor networks in various aspects, where different hardware/software optimization techniques can be leveraged to make sensing, in-device computation, and communication more effective.
+<!--Prior to joining my Ph.D. program, I was with the Energy-Aware Computing Lab at Soongsil University, South Korea, where my research focused on advanced energy management systems.  At Purdue University, I have been actively engaging in research on low-power embedded computing and sensing systems. -->
+Currently, I am investigating the viability of various non-contact sensing and wireless communication techniques in improving the sustainability of dairy farming. I am also interested in improving battery-less sensor networks in various aspects, where different hardware/software optimization techniques can be leveraged to make sensing, in-device computation, and communication more effective.
 
 
 <!--Education
