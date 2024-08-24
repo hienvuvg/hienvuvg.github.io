@@ -20,6 +20,11 @@ About
 My research focuses on low-power wireless sensing techniques for advancing precision agriculture. In particular, I am interested in battery-less wireless sensor networks that employ hardware and software optimization techniques to improve sensing, in-device computation, and communication efficiency for cost-effective and practical cyber-physical systems.
 
 
+News
+------
+* 8/2024: Our new multimodal dataset for precision livestock farming is now online → [MmCows](https://hienvuvg.github.io/mmcows/)
+
+
 <!--Education
 ------
 *   **Purdue University**, IN, USA  
