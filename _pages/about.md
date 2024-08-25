@@ -22,7 +22,7 @@ My research focuses on low-power wireless sensing techniques for advancing preci
 
 News
 ------
-* 8/2024: [MmCows](https://hienvuvg.github.io/mmcows/), our new multimodal dataset for precision livestock farming is now online
+* 8/2024: [MmCows](https://hienvuvg.github.io/mmcows/), our large-scale multimodal dataset for dairy cattle monitoring is now online
 
 
 <!--Education
