@@ -17,7 +17,7 @@ redirect_from:
 About
 ------
 <!--Prior to joining my Ph.D. program, I was with the Energy-Aware Computing Lab at Soongsil University, South Korea, where my research focused on advanced energy management systems.  At Purdue University, I have been actively engaging in research on low-power embedded computing and sensing systems. -->
-My research focuses on low-power wireless sensing techniques for advancing precision agriculture. In particular, I am interested in battery-less wireless sensor networks that employ hardware and software optimization techniques to improve sensing, in-device computation, and communication efficiency for cost-effective and practical cyber-physical systems.
+My research focuses on low-power wireless sensing techniques to advance precision agriculture. Specifically, I am interested in wireless sensor networks that utilize hardware and software optimization techniques to enhance sensing, in-device computation, and communication efficiency for developing practical cyber-physical systems.
 
 
 News
