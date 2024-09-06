@@ -12,7 +12,7 @@ author_profile: false
 <div class="list__item">
     <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
       <h2 class="archive__item-title" itemprop="headline" style="text-decoration:none; margin-bottom:-5px;"> MmCows: A Multimodal Dataset for Dairy Cattle Monitoring</h2>
-      <p><strong>Hien Vu</strong>, Omkar Prabhune, Unmesh Raskar, Dimuth Panditharatne, Hanwook Chung, Christopher Choi, Younghyun Kim 
+      <p><strong>Hien Vu</strong>, Omkar Prabhune, Unmesh Raskar, Dimuth Panditharatne, Hanwook Chung, Christopher Choi, and Younghyun Kim 
       <br /> Conference X 2024
       <a href="online link 1"><i class="fas fa-fw fa-link zoom" style="color:crimson" aria-hidden="true"></i></a> 
       <a href="pdf link"><i class="fas fa-fw fa-file-pdf-o zoom" style="color:crimson" aria-hidden="true"></i></a>
