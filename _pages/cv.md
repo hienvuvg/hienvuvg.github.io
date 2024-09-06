@@ -11,4 +11,4 @@ redirect_from:
 <!--[Download PDF](https://www.dropbox.com/scl/fi/xdavw9kauoz216bjp8zmg/CV_Hien_Vu.pdf?rlkey=zisf4mxf5qwl6qd17amyxv56m&dl=1) -->
 <!--change the last number in the link from 0 to 1 to force download from dropbox-->
 
-[Click to download my CV](https://hienvuvg.github.io/my_cv/CV_Hien_Vu.pdf) 
+[Click here to download my CV](https://hienvuvg.github.io/my_cv/CV_Hien_Vu.pdf) 
