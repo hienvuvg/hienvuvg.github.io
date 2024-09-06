@@ -1,0 +1,918 @@
+<!DOCTYPE HTML>
+<!--
+	Dopetrope by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+
+<head>
+	<title>Alessandro Montanari</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	<link rel="stylesheet" href="assets/css/main.css" />
+</head>
+
+<body class="homepage is-preload">
+
+	<script>
+		function targetBlank() {			
+			var internal = new RegExp("^.*#.*$", "i");
+			// console.log(internal);
+				
+			var a = document.getElementsByTagName('a'); // then, grab every link on the page
+			for (var i = 0; i < a.length; i++) {
+				var href = a[i].href; // set the host of each link
+				// console.log(href);
+				if( !internal.test(href) ) { // make sure the href doesn't contain current site's host
+					a[i].setAttribute('target', '_blank'); // if it doesn't, set attributes
+					a[i].setAttribute('rel', 'noopener noreferrer');
+					// console.log("Target set to _blank");
+				}
+			}
+			};
+
+			window.onload = targetBlank;
+	</script>
+
+	<div id="page-wrapper">
+
+		<!-- Header -->
+		<section id="header" style="padding: 50px 0px 20px 0px;">
+
+			<!-- Logo -->
+			<h1><a href="index.html">Alessandro Montanari</a></h1>
+			<h3>Principal Research Scientist &amp Tech Lead, Nokia Bell Labs</h3>
+
+			<!-- Nav -->
+			<nav id="nav">
+				<ul>
+					<li class="current"><a href="#">Home</a></li>
+					<li><a href="#bio">About me</a></li>
+					<li><a href="#projects">Projects</a></li>
+					<li><a href="#publications">Publications & Patents</a></li>
+					<li><a href="#mentoring">Mentoring</a></li>
+					<li><a href="#contact">Contact</a></li>
+					<!-- <li><a href="#bio">Work Experience</a></li> -->
+					<!-- <li><a href="#bio">Patents</a></li> -->
+					<!-- <li>
+									<a href="#">Dropdown</a>
+									<ul>
+										<li><a href="#bio">Lorem ipsum dolor</a></li>
+										<li><a href="#">Magna phasellus</a></li>
+										<li><a href="#">Etiam dolore nisl</a></li>
+										<li>
+											<a href="#">Phasellus consequat</a>
+											<ul>
+												<li><a href="#">Magna phasellus</a></li>
+												<li><a href="#">Etiam dolore nisl</a></li>
+												<li><a href="#">Veroeros feugiat</a></li>
+												<li><a href="#">Nisl sed aliquam</a></li>
+												<li><a href="#">Dolore adipiscing</a></li>
+											</ul>
+										</li>
+										<li><a href="#">Veroeros feugiat</a></li>
+									</ul>
+								</li> -->
+					<!-- <li><a href="left-sidebar.html">Left Sidebar</a></li>
+								<li><a href="right-sidebar.html">Right Sidebar</a></li>
+								<li><a href="no-sidebar.html">No Sidebar</a></li> -->
+				</ul>
+			</nav>
+
+			<!-- Banner -->
+			<!-- <section id="banner">
+				<header>
+					<h2>Ciao! This is Alessandro's page.</h2>
+					<p>Senior Research Scientist, Nokia Bell Labs</p>
+				</header>
+			</section> -->
+
+			<!-- Intro -->
+			<section id="intro" class="container">
+				<div class="row">
+					<div class="col-4 col-12-medium">
+						<section class="first">
+							<i class="icon solid featured fa-headphones-alt fa-xs"></i>
+							<header>
+								<h2>Earable Computing</h2>
+							</header>
+							<!-- <p>Nisl amet dolor sit ipsum veroeros sed blandit consequat veroeros et magna tempus.</p> -->
+						</section>
+					</div>
+					<div class="col-4 col-12-medium">
+						<section class="middle">
+							<i class="icon solid featured alt fa-battery-half fa-xs"></i>
+							<header>
+								<h2>Batteryless Sensing</h2>
+							</header>
+							<!-- <p>Nisl amet dolor sit ipsum veroeros sed blandit consequat veroeros et magna tempus.</p> -->
+						</section>
+					</div>
+					<div class="col-4 col-12-medium">
+						<section class="last">
+							<i class="icon solid featured alt2 fa-cogs fa-xs"></i>
+							<header>
+								<h2>Embedded Machine Learning</h2>
+							</header>
+							<!-- <p>Nisl amet dolor sit ipsum veroeros sed blandit consequat veroeros et magna tempus.</p> -->
+						</section>
+					</div>
+				</div>
+				<!-- <footer>
+								<ul class="actions">
+									<li><a href="#" class="button large">Get Started</a></li>
+									<li><a href="#" class="button alt large">Learn More</a></li>
+								</ul>
+							</footer> -->
+			</section>
+
+		</section>
+
+		<!-- Main -->
+		<section id="main">
+
+			<div class="container">
+				<article class="box post" id="bio">
+					<!-- <a href="#" class="image featured"><img src="images/pic01.jpg" alt="" /></a> -->
+
+					<div>
+						<img class="author-img" src="images/me.jpeg" alt="" />
+					</div>
+
+					<div class="row">
+						<div class="col">
+							<div class="col-4 col-6-medium col-12-small">
+								<header>
+									<div>
+										<h2>About Me</h2>
+									</div>
+									<!-- <p>Lorem ipsum dolor sit amet feugiat</p> -->
+								</header>
+								<p>
+									I am a Principal Research Scientist in the Pervasive Systems Department at <a href="https://www.bell-labs.com/">Nokia Bell Labs</a> in Cambridge, and I lead the Device Forms team.
+									<!-- I am also a visitor at the <a href="https://www.cst.cam.ac.uk/">University of Cambridge</a>. </br> -->
+								</p>
+
+								<p>
+									In my team we work on the architectural and algorithmic challenges of building the next-generation wearable systems for human sensing, exploiting ultra-low-power machine learning techniques. Some of the topics we explore include earable computing (<a href="https://www.esense.io/">esense.io</a>), batteryless sensing, ultra-low power machine learning and acoustic sensing.
+								</p>
+								<p>
+									I am an experimental computer scientist driven by solving important problems with practical solutions, hence, my work always involves building end-to-end HW and SW systems and evaluating them in real-world deployments.
+
+									I strongly believe in an interdisciplinary approach to research and I am always looking for opportunities to contribute to the development of new technologies. I contribute to the research community as a committee member for leading mobile and sensor systems conferences and journals.
+								</p>
+								<p>
+									I finished my PhD in Computer Science at the University of Cambridge (UK) under the
+									supervision
+									of <a href="https://www.cl.cam.ac.uk/~cm542/">Prof. Cecilia Mascolo</a>. My PhD focused on wearable devices to study social
+									dynamics.
+									I also hold an MEng and a BEng cum laude in Computer Engineering from the
+									University of
+									Bologna
+									(Italy).
+								</p>
+								<p>
+									During my studies, I have worked on a number of projects in diverse industries, including wireless sensor networks at the <a href="https://global.abb/group/en">ABB Corporate Research Center</a>, privacy
+									issues in the context of the Internet of Things at Nokia Bell Labs, and Internet of Things applications at <a href="https://www.arm.com/">ARM</a>. I was also a Research Assistant at the University of Cambridge working on optimising drone surveying flight paths using onboard context sensing and computation. 
+								</p>
+
+								<ul class="social">
+									<li><a class="icon brands fa-google" href="https://scholar.google.com/citations?user=5y9eO9MAAAAJ&hl=en"><span class="label">Google Scholar</span></a></li>
+									<li><a class="icon brands fa-twitter" href="https://twitter.com/a_montanari"><span class="label">Twitter</span></a></li>
+									<li><a class="icon brands fa-linkedin" href="https://www.linkedin.com/in/montanari-alessandro/"><span class="label">LinkedIn</span></a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</article>
+
+
+				<div class="row">
+					<div class="col-12">
+
+						<!-- Portfolio -->
+						<section id="projects">
+							<header class="major">
+								<h2>Selected Projects</h2>
+							</header>
+							<div class="row">
+
+								<div class="col-4 col-6-medium col-12-small">
+									<section class="box">
+										<a href="papers/hotmobile_bp_2023.pdf" class="image featured"><img style="padding: 10px 10px 0px 10px;" src="images/heart.png" alt="" /></a>
+										<header>
+											<h3>Stereo-BP: Non-Invasive Blood Pressure Sensing with Earables</h3>
+											<p>ACM HotMobile 2023</p>
+										</header>
+										<p> Frequent blood pressure monitoring with earables has been increasingly explored owing to its importance in diagnosing cardiac health.
+											The objective of this study
+											is to achieve non-invasive, accurate and cuff-less blood pressure
+											monitoring with PPG sensors integrated into earbuds. To this
+											end, we investigated PPG signals from the
+											left and right ears and found that blood arrives earlier in the left ear
+											due to the closer distance from the heart. Based on our findings, we
+											propose Stereo-BP — an earable system leveraging the pulse time
+											difference measured between PPG signals from our left and right
+											ear-worn prototypes to estimate blood pressure. Our preliminary
+											evaluation shows the feasibility of measuring
+											systolic and diastolic blood pressure from the ears, with mean absolute errors of 3.97 mmHg and 3.83 mmHg, respectively.</p>
+										<footer>
+											<ul class="actions">
+												<li><a href="papers/hotmobile_bp_2023.pdf" class="button alt">Find out more</a></li>
+											</ul>
+										</footer>
+									</section>
+								</div>
+
+								<div class="col-4 col-6-medium col-12-small">
+									<section class="box">
+										<a href="papers/ICASSP22.pdf" class="image featured"><img style="padding: 10px 55px 0px 50px;" src="images/BP-earable.png" alt="" /></a>
+										<header>
+											<h3>Non-Invasive Blood Pressure Monitoring with Multi-Modal In-Ear Sensing</h3>
+											<p>IEEE ICASSP 2022</p>
+										</header>
+										<p>Continuous blood pressure monitoring is the key to mitigate significant risks for stroke, heart failure and coronary artery disease.
+											Current gold-standard blood pressure devices cause discomfort and interfere with users’ activities. In this project we build an earable system which unobtrusively monitors users’ blood pressure from the
+											ear. We propose a cuffless measurement technique based on the vascular
+											transit time which utilises the time difference between the S1 heart
+											sound and the PPG upstroke in one pulse cycle. We develop a multimodal sensing hardware and processing pipeline and we evaluate it
+											with 10 participants showing average errors of 4.07 mmHg for systolic and 5.61 mmHg for diastolic blood pressure.</p>
+										<footer>
+											<ul class="actions">
+												<li><a href="papers/ICASSP22.pdf" class="button alt">Find out more</a></li>
+											</ul>
+										</footer>
+									</section>
+								</div>
+
+								<div class="col-4 col-6-medium col-12-small">
+									<section class="box">
+										<a href="papers/In-Ear_PPG_for_Vital_Signs.pdf" class="image featured"><img style="padding: 5px 10px 0px 10px;" src="images/in-ear-vitals.png" alt="" /></a>
+										<header>
+											<h3>In-Ear PPG for Vital Signs</h3>
+											<p>IEEE Pervasive Computing 2021</p>
+										</header>
+										<p>We report a systematic characterization of in-ear photoplethysmography (PPG) in measuring
+											vital signs: heart rate, heart rate variability, blood oxygen saturation, and respiration rate. We explore in-ear PPG inaccuracies stemming
+											from different sensor placements and motion-induced artifacts. We observe
+											statistically significant differences across sensor placements and between artifact
+											types. Our
+											results suggest that in-ear PPG is reasonably accurate in detecting vital signs but
+											demands careful mechanical design and signal processing treatment.</p>
+										<footer>
+											<ul class="actions">
+												<li><a href="papers/In-Ear_PPG_for_Vital_Signs.pdf" class="button alt">Find out more</a></li>
+											</ul>
+										</footer>
+									</section>
+								</div>
+
+								<div class="col-4 col-6-medium col-12-small">
+									<section class="box">
+										<a href="papers/sensys2022.pdf" class="image featured"><img style="padding: 10px 55px 0px 50px;" src="images/adaptive_tm.png" alt="" /></a>
+										<header>
+											<h3>Adaptive Intelligence for Batteryless Sensors Using Software-Accelerated Tsetlin Machines</h3>
+											<p>ACM SenSys 2022</p>
+										</header>
+										<p>Tsetlin Machine (TM) is a new machine learning algorithm that
+											encodes propositional logic into learning automata—a set of logical expressions composed of boolean input features—to recognise patterns. 
+											TM is a promising candidate for embedding intelligence into tiny batteryless sensors with the potential to address
+											two critical challenges: computing under resource constraints
+											and demand for dynamic adaptation to the unpredictable nature of harvested energy. However, its structural model complexity
+											manifests in two conflicting issues: large memory footprint and
+											long latency. This work addresses these shortcomings by proposing
+											adaptive compression techniques exploiting the inherent redundancies observed in trained models. Through dynamically scaling
+											the computational complexity based on available energy, our techniques significantly reduce the memory footprint and speed up the
+											runtime execution.</p>
+										<footer>
+											<ul class="actions">
+												<li><a href="papers/sensys2022.pdf" class="button alt">Find out more</a></li>
+											</ul>
+										</footer>
+									</section>
+								</div>
+
+								<div class="col-4 col-6-medium col-12-small">
+									<section class="box">
+										<a href="papers/AIChallengeIoT2022.pdf" class="image featured"><img style="padding: 10px 55px 0px 50px;" src="images/accelerator.png" alt="" /></a>
+										<header>
+											<h3>Ultra-low Power DNN Accelerators for IoT: Resource Characterization of the MAX78000</h3>
+											<p>ACM AIChallengeIoT 2022</p>
+											<div style="color: red;"><i class="icon solid fa-award"></i> Best Paper Award</div>
+										</header>
+										<p>The development of edge devices with dedicated hardware accelerators has 
+											pushed the deployment and inference of Deep Neural Networks closer to 
+											users and real-world sensory systems
+											than ever before. Recently, a further subset
+											of these devices has emerged: ultra-low power DNN accelerators.
+											These microcontrollers possess a dedicated hardware accelerator
+											and are able to operate with only 𝜇J’s of energy. In this work,
+											we take a close look at one such device: the MAX78000 by Maxim
+											Integrated. We characterize the device’s performance by running
+											five DNN models of various sizes and architectures, and analyze
+											its operational latency, power consumption, and memory footprint.
+											In doing so, we offer empirical insights and guidelines for practitioners and 
+											researchers interested in deploying DNN models on the MAX78000 
+											platform for ultra-low power sensory tasks.</p>
+										<footer>
+											<ul class="actions">
+												<li><a href="papers/AIChallengeIoT2022.pdf" class="button alt">Find out more</a></li>
+											</ul>
+										</footer>
+									</section>
+								</div>
+								
+
+								<!-- <div class="col-4 col-6-medium col-12-small">
+									<section class="box">
+										<a href="papers/hotmobile22.pdf" class="image featured"><img style="padding: 10px 55px 0px 50px;" src="images/logic_devs-2.png" alt="" /></a>
+										<header>
+											<h3>Logic-based Intelligence for Batteryless Sensors</h3>
+											<p>ACM HotMobile 2022</p>
+										</header>
+										<p>In this project we look beyond traditional arithmetic-based neural networks (NNs) to the logic-based learning algorithm called the Tsetlin Machine (TM). We argue that the Tsetlin Machine's simple architecture makes them a promising candidate for batteryless ML systems despite the substantial memory footprint of trained models. To solve this issue, we propose a lossless compression scheme based on run-length encoding and evaluate against standard TMs for vision and acoustic workloads. Our encoding can compress the model by up to 99% without accuracy loss, translating into lower memory footprint and better energy efficiency.</p>
+										<footer>
+											<ul class="actions">
+												<li><a href="papers/hotmobile22.pdf" class="button alt">Find out more</a></li>
+											</ul>
+										</footer>
+									</section>
+								</div> -->
+
+								
+								<div class="col-4 col-6-medium col-12-small">
+									<section class="box">
+										<a href="papers/SenSys2020_Batteryless.pdf" class="image featured"><img style="padding: 5px 10px 0px 10px;" src="images/eperceptive.png" alt="" /></a>
+										<header>
+											<h3>ePerceptive—Energy Reactive Embedded Intelligence for
+												Batteryless Sensors</h3>
+											<p>ACM SenSys 2020</p>
+										</header>
+										<p>This work presents the design and implementation of ePerceptive: a novel framework
+											for best-effort embedded intelligence, i.e., inference fidelity which varies
+											in proportion to the instantaneous energy supplied. We report the manifestation of ePerceptive in designing batteryless cameras and microphones built with TI MSP430
+											MCU and off-the-shelf RF and solar energy harvesters. Our evaluation with multiple vision and acoustic
+											workloads suggest that the dynamic adaptation of ePerceptive can
+											increase the inference throughput by up to 80% compared to a static
+											baseline while ensuring a maximum accuracy drop of less than 6%.</p>
+										<footer>
+											<ul class="actions">
+												<li><a href="papers/SenSys2020_Batteryless.pdf" class="button alt">Find out more</a></li>
+											</ul>
+										</footer>
+									</section>
+								</div>
+
+								<!-- <div class="col-4 col-6-medium col-12-small">
+									<section class="box">
+										<a href="papers/facial_expressions.pdf" class="image featured"><img style="padding: 5px 10px 0px 10px;" src="images/facial_expr.png" alt="" /></a>
+										<header>
+											<h3>Automatic Smile and Frown Recognition with Kinetic Earables</h3>
+											<p>ACM Augmented Human 2019</p>
+										</header>
+										<p>In this work, we introduce inertial signals obtained from an earable
+											placed in the ear canal as a new compelling sensing modality for
+											recognising two key facial expressions: smile and frown. Borrowing principles from Facial Action Coding Systems, we first demonstrate that an inertial measurement unit of an earable can capture
+											facial muscle deformation activated by a set of temporal microexpressions. Building on these observations, we then present three
+											different learning schemes - shallow models with statistical features,
+											hidden Markov model, and deep neural networks to automatically
+											recognise smile and frown expressions from inertial signals. The results show that in controlled non-conversational
+											settings, we can identify smile and frown with high accuracy (F1
+											score: 0.85).</p>
+										<footer>
+											<ul class="actions">
+												<li><a href="papers/facial_expressions.pdf" class="button alt">Find out more</a></li>
+											</ul>
+										</footer>
+									</section>
+								</div> -->
+
+								<!--
+								<div class="col-4 col-6-medium col-12-small">
+									<section class="box">
+										<a href="papers/light_tags_IMWUT.pdf" class="image featured"><img style="padding: 3px 20px 0px 25px;" src="images/protractor.png" alt="" /></a>
+										<header>
+											<h3>Measuring Interaction Proxemics with Wearable Light Tags</h3>
+											<p>ACM IMWUT 2018</p>
+										</header>
+										<p>We present Protractor, a novel wearable technology for measuring interaction proxemics as part of non-verbal behavior cues with finne granularity. 
+											Protractor employs near-infrared light to monitor both the distance and relative body orientation of interacting users. 					
+											We fabricated Protractor tags and conducted real-world experiments. Results show its accuracy in tracking body distances
+											and relative angles. The framework achieves less than 6 error 95% of the time for measuring relative body orientation
+											and 2.3-cm – 4.9-cm mean error in estimating interaction distance. We deployed Protractor tags to track user’s non-verbal behaviors among 64 participants.
+											Results show that distance and angle data from can help assess individual’s task role with 84.9% accuracy, and identify task timeline with 93.2% accuracy.</p>
+										<footer>
+											<ul class="actions">
+												<li><a href="papers/light_tags_IMWUT.pdf" class="button alt">Find out more</a></li>
+											</ul>
+										</footer>
+									</section>
+								</div>
+								-->
+								<!-- <div class="col-4 col-6-medium col-12-small">
+									<section class="box">
+										<a href="papers/Montanari_etal2017_BluetoothSensing_PerCom.pdf" class="image featured"><img style="padding: 5px 10px 0px 10px;" src="images/ble_device.png" alt="" /></a>
+										<header>
+											<h3>A Study of Bluetooth Low Energy Performance for
+												Human Proximity Detection in the Workplace</h3>
+												<p>IEEE PerCom 2017</p>
+										</header>
+										<p>We present an extensive evaluation of Bluetooth
+											Low Energy as a technology to monitor people proximity
+											in the workplace. We examine the key parameters that affect
+											the accuracy of the detected contacts and their impact on power
+											consumption. We study how this system can be implemented on
+											popular wearable devices and
+											the resulting limitations. Through a real world deployment in
+											a commercial organisation with 25 participants we evaluate the
+											performances of a BLE-based proximity detection technique. Our results show the suitability of BLE for workplace interaction detection and give guidance to vendors and Operating
+											System (OS) developers on the impact of the restrictions regarding the use of BLE on commodity wearables.</p>
+										<footer>
+											<ul class="actions">
+												<li><a href="papers/Montanari_etal2017_BluetoothSensing_PerCom.pdf" class="button alt">Find out more</a></li>
+											</ul>
+										</footer>
+									</section>
+								</div> -->
+							</div>
+						</section>
+
+					</div>
+					<div class="col-12">
+
+						<!-- Blog -->
+						<!-- <section>
+										<header class="major">
+											<h2>The Blog</h2>
+										</header>
+										<div class="row">
+											<div class="col-6 col-12-small">
+												<section class="box">
+													<a href="#" class="image featured"><img src="images/pic08.jpg" alt="" /></a>
+													<header>
+														<h3>Magna tempus consequat</h3>
+														<p>Posted 45 minutes ago</p>
+													</header>
+													<p>Lorem ipsum dolor sit amet sit veroeros sed et blandit consequat sed veroeros lorem et blandit adipiscing feugiat phasellus tempus hendrerit, tortor vitae mattis tempor, sapien sem feugiat sapien, id suscipit magna felis nec elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos lorem ipsum dolor sit amet.</p>
+													<footer>
+														<ul class="actions">
+															<li><a href="#" class="button icon solid fa-file-alt">Continue Reading</a></li>
+															<li><a href="#" class="button alt icon solid fa-comment">33 comments</a></li>
+														</ul>
+													</footer>
+												</section>
+											</div>
+											<div class="col-6 col-12-small">
+												<section class="box">
+													<a href="#" class="image featured"><img src="images/pic09.jpg" alt="" /></a>
+													<header>
+														<h3>Aptent veroeros aliquam</h3>
+														<p>Posted 45 minutes ago</p>
+													</header>
+													<p>Lorem ipsum dolor sit amet sit veroeros sed et blandit consequat sed veroeros lorem et blandit adipiscing feugiat phasellus tempus hendrerit, tortor vitae mattis tempor, sapien sem feugiat sapien, id suscipit magna felis nec elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos lorem ipsum dolor sit amet.</p>
+													<footer>
+														<ul class="actions">
+															<li><a href="#" class="button icon solid fa-file-alt">Continue Reading</a></li>
+															<li><a href="#" class="button alt icon solid fa-comment">33 comments</a></li>
+														</ul>
+													</footer>
+												</section>
+											</div>
+										</div>
+									</section> -->
+
+					</div>
+				</div>
+
+				<article class="box post" id="publications">
+					<!-- <a href="#" class="image featured"><img src="images/pic01.jpg" alt="" /></a> -->
+					<header>
+						<h2>Publications</h2>
+						<!-- <p>Lorem ipsum dolor sit amet feugiat</p> -->
+					</header>
+		
+					<section>
+						<header>
+							<h3>Selected Peer-reviewed Publications</h3>
+						</header>
+						<!-- <p> -->
+							<ul class="no-bullets">
+
+								<li><b>Stereo-BP: Non-Invasive Blood Pressure Sensing with Earables.</b></br>
+									Ananta Narayanan Balaji, Andrea Ferlini, Fahim Kawsar, <u>Alessandro Montanari</u></br>
+									24th International Workshop on Mobile Computing Systems and Applications (HotMobile 2023), February 2023.</br>
+									<a class="button small alt" href="https://dl.acm.org/doi/abs/10.1145/3572864.3580341">Publisher</a>
+									<a class="button small alt" href="papers/hotmobile_bp_2023.pdf">PDF</a>
+								</li>
+
+								<li><b>Adaptive Intelligence for Batteryless Sensors Using Software-Accelerated Tsetlin Machines</b></br>
+									Abu Bakar, Tousif Rahman, Rishad Shafik, Fahim Kawsar, <u>Alessandro Montanari</u></br>
+									20th Conference on Embedded Networked Sensor Systems (SenSys 2022), November 2022.</br>
+									<a class="button small alt" href="https://dl.acm.org/doi/10.1145/3560905.3568512">Publisher</a>
+									<a class="button small alt" href="papers/sensys2022.pdf">PDF</a>
+								</li>
+
+								<li><b>Ultra-low Power DNN Accelerators for IoT: Resource Characterization of the MAX78000 <b style="color: red;">[Best Paper Award]</b></b></br>
+									Arthur Moss, Hyunjong Lee, Lei Xun, Chulhong Min, Fahim Kawsar, <u>Alessandro Montanari</u></br>
+									4th ACM International Workshop on Challenges in Artificial Intelligence and Machine Learning for Internet of Things (AIChallengeIoT 2022), November 2022.</br>Co-located with SenSys 2022.</br>
+									<a class="button small alt" href="https://dl.acm.org/doi/10.1145/3560905.3568300">Publisher</a>
+									<a class="button small alt" href="papers/AIChallengeIoT2022.pdf">PDF</a>
+								</li>
+
+								<li><b>A Multidevice and Multimodal Dataset for Human Energy Expenditure Estimation Using Wearable Devices</b></br>
+									Shkurta Gashi, Chulhong Min, <u>Alessandro Montanari</u>, Silvia Santini, Fahim Kawsar</br>
+									Nature Scientific Data, September 2022</br>
+									<a class="button small alt" href="https://www.nature.com/articles/s41597-022-01643-5">Publisher</a>
+									<a class="button small alt" href="papers/nature_data2022.pdf">PDF</a>
+									<a class="button small alt" href="https://zenodo.org/record/6420886">Dataset</a>
+								</li>
+
+								<li><b>Non-Invasive Blood Pressure Monitoring with Multi-Modal In-Ear Sensing</b></br> 
+									Hoang Truong, <u>Alessandro Montanari</u>, Fahim Kawsar</br> 
+									47th IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP 2022), May 2022</br> 
+									<a class="button small alt" href="https://ieeexplore.ieee.org/abstract/document/9747661">Publisher</a> 
+									<a class="button small alt" href="papers/ICASSP22.pdf">PDF</a>
+								</li>
+
+								<li><b>Logic-based Intelligence for Batteryless Sensors</b></br> 
+									Abu Bakar, Tousif Rahman, <u>Alessandro Montanari</u>, Jie Lei, Rishad Shafik, Fahim Kawsar</br> 
+									23rd International Workshop on Mobile Computing Systems and Applications (HotMobile 2022), March 2022</br> 
+									<a class="button small alt" href="https://dl.acm.org/doi/10.1145/3508396.3512870">Publisher</a> 
+									<a class="button small alt" href="papers/hotmobile22.pdf">PDF</a>
+								</li>
+
+								<li><b>In-Ear PPG for Vital Signs</b></br> 
+									Andrea Ferlini, <u>Alessandro Montanari</u>, Chulhong Min, Hongwei Li, Ugo Sassi, Fahim Kawsar</br> 
+									IEEE Pervasive Computing, December 2021</br> 
+									<a class="button small alt" href="https://ieeexplore.ieee.org/document/9642255">Publisher</a> 
+									<a class="button small alt" href="papers/In-Ear_PPG_for_Vital_Signs.pdf">PDF</a>
+								</li>
+								
+								<li><b>FatigueSet: A Multi-modal Dataset for Modeling Mental Fatigue and Fatigability</b></br>
+									Manasa Kalanadhabhatta, Chulhong Min, <u>Alessandro Montanari</u>, Fahim Kawsar</br>
+									EAI International Conference on Pervasive Computing Technology for Healthcare (PervasiveHealth 2021), December 2021.</br>
+									<a class="button small alt" href="papers/Kalanadhabhatta-PervasiveHealth2021-Camera.pdf">PDF</a>
+									<a class="button small alt" href="https://www.esense.io/datasets/fatigueset/">Dataset</a>
+								</li>
+
+								<li><b>Enabling In-Ear Magnetic Sensing: Automatic and User Transparent Magnetometer Calibration</b></br>
+									Andrea Ferlini, <u>Alessandro Montanari</u>, Andreas Grammenos, Robert Harle, Cecilia Mascolo</br>
+									IEEE International Conference on Pervasive Computing and Communications (PerCom 2021), March 2021.</br>
+									<a class="button small alt" href="https://ieeexplore.ieee.org/abstract/document/9439112">Publisher</a>
+									<a class="button small alt" href="papers/percom21.pdf">PDF</a>
+								</li>
+
+								<li><b>ePerceptive: Energy Reactive Embedded Intelligence for Batteryless Sensors</b></br>
+									<u>Alessandro Montanari</u>, Manuja Sharma, Dainius Jenkus, Mohammed Alloulah, Lorena Qendro, Fahim Kawsar</br>
+									18th Conference on Embedded Networked Sensor Systems (SenSys 2020), November 2020.</br>
+									<a class="button small alt" href="https://dl.acm.org/doi/abs/10.1145/3384419.3430782">Publisher</a>
+									<a class="button small alt" href="papers/SenSys2020_Batteryless.pdf">PDF</a>
+								</li>
+
+								<li><b>A Closer Look at Quality-Aware Runtime Assessment of Sensing Models in Multi-Device Environments</b></br>
+									Chulhong Min, <u>Alessandro Montanari</u>, Akhil Mathur, Fahim Kawsar</br>
+									17th ACM Conference on Embedded Networked Sensor Systems (SenSys 2019), November 2019.</br>
+									<a class="button small alt" href="https://dl.acm.org/doi/10.1145/3356250.3360043">Publisher</a>
+									<a class="button small alt" href="papers/quality_aware_runtime.pdf">PDF</a>
+								</li>
+
+								<li><b>Resource Characterisation of Personal-scale Sensing Models on Edge Accelerators</b></br>
+									Mattia Antonini, Tran Huy Vu, Chulhong Min, <u>Alessandro Montanari</u>, Akhil Mathur, Fahim Kawsar</br>
+									First ACM International Workshop on Challenges in Artificial Intelligence and Machine Learning for Internet of Things (AIChallengeIoT 2019), November 2019.</br>
+									<a class="button small alt" href="https://dl.acm.org/doi/abs/10.1145/3363347.3363363">Publisher</a>
+									<a class="button small alt" href="papers/AIChallengeIoT2019.pdf">PDF</a>
+								</li>
+								
+								<li><b>An Early Characterisation of Wearing Variability on Motion Signals for Wearables</b></br>
+									Chulhong Min, Akhil Mathur, <u>Alessandro Montanari</u>, Fahim Kawsar</br>
+									International Symposium on Wearable Computers (ISWC 2019), September 2019.</br>
+									<a class="button small alt" href="https://dl.acm.org/doi/10.1145/3341163.3347716">Publisher</a>
+									<a class="button small alt" href="papers/wearing_variability.pdf">PDF</a>
+								</li>
+
+								<li><b>Head Motion Tracking Through In-ear Wearables</b></br>
+									Andrea Ferlini, <u>Alessandro Montanari</u>, Cecilia Mascolo, Robert Harle</br>
+									1st International Workshop on Earable Computing (EarComp 2019), September 2019.</br>
+									<a class="button small alt" href="https://dl.acm.org/doi/abs/10.1145/3345615.3361131">Publisher</a>
+									<a class="button small alt" href="papers/earcomp19.pdf">PDF</a>
+								</li>
+
+								<li><b>Automatic Smile and Frown Recognition with Kinetic Earables</b></br>
+									Seungchul Lee, Chulhong Min, <u>Alessandro Montanari</u>, Akhil Mathur, Youngjae Chang, Junehwa Song, Fahim Kawsar</br>
+									10th Augmented Human International Conference (AH 2019), March 2019.</br>
+									<a class="button small alt" href="https://dl.acm.org/doi/10.1145/3311823.3311869">Publisher</a>
+									<a class="button small alt" href="papers/facial_expressions.pdf">PDF</a>
+								</li>
+
+								<li><b>Earables for Personal-Scale Behavior Analytics</b></br>
+									Fahim Kawsar, Chulhong Min, Akhil Mathur, <u>Alessandro Montanari</u></br>
+									IEEE Pervasive Computing, October 2018.</br>
+									<a class="button small alt" href="https://ieeexplore.ieee.org/abstract/document/8490189">Publisher</a>
+									<a class="button small alt" href="papers/IEEE_earables.pdf">PDF</a>
+								</li>
+
+								<li><b>Surveying Areas in Developing Regions Through Context Aware Drone Mobility</b></br>
+									<u>Alessandro Montanari</u>, Fredrika Kringberg, Alice Valentini, Cecilia Mascolo, Amanda Prorok</br>
+									4th ACM Workshop on Micro Aerial Vehicle Networks, Systems, and Applications (DroNet 2018), June 2018.</br>
+									<a class="button small alt" href="https://dl.acm.org/doi/abs/10.1145/3213526.3213532">Publisher</a>
+									<a class="button small alt" href="papers/dronenets18.pdf">PDF</a>
+								</li>
+
+								<li><b>Measuring Interaction Proxemics with Wearable Light Tags</b></br>
+									<u>Alessandro Montanari</u>, Zhao Tian, Elena Francu, Benjamin Lucas, Brian Jones, Xia Zhou, Cecilia Mascolo</br>
+									Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), March 2018.</br>
+									<a class="button small alt" href="https://dl.acm.org/doi/abs/10.1145/3191757">Publisher</a>
+									<a class="button small alt" href="papers/light_tags_IMWUT.pdf">PDF</a>
+								</li>
+
+								<li><b>Detecting Emerging Activity-based Working Traits Through Wearable Technology</b></br>
+									<u>Alessandro Montanari</u>, Cecilia Mascolo, Kerstin Sailer, Sarfraz Nawaz</br>
+									Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), September 2017.</br>
+									<a class="button small alt" href="https://dl.acm.org/doi/abs/10.1145/3130951">Publisher</a>
+									<a class="button small alt" href="papers/Ubicomp17-Montanari.pdf">PDF</a>
+								</li>
+
+								<li><b>A Study of Bluetooth Low Energy Performance for Human Proximity Detection in the Workplace</b> <b style="color: red;">[Best Paper Nominee]</b></br>
+									<u>Alessandro Montanari</u>, Sarfraz Nawaz, Cecilia Mascolo, Kerstin Sailer</br>
+									IEEE International Conference on Pervasive Computing and Communications (PerCom 2017), March 2017.</br>
+									<a class="button small alt" href="https://ieeexplore.ieee.org/abstract/document/7917855">Publisher</a>
+									<a class="button small alt" href="papers/Montanari_etal2017_BluetoothSensing_PerCom.pdf">PDF</a>
+								</li>
+
+							</ul>
+						<!-- </p> -->
+						<p>
+							<a href="https://scholar.google.com/citations?user=5y9eO9MAAAAJ&hl=en">See All Publications...</a>
+						</p>
+					</section>
+					<section>
+						<header>
+							<h3>Patents</h3>
+						</header>
+						<p>
+							<ul>
+								<li>A System For The Detection Of Artifacts In Bio-Signal Sensors And The Synthesis Of Clean Data For Wearable Devices. {EP 21192515.1}</li>
+								<!-- <li>A System for Runtime Automatic Compilation and Optimisation of Deep Learning Models for Edge Accelerators. {GB 2006801.1}</li> -->
+								<li>Model modification and deployment. {US 2021/0350280 A1}</li>
+								<li>Mobile Sensor And Nft Based Authentication. {323096-EP}</li>
+								<!-- <li>A method for automatic and dynamic configuration of cameras using ear-worn sensors. {EP 19158220.4}</li> -->
+								<li>Sensor configuration based on other sensor context determination. {WO 20201/69739 A1}</li>
+								<!-- <li>A method for quality-aware runtime assessment of sensing models in multi-device environments. {US 62/903565}</li> -->
+								<li>Runtime assessment of sensors. {WO 2021/053444 A1}</li>
+								<!-- <li>A system for the detection of facial expression on kinetic earables. {EP 19161913.9}</li> -->
+								<li>Detection of facial expressions. {WO 2020/182447 A1}
+								<!-- <li>Joint Source-Coding & Featurisation For Degradable Inference. {GB 2003443.5}</li> -->
+								<li>Energy-aware processing system. {WO 2021/180664 A1}</li>
+								<li>Privacy-aware personal data store. {US 2016/0044039 A1}</li>
+
+							</ul>
+						</p>
+					</section>
+				</article>
+
+				<article class="box post" id="mentoring">
+					<!-- <a href="#" class="image featured"><img src="images/pic01.jpg" alt="" /></a> -->
+					<header>
+						<h2>Mentoring</h2>
+						<!-- <p>Lorem ipsum dolor sit amet feugiat</p> -->
+					</header>
+
+					<p>
+						I find it incredibly stimulating and inspiring mentoring and collaborating with self-motivated students.</br> 
+						At Bell Labs we offer several on-site, paid research internship positions.
+						Click <a href="files/Cambridge-Intern-2023.pdf">here</a> for more details.
+						<!-- Typically, applications open in December for positions during June-September of next year. Feel free to reach out if you are interested in these opportunities. -->
+						</br>
+						Below are the students I have supervised and collaborated with:
+						</p>
+
+					<section>
+							<header>
+								<h3>Nokia Bell Labs Interns and Visitors</h3>
+							</header>
+						<ul>
+							<li>Berken Utku Demirel (ETH) &mdash; In-ear sensing for hearing characterisation and enhancement. (2022)
+							</li>
+							<li>Kayla-Jade Butkow (University of Cambridge) &mdash; In-ear Sensing for physiological intervention. (2022)
+							</li>
+							<li>Lei Xun (University of Southampton) &mdash; Ultra-low Power DNN Accelerators for IoT: Resource Characterization of the MAX78000 (2022)
+							</li>
+							<li>Arthur Moss (Newcastle University) &mdash; Ultra-low Power DNN Accelerators for IoT: Resource Characterization of the MAX78000 (2022)
+							</li>
+							<li>Abu Bakar (Northwestern University) &mdash; Logic-based Intelligence for Batteryless Sensors and Adaptive Intelligence for Batteryless Sensors Using Software-Accelerated Tsetlin Machines (2021)
+							</li>
+							<li>Tousif Rahman (Newcastle University) &mdash; Logic-based Intelligence for Batteryless Sensors and Adaptive Intelligence for Batteryless Sensors Using Software-Accelerated Tsetlin Machines (2021)
+							</li>
+							<li>Ananta Narayanan Balaji (NUS) &mdash; Stereo-BP: Non-Invasive Blood Pressure Sensing with Earables (2021)
+							</li>
+							<li>Hoang Truong (University of Colorado Boulder) &mdash; Non-Invasive Blood Pressure Monitoring with Multi-Modal In-Ear Sensing (2021)
+							</li>
+							<li>Shkurta Gashi (USI) &mdash; A Multidevice and Multimodal Dataset for Human Energy Expenditure Estimation Using Wearable Devices (2021)
+							</li>
+							<li>Manasa Kalanadhabhatta (University of Massachusetts Amherst) &mdash; FatigueSet: A Multi-modal Dataset for Modeling Mental Fatigue and Fatigability (2021)
+							</li>
+							<li>Andrea Ferlini (University of Cambridge) &mdash; In-Ear PPG for Vital Signs (2020)
+							</li>
+							<li>Manuja Sharma (University of Washington) &mdash; ePerceptive—Energy Reactive Embedded Intelligence for Batteryless Sensors (2019)
+							</li>
+							<li>Dainius Jenkus (Newcastle University) &mdash; ePerceptive—Energy Reactive Embedded Intelligence for Batteryless Sensors (2019)
+							</li>
+							<li>Mattia Antonini (FBK CREATE-NET and University of Trento) &mdash; Resource Characterisation of Personal-scale Sensing Models on Edge Accelerators (2019)
+							</li>
+							<li>Dmitry Ermilov (Skoltech) &mdash; Design And Implementation Of Mobile Sensing Applications For Research In Behavioural Understanding (2018)
+							</li>
+							<li>Seungchul Lee (KAIST) &mdash; Automatic Smile and Frown Recognition with Kinetic Earables (2018)
+							</li>
+						</ul>
+					</section>
+
+					<section>
+						<header>
+							<h3>Thesis Supervision</h3>
+						</header>
+					<ul>
+					<li>Alexandru-Mihai Solot &mdash; Efficient Deep Learning For Small Object Detection On Embedded Systems</br>
+						2019 - University of Cambridge, Master of Philosophy in Advanced Computer Science
+					</li>
+					<li>James Lowenthal &mdash; Graph-Based Search for Continuous Space with Application to Path-Planning for Drone-Based Area Surveying</br>
+						2018 - University of Cambridge, Computer Science Tripos – Part II
+					</li>
+					<li>Fredrika Kringberg &mdash; A Path Planning Approach for Context Aware Autonomous UAVs used for Surveying Areas in Developing Regions</br>
+						2017 - KTH, Master of Science Thesis
+					</li>
+					<li>Alice Valentini &mdash; Evaluation Of Deep Learning Techniques For Object Detection On Embedded Systems</br>
+						2017 - University of Bologna, Computer Science Master Thesis
+					</li>
+					<li>Andrea Bucaletti &mdash; Design and Implementation of tuProlog User Interface Following the Java Scripting Engine Specification</br>
+						2015 - University of Bologna, Computer Engineering Master Thesis
+					</li>
+					<li>Matteo Librenti &mdash; Input Management for tuProlog Graphical Interface in Java and Eclipse</br>
+						2013 - University of Bologna, Computer Engineering Bachelor Thesis
+					</li>
+					<li>Alessio Mercurio &mdash; Class Loading in Android Applied to the tuProlog Interpreter</br>
+						2013 - University of Bologna, Computer Engineering Bachelor Thesis
+					</li>
+				</ul>
+				</section>
+
+						
+					
+	
+				</article>
+
+			</div>
+		</section>
+
+		<!-- Footer -->
+		<section id="footer">
+			<div class="container">
+				<div class="row">
+					<!-- <div class="col-8 col-12-medium">
+						<section>
+							<header>
+								<h2>Blandit nisl adipiscing</h2>
+							</header>
+							<ul class="dates">
+								<li>
+									<span class="date">Jan <strong>27</strong></span>
+									<h3><a href="#">Lorem dolor sit amet veroeros</a></h3>
+									<p>Ipsum dolor sit amet veroeros consequat blandit ipsum phasellus lorem consequat
+										etiam.</p>
+								</li>
+								<li>
+									<span class="date">Jan <strong>23</strong></span>
+									<h3><a href="#">Ipsum sed blandit nisl consequat</a></h3>
+									<p>Blandit phasellus lorem ipsum dolor tempor sapien tortor hendrerit adipiscing
+										feugiat lorem.</p>
+								</li>
+								<li>
+									<span class="date">Jan <strong>15</strong></span>
+									<h3><a href="#">Magna tempus lorem feugiat</a></h3>
+									<p>Dolore consequat sed phasellus lorem sed etiam nullam dolor etiam sed amet sit
+										consequat.</p>
+								</li>
+								<li>
+									<span class="date">Jan <strong>12</strong></span>
+									<h3><a href="#">Dolore tempus ipsum feugiat nulla</a></h3>
+									<p>Feugiat lorem dolor sed nullam tempus lorem ipsum dolor sit amet nullam
+										consequat.</p>
+								</li>
+								<li>
+									<span class="date">Jan <strong>10</strong></span>
+									<h3><a href="#">Blandit tempus aliquam?</a></h3>
+									<p>Feugiat sed tempus blandit tempus adipiscing nisl lorem ipsum dolor sit amet
+										dolore.</p>
+								</li>
+							</ul>
+						</section>
+					</div> -->
+					<!-- <div class="col-4 col-12-medium">
+						<section>
+							<header>
+								<h2>What's this all about?</h2>
+							</header>
+							<a href="#" class="image featured"><img src="images/pic10.jpg" alt="" /></a>
+							<p>
+								This is <strong>Dopetrope</strong> a free, fully responsive HTML5 site template by
+								<a href="http://twitter.com/ajlkn">AJ</a> for <a href="http://html5up.net/">HTML5 UP</a>
+								It's released for free under
+								the <a href="http://html5up.net/license/">Creative Commons Attribution</a> license so
+								feel free to use it for any personal or commercial project &ndash; just don't forget to
+								credit us!
+							</p>
+							<footer>
+								<ul class="actions">
+									<li><a href="#" class="button">Find out more</a></li>
+								</ul>
+							</footer>
+						</section>
+					</div> -->
+					<!-- <div class="col-4 col-6-medium col-12-small">
+						<section>
+							<header>
+								<h2>Tempus consequat</h2>
+							</header>
+							<ul class="divided">
+								<li><a href="#">Lorem ipsum dolor sit amet sit veroeros</a></li>
+								<li><a href="#">Sed et blandit consequat sed tlorem blandit</a></li>
+								<li><a href="#">Adipiscing feugiat phasellus sed tempus</a></li>
+								<li><a href="#">Hendrerit tortor vitae mattis tempor sapien</a></li>
+								<li><a href="#">Sem feugiat sapien id suscipit magna felis nec</a></li>
+								<li><a href="#">Elit class aptent taciti sociosqu ad litora</a></li>
+							</ul>
+						</section>
+					</div> -->
+					<!-- <div class="col-4 col-6-medium col-12-small">
+						<section>
+							<header>
+								<h2>Ipsum et phasellus</h2>
+							</header>
+							<ul class="divided">
+								<li><a href="#">Lorem ipsum dolor sit amet sit veroeros</a></li>
+								<li><a href="#">Sed et blandit consequat sed tlorem blandit</a></li>
+								<li><a href="#">Adipiscing feugiat phasellus sed tempus</a></li>
+								<li><a href="#">Hendrerit tortor vitae mattis tempor sapien</a></li>
+								<li><a href="#">Sem feugiat sapien id suscipit magna felis nec</a></li>
+								<li><a href="#">Elit class aptent taciti sociosqu ad litora</a></li>
+							</ul>
+						</section>
+					</div> -->
+					<div class="col-8 col-12-medium">
+						<section id="contact">
+							<header>
+								<h2>Contact</h2>
+							</header>
+							<ul class="contact">
+								<li>
+									<h3>Address</h3>
+									<p>
+										Nokia Bell Labs, Broers Bulding<br />
+										21 JJ Thomson Avenue<br />
+										CB3 0FA, Cambridge<br />
+										United Kingdom
+									</p>
+								</li>
+								<li>
+									<h3>Mail</h3>
+									<p>alessandro.montanari [at] nokia-bell-labs [dot] com</p>
+									<!-- <p><a href="#">someone@untitled.tld</a></p> -->
+								</li>
+								<!-- <li>
+									<h3>Phone</h3>
+									<p>(800) 000-0000</p>
+								</li> -->
+							</ul>
+							<ul class="social">
+								<li><a class="icon brands fa-google" href="https://scholar.google.com/citations?user=5y9eO9MAAAAJ&hl=en"><span class="label">Google Scholar</span></a></li>
+								<li><a class="icon brands fa-twitter" href="https://twitter.com/a_montanari"><span class="label">Twitter</span></a></li>
+								<li><a class="icon brands fa-linkedin" href="https://www.linkedin.com/in/montanari-alessandro/"><span class="label">LinkedIn</span></a></li>
+							</ul>
+						</section>
+					</div>
+					<div class="col-12">
+						<!-- Copyright -->
+						<div id="copyright">
+							<ul class="links">
+								<li>&copy; Alessandro Montanari. All rights reserved.</li>
+								<li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+							</ul>
+						</div>
+
+					</div>
+				</div>
+			</div>
+		</section>
+
+	</div>
+</body>
+
+	<!-- Scripts -->
+	<script src="assets/js/jquery.min.js"></script>
+	<script src="assets/js/jquery.dropotron.min.js"></script>
+	<script src="assets/js/browser.min.js"></script>
+	<script src="assets/js/breakpoints.min.js"></script>
+	<script src="assets/js/util.js"></script>
+	<script src="assets/js/main.js"></script>
+
+</html>
