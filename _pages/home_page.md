@@ -41,18 +41,11 @@ Projects
   		<image src="images/Publications/FerroTag/Icon.png" height="200" width="300" />
   	</div>
   	<div class="col pt-4 pl-4 pr-4 d-flex flex-column position-static">
-  		<strong class="d-inline-block mb-0 text-primary">ACM SenSys 2019, <a
-  			href="http://sensys.acm.org/2019/program/" class="text-danger">Best Paper Award </a>(Acceptance Rate:
-  		19.4%, 28 of 144).</strong>
-  		<h5 class="mb-0">FerroTag: A Paper-based mmWave-Scannable Tagging Infrastructure</h5>
+  		<strong class="d-inline-block mb-0 text-primary">Conference name</strong>
+  		<h5 class="mb-0">Paper name</h5>
   		<div class="mb-1 mt-2">
-  			<a href="https://cse.ucdenver.edu/~lizheng/" target="_blank">Zhengxiong Li</a>,
-  			<a href="https://baichengchen.github.io/" target="_blank">Baicheng Chen</a>,
-  			Zhuolin Yang, Huining Li,
-  			<a href="http://www.acsu.buffalo.edu/~chenhanx/" target="_blank">Chenhan Xu</a>,
-  			<b>Xingyu Chen</b>,
-  			Kun Wang,
-  			<a href="https://cse.buffalo.edu/~wenyaoxu/" target="_blank">Wenyao Xu</a>
+  			<a href="https://link" target="_blank">Author name</a>,
+  			<a href="https://link" target="_blank">Author name</a>
 
   			<div class="btn-group" role="group" aria-label="Basic example">
   				<a href="https://cse.ucdenver.edu/~lizheng/Papers/Zhengxiong_Sensys19.pdf"
