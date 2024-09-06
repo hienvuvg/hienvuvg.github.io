@@ -1,6 +1,6 @@
 ---
 layout: temp
-title: MmCows
+title: "MmCows"
 permalink: /mmcows/
 author_profile: false
 redirect_from:
