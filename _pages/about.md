@@ -14,7 +14,7 @@ redirect_from:
 *  10/2023: eTag poster is accepted at The 2023 Sustainability Symposium, UW-Madison: [Sustainable Dairy Farming using Wearable Technology for Heat Stress Detection](https://sustainability.wisc.edu/sustainability-symposium/posters/)-->
 
 
-About
+About Me
 ------
 <!--Prior to joining my Ph.D. program, I was with the Energy-Aware Computing Lab at Soongsil University, South Korea, where my research focused on advanced energy management systems.  At Purdue University, I have been actively engaging in research on low-power embedded computing and sensing systems. -->
 My research focuses on low-power wireless sensing techniques to advance precision agriculture. Specifically, I am interested in wireless sensor networks that utilize hardware and software optimization techniques to enhance sensing, in-device computation, and communication efficiency for developing practical cyber-physical systems.
@@ -23,6 +23,11 @@ My research focuses on low-power wireless sensing techniques to advance precisio
 News
 ------
 * 8/2024: [MmCows](https://hienvuvg.github.io/mmcows/), our large-scale multimodal dataset for dairy cattle monitoring is now online
+
+
+Projects
+------
+
 
 
 <!--Education
