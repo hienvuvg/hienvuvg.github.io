@@ -1,7 +1,7 @@
 ---
 layout: temp
 title: "MmCows"
-permalink: /mmcows/
+permalink: /projects/mmcows/
 author_profile: false
 redirect_from:
   - /mmcows
