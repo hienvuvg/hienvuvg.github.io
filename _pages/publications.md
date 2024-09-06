@@ -8,6 +8,20 @@ author_profile: false
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 
 <!-- <h1 class="page__title"></h1> -->
+
+<div class="list__item">
+    <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+      <h2 class="archive__item-title" itemprop="headline" style="text-decoration:none"> MmCows: A Multimodal Dataset for Dairy Cattle Monitoring</h2>
+      <!-- citation and icon code -->
+      <p><strong>Hien Vu</strong>, Omkar Prabhune, Unmesh Raskar, Dimuth Panditharatne, Hanwook Chung, Christopher Choi, Younghyun Kim 
+      <br /> Conference X 2024
+      <a href="online link 1"><i class="fas fa-fw fa-link zoom" style="color:crimson" aria-hidden="true"></i></a> 
+      <a href="pdf link"><i class="fas fa-fw fa-file-pdf-o zoom" style="color:crimson" aria-hidden="true"></i></a>
+      </p><p class="archive__item-excerpt" itemprop="description"></p>
+    </article>
+</div>
+
+
 <div class="list__item">
     <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
       <h2 class="archive__item-title" itemprop="headline" style="text-decoration:none"> Subcutaneous Temperature Monitoring through Ear Tag for Heat Stress Detection in Dairy Cows</h2>
