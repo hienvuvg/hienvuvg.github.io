@@ -11,7 +11,7 @@ author_profile: false
 
 <div class="list__item">
     <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
-      <h2 class="archive__item-title" itemprop="headline" style="text-decoration:none; margin-bottom:0px;"> MmCows: A Multimodal Dataset for Dairy Cattle Monitoring</h2>
+      <h2 class="archive__item-title" itemprop="headline" style="text-decoration:none; margin-bottom:-5px;"> MmCows: A Multimodal Dataset for Dairy Cattle Monitoring</h2>
       <p><strong>Hien Vu</strong>, Omkar Prabhune, Unmesh Raskar, Dimuth Panditharatne, Hanwook Chung, Christopher Choi, Younghyun Kim 
       <br /> Conference X 2024
       <a href="online link 1"><i class="fas fa-fw fa-link zoom" style="color:crimson" aria-hidden="true"></i></a> 
@@ -23,7 +23,7 @@ author_profile: false
 
 <div class="list__item">
     <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
-      <h2 class="archive__item-title" itemprop="headline" style="text-decoration:none; margin-bottom:0px;"> Subcutaneous Temperature Monitoring through Ear Tag for Heat Stress Detection in Dairy Cows</h2>
+      <h2 class="archive__item-title" itemprop="headline" style="text-decoration:none; margin-bottom:-5px;"> Subcutaneous Temperature Monitoring through Ear Tag for Heat Stress Detection in Dairy Cows</h2>
       <p>Hanwook Chung, <strong>Hien Vu</strong>, Younghyun Kim, and Christopher Choi 
       <br /> Biosystems Engineering 2023 
       <a href="https://doi.org/10.1016/j.biosystemseng.2023.10.001"><i class="fas fa-fw fa-link zoom" style="color:crimson" aria-hidden="true"></i></a> 
@@ -34,7 +34,7 @@ author_profile: false
 
 <div class="list__item">
     <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
-      <h2 class="archive__item-title" itemprop="headline" style="text-decoration:none; margin-bottom:0px;">eTag: An Energy-Neutral Ear Tag for Real-Time Body Temperature Monitoring of Dairy Cattle</h2>
+      <h2 class="archive__item-title" itemprop="headline" style="text-decoration:none; margin-bottom:-5px;">eTag: An Energy-Neutral Ear Tag for Real-Time Body Temperature Monitoring of Dairy Cattle</h2>
       <p><strong>Hien Vu</strong>, Hanwook Chung, Christopher Choi, and Younghyun Kim 
       <br /> ACM MobiCom 2023 
       <a href="https://dl.acm.org/doi/10.1145/3570361.3613262"><i class="fas fa-fw fa-link zoom" style="color:crimson" aria-hidden="true"></i></a> 
@@ -46,7 +46,7 @@ author_profile: false
 
 <div class="list__item">
     <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
-      <h2 class="archive__item-title" itemprop="headline" style="text-decoration:none; margin-bottom:0px;">Simultaneous Internal Heating for Balanced Temperature and State-of-Charge Distribution in Lithium-ion Battery Packs</h2>
+      <h2 class="archive__item-title" itemprop="headline" style="text-decoration:none; margin-bottom:-5px;">Simultaneous Internal Heating for Balanced Temperature and State-of-Charge Distribution in Lithium-ion Battery Packs</h2>
       <p><strong>Hien Vu</strong> and Donghwa Shin 
       <br /> Journal of Energy Storage 2023
       <a href="https://www.sciencedirect.com/science/article/pii/S2352152X22025087?dgcid=author"><i class="fas fa-fw fa-link zoom" style="color:crimson" aria-hidden="true"></i></a> 
@@ -58,7 +58,7 @@ author_profile: false
 
 <div class="list__item">
     <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
-      <h2 class="archive__item-title" itemprop="headline" style="text-decoration:none; margin-bottom:0px;">An Attachable Battery–Supercapacitor Hybrid for Large Pulsed Load</h2>
+      <h2 class="archive__item-title" itemprop="headline" style="text-decoration:none; margin-bottom:-5px;">An Attachable Battery–Supercapacitor Hybrid for Large Pulsed Load</h2>
       <p>NA Nguyen, <strong>H Vu</strong>, M Pedram, and D Shin
       <br /> IEEE Design & Test 2022
       <a href="https://ieeexplore.ieee.org/document/9781313"><i class="fas fa-fw fa-link zoom" style="color:crimson" aria-hidden="true"></i></a> 
@@ -70,7 +70,7 @@ author_profile: false
 
 <div class="list__item">
     <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
-      <h2 class="archive__item-title" itemprop="headline" style="text-decoration:none; margin-bottom:0px;">Scheduled Pre-heating of Li-ion Battery Packs for Balanced Temperature and State-ofcharge Distribution</h2>
+      <h2 class="archive__item-title" itemprop="headline" style="text-decoration:none; margin-bottom:-5px;">Scheduled Pre-heating of Li-ion Battery Packs for Balanced Temperature and State-ofcharge Distribution</h2>
       <p><strong>Hien Vu</strong> and Donghwa Shin 
       <br /> MDPI Energies 2020
       <a href="https://www.mdpi.com/1996-1073/13/9/2212"><i class="fas fa-fw fa-link zoom" style="color:crimson" aria-hidden="true"></i></a> 
@@ -82,7 +82,7 @@ author_profile: false
 
 <div class="list__item">
     <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
-      <h2 class="archive__item-title" itemprop="headline" style="text-decoration:none; margin-bottom:0px;">LQG Regulator for Control Moment Gyroscope based Balancing System</h2>
+      <h2 class="archive__item-title" itemprop="headline" style="text-decoration:none; margin-bottom:-5px;">LQG Regulator for Control Moment Gyroscope based Balancing System</h2>
       <p><strong>Hien Vu</strong>, Nhan Tran, Loan Pham-Nguyen, and Huy-Dung Han
       <br /> IEEE ICCE (International Conference on Communications and Electronics) 2018
       <a href="https://ieeexplore.ieee.org/document/8465717"><i class="fas fa-fw fa-link zoom" style="color:crimson" aria-hidden="true"></i></a> 
