@@ -27,6 +27,26 @@ News
 
 Projects
 ------
+
+<div
+class="row no-gutters mt-4 border rounded bg-light overflow-hidden flex-md-row mb-2 h-md-250 position-relative">
+<div class="col-auto d-none d-lg-block">
+	<image src="images/Publications/RFGen/pull_wide.png" height="200" width="300" />
+</div>
+<div class="col pt-4 pl-4 pr-4  d-flex flex-column position-static">
+	<strong class="d-inline-block mb-0 text-primary">Conference</strong>
+	<h5 class="mb-0">Paper name</h5>
+
+	<div class="mb-1 mt-2">
+		<b>Author name</b>
+		<p>
+			<a href="https://link" class="btn btn-primary mt-1 text-white mr-1">Text 1</a>
+			<a href="https://link" class="btn btn-primary mt-1 mr-1">Text 2</a>
+
+		</div>
+	</div>
+</div>
+
 <a href="https://hienvuvg.github.io/mmcows" target="_blank">**MmCows Dataset**:</a> A comprehensive multimodal dataset for health monitoring dairy cattle. It includes data from dairy cows over 14 days consisting 3D UWB location, IMU acceleration, air pressure, body temperature, ankle acceleration, multi-view RGB images, weather conditions, UWB distances, head direction, lying behavior, and health records. Additionally, it features 20,000 annotated isometric-view images from four cameras, detailing cow IDs and behaviors of 16 cows, along with 3D body location ground truth. [[Find out more]](https://hienvuvg.github.io/mmcows)
 
 **CPS: Medium: Mitigating heat stress in dairy cattle:** We developed a light-weight wearable ear tag for non-invasively measuring body temperature of dairy cattle in real time for heat stress monitoring. The tag receives power wirelessly and autonomously from a stationary charger during short 10-minute milking sessions, allowing the tag to run for five days in average after one charge. Seven tags were fabricated and deployed on real cows in a three-week experiment in an operational dairy barn at UW-Madison. [[Find out more]](https://dl.acm.org/doi/10.1145/3570361.3613262)
