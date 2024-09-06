@@ -70,7 +70,7 @@ author_profile: false
 
 <div class="list__item">
     <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
-      <h2 class="archive__item-title" itemprop="headline" style="text-decoration:none">Scheduled Pre-heating of Li-ion Battery Packs for Balanced Temperature and State-ofcharge Distribution</h2>
+      <h2 class="archive__item-title" itemprop="headline" style="text-decoration:none; margin-bottom:10px;">Scheduled Pre-heating of Li-ion Battery Packs for Balanced Temperature and State-ofcharge Distribution</h2>
       <p><strong>Hien Vu</strong> and Donghwa Shin 
       <br /> Energies MDPI 2020
       <a href="https://www.mdpi.com/1996-1073/13/9/2212"><i class="fas fa-fw fa-link zoom" style="color:crimson" aria-hidden="true"></i></a> 
@@ -82,7 +82,7 @@ author_profile: false
 
 <div class="list__item">
     <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
-      <h2 class="archive__item-title" itemprop="headline" style="text-decoration:none">LQG Regulator for Control Moment Gyroscope based Balancing System</h2>
+      <h2 class="archive__item-title" itemprop="headline" style="text-decoration:none; margin-bottom:10px;">LQG Regulator for Control Moment Gyroscope based Balancing System</h2>
       <p><strong>Hien Vu</strong>, Nhan Tran, Loan Pham-Nguyen, and Huy-Dung Han
       <br /> IEEE ICCE 2018
       <a href="https://ieeexplore.ieee.org/document/8465717"><i class="fas fa-fw fa-link zoom" style="color:crimson" aria-hidden="true"></i></a> 
