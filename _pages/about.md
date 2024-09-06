@@ -29,12 +29,19 @@ Projects
 ------
 <a href="https://hienvuvg.github.io/mmcows" target="_blank">MmCows Dataset</a>
 
-<a href="https://sites.google.com/view/hienvv/projects/spartan-ssd" target="_blank">Spartan SSD</a>
+**CPS: Medium: Mitigating heat stress in dairy cattle:** We developed a light-weight wearable ear tag for non-invasively measuring body temperature of dairy cattle in real time for heat stress monitoring. The tag receives power wirelessly and autonomously from a stationary charger during short 10-minute milking sessions, allowing the tag to run for five days in average after one charge. Seven tags were fabricated and deployed on real cows in a three-week experiment in an operational dairy barn at UW-Madison.
 
-<a href="https://sites.google.com/view/hienvv/projects/visual-slam" target="_blank">Visual SLAM</a>
+**Pre-heating for Li-ion Battery Pack:** We developed a pre-heating technique for lithium battery packs working in cold environment by strategically exchanging energy between groups of battery cells that allows balancing both cell temperature and SOC without requiring precise characterization of the cells.
 
-<a href="https://sites.google.com/view/hienvv/projects/cwb-heess" target="_blank">Conformal Wearable Battery (CWB)</a>
+<a href="https://sites.google.com/view/hienvv/projects/visual-slam" target="_blank">**Visual-SLAM and IMU sensor fusion for AR-VR applications:**</a> We implemented Extended Kalman Filter on a RISC-V MCU that processes data from a 9-DOF Inertial Measurement Unit (IMU), which is combined with Parallel Tracking and Mapping (PTAM) for pose tracking in AR applications.
 
+<a href="https://sites.google.com/view/hienvv/projects/cwb-heess" target="_blank">**Conformal Wearable Battery – HEESS:**</a> We developed a high-energy supercapacitor-based power device for military soldiers that has a flexible and portable form factor while being able to sustain 840 W of output power in multiple 5-s discharge sessions. An advanced control algorithm was also developed that allows the main buck converter to work as a bi-directional buck-boost converter, keeping the system running continuously without interruption during the operation.
+
+
+<a href="https://sites.google.com/view/hienvv/projects/spartan-ssd" target="_blank">**Optimization for Power Loss Protection in Solid State Drives:** </a>
+We implemented a high-speed design for a customized storage device that consists of an FPGA as a controller and 512GB of 16 SLC-NAND flash ICs while ensuring signal integrity and propagation delay. Developed a dynamic voltage-scaling power backup system to extend the lifespan of capacitors in SSDs.
+
+<a href="https://hienvuvg.github.io/temp" target="_blank">test</a>
 
 
 
@@ -111,11 +118,11 @@ Honors & Awards
 Featured Projects
 ------
 
-1.  **CPS: Medium: Mitigating heat stress in dairy cattle:** Developed a light-weight wearable ear tag for non-invasively measuring body temperature of dairy cattle in real time for heat stress monitoring. The tag receives power wirelessly and autonomously from a stationary charger during short 10-minute milking sessions, allowing the tag to run for five days in average after one charge. Seven tags were fabricated and deployed on real cows in a three-week experiment in an operational dairy barn at UW-Madison.
-2.  **Conformal Wearable Battery – Hybrid Electrical Energy Storage Systems:** Developed a high-energy supercapacitor-based power device for military soldiers that has a flexible and portable form factor while being able to sustain 840 W of output power in multiple 5-s discharge sessions. An advanced control algorithm was also developed that allows the main buck converter to work as a bi-directional buck-boost converter, keeping the system running continuously without interruption during the operation.
-3.  **Pre-heating for Li-ion Battery Pack:** Developed a pre-heating technique for lithium battery packs working in cold environment by strategically exchanging energy between groups of battery cells that allows balancing both cell temperature and SOC without requiring precise characterization of the cells.
-4.  **Optimization for Power Loss Protection in Solid State Drives:** Implemented a high-speed design for a customized storage device that consists of an FPGA as a controller and 512GB of 16 SLC-NAND flash ICs while ensuring signal integrity and propagation delay. Developed a dynamic voltage-scaling power backup system to extend the lifespan of capacitors in SSDs.
-5.  **Visual-SLAM and IMU sensor fusion for AR-VR applications:** Implemented Extended Kalman Filter on a RISC-V MCU that processes data from a 9-DOF Inertial Measurement Unit (IMU), which is combined with Parallel Tracking and Mapping (PTAM) for pose tracking in AR applications.
+
+2.  
+3.  
+4.  
+5.  
 
 -->
 <!--Mentoring
