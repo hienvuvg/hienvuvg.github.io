@@ -8,6 +8,44 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+  @import url("https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap");
+
+
+  .rounded {
+    border-radius: 0.5rem !important;
+  }
+
+  .vertical-center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+  }
+
+  .tooltip-inner {
+    max-width: 500px;
+    /* If max-width does not work, try using width instead */
+    width: 500px;
+  }
+
+  .tooltip.show {
+    opacity: 1;
+    background: rgb(255, 255, 255);
+  }
+
+  img:hover>.overlay {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    background-color: #000;
+    opacity: 0.5;
+    border-radius: 30px;
+  }
+</style>
+
+
 <!--News
 ------
 *  10/2023: My work with other BSE colleagues is featured in a College of Engineering news article: [“Mooooo’s in distress? In the barn of the future, smart system will keep hot cows cool”](https://engineering.wisc.edu/news/mooooos-in-distress-in-the-barn-of-the-future-smart-system-will-keep-hot-cows-cool/)
