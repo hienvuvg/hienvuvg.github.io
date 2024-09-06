@@ -34,44 +34,49 @@ Projects
 		<a class="h2 ">Selected Publications</a> <a class="h3 text-primary" href="publications.html"><strong>(Full
 		list)</strong></a>
 
-		<div
-		class="row no-gutters mt-4 border rounded bg-light overflow-hidden flex-md-row mb-2 h-md-250 position-relative">
-		<div class="col-auto d-none d-lg-block">
-			<image src="images/Publications/RFGen/pull_wide.png" height="200" width="300" />
-		</div>
-		<div class="col pt-4 pl-4 pr-4  d-flex flex-column position-static">
-			<strong class="d-inline-block mb-0 text-primary">ACM SenSys 2023, (Acceptance Rate: 19.0%, 34 of
-			179).</strong>
-			<h5 class="mb-0">RF Genesis: Zero-Shot Generalization of mmWave Sensing through Simulation-Based Data
-			Synthesis and Generative Diffusion Models</h5>
-
-			<div class="mb-1 mt-2">
-				<b>Xingyu Chen</b>,
-				<a href="http://xyzhang.ucsd.edu/" target="_blank">Xinyu Zhang</a>
 
 
-				<p>
+  <div class="row no-gutters border rounded bg-light overflow-hidden flex-md-row mb-2 h-md-250 position-relative">
+  	<div class="col-auto d-none d-lg-block">
+  		<image src="images/Publications/FerroTag/Icon.png" height="200" width="300" />
+  	</div>
+  	<div class="col pt-4 pl-4 pr-4 d-flex flex-column position-static">
+  		<strong class="d-inline-block mb-0 text-primary">ACM SenSys 2019, <a
+  			href="http://sensys.acm.org/2019/program/" class="text-danger">Best Paper Award </a>(Acceptance Rate:
+  		19.4%, 28 of 144).</strong>
+  		<h5 class="mb-0">FerroTag: A Paper-based mmWave-Scannable Tagging Infrastructure</h5>
+  		<div class="mb-1 mt-2">
+  			<a href="https://cse.ucdenver.edu/~lizheng/" target="_blank">Zhengxiong Li</a>,
+  			<a href="https://baichengchen.github.io/" target="_blank">Baicheng Chen</a>,
+  			Zhuolin Yang, Huining Li,
+  			<a href="http://www.acsu.buffalo.edu/~chenhanx/" target="_blank">Chenhan Xu</a>,
+  			<b>Xingyu Chen</b>,
+  			Kun Wang,
+  			<a href="https://cse.buffalo.edu/~wenyaoxu/" target="_blank">Wenyao Xu</a>
 
-					<a href="https://rfgen.xingyuchen.me/" class="btn btn-primary mt-1 text-white mr-1">Page</a>
-					<a href="files/Xingyu.Chen_SenSys23_RFGen.pdf" class="btn btn-primary mt-1 mr-1">PDF</a>
-					<a href="files/Xingyu_RFGen_Poster.pdf" class="btn btn-primary mt-1 mr-1">Poster</a>
-					<a href="files/Xingyu_RF_Genesis_Presentation.pptx" class="btn btn-primary mt-1 mr-1">Slides</a>
+  			<div class="btn-group" role="group" aria-label="Basic example">
+  				<a href="https://cse.ucdenver.edu/~lizheng/Papers/Zhengxiong_Sensys19.pdf"
+  				class="btn btn-primary mt-3 ">Paper</a>
+  				<a href="https://dl.acm.org/citation.cfm?id=3360019" class="btn btn-primary mt-3">Link</a>
+  				<a href="https://cse.ucdenver.edu/~lizheng/Papers/Zhengxiong_Sensys19.txt"
+  				class="btn btn-primary mt-3 ">Bib</a>
+  				<a href="https://youtu.be/lodkH9k-ckg" class="btn btn-primary mt-3">Video</a>
+  			</div>
+  		</div>
+  	</div>
+  </div>
 
-					<a href="https://github.com/Asixa/RF-Genesis" class="btn btn-primary mt-1  text-white mr-1">Code</a>
-				</div>
-			</div>
-		</div>
 
-		<!--googleon: index-->
+  <!--googleon: index-->
 
-	</div>
+</div>
 </div>
 <footer class="blog-footer p-3 " style="background-color: #182B49;">
 	<div class="container ">
 		<!-- <p class="m-0 text-center text-white"> Copyright &copy; Xingyu Chen 2023</p> -->
 	</div>
 </footer>
-</body>
+
 
 
 
