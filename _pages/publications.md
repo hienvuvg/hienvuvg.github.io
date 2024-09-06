@@ -84,7 +84,7 @@ author_profile: false
     <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
       <h2 class="archive__item-title" itemprop="headline" style="text-decoration:none; margin-bottom:-5px;">LQG Regulator for Control Moment Gyroscope based Balancing System</h2>
       <p><strong>Hien Vu</strong>, Nhan Tran, Loan Pham-Nguyen, and Huy-Dung Han
-      <br /> IEEE ICCE (International Conference on Communications and Electronics) 2018
+      <br /> IEEE ICCE 2018
       <a href="https://ieeexplore.ieee.org/document/8465717"><i class="fas fa-fw fa-link zoom" style="color:crimson" aria-hidden="true"></i></a> 
       <a href="https://www.dropbox.com/scl/fi/9mo51dyjweuxpwpmbknub/ICCE18.pdf?rlkey=wq24t3b0f2wf6nn2pkbahjel5&dl=1"><i class="fas fa-fw fa-file-pdf-o zoom" style="color:crimson" aria-hidden="true"></i></a>
       </p><p class="archive__item-excerpt" itemprop="description"></p>
