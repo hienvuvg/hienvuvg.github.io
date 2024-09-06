@@ -58,7 +58,7 @@ author_profile: false
 
 <div class="list__item">
     <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
-      <h2 class="archive__item-title" itemprop="headline" style="text-decoration:none">An Attachable Battery–Supercapacitor Hybrid for Large Pulsed Load</h2>
+      <h2 class="archive__item-title" itemprop="headline" style="text-decoration:none; margin-bottom:5px;">An Attachable Battery–Supercapacitor Hybrid for Large Pulsed Load</h2>
       <p>NA Nguyen, <strong>H Vu</strong>, M Pedram, and D Shin
       <br /> IEEE Design & Test 2022
       <a href="https://ieeexplore.ieee.org/document/9781313"><i class="fas fa-fw fa-link zoom" style="color:crimson" aria-hidden="true"></i></a> 
@@ -72,7 +72,7 @@ author_profile: false
     <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
       <h2 class="archive__item-title" itemprop="headline" style="text-decoration:none; margin-bottom:10px;">Scheduled Pre-heating of Li-ion Battery Packs for Balanced Temperature and State-ofcharge Distribution</h2>
       <p><strong>Hien Vu</strong> and Donghwa Shin 
-      <br /> Energies MDPI 2020
+      <br /> MDPI Energies 2020
       <a href="https://www.mdpi.com/1996-1073/13/9/2212"><i class="fas fa-fw fa-link zoom" style="color:crimson" aria-hidden="true"></i></a> 
       <a href="https://www.dropbox.com/scl/fi/8j5z20hqb0hktwez0y7qa/EnergiesMDPI20.pdf?rlkey=sarfchk9rmpiqit4yvjhrvvoq&dl=1"><i class="fas fa-fw fa-file-pdf-o zoom" style="color:crimson" aria-hidden="true"></i></a>
       </p><p class="archive__item-excerpt" itemprop="description"></p>
@@ -82,9 +82,9 @@ author_profile: false
 
 <div class="list__item">
     <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
-      <h2 class="archive__item-title" itemprop="headline" style="text-decoration:none; margin-bottom:10px;">LQG Regulator for Control Moment Gyroscope based Balancing System</h2>
+      <h2 class="archive__item-title" itemprop="headline" style="text-decoration:none; margin-bottom:5px;">LQG Regulator for Control Moment Gyroscope based Balancing System</h2>
       <p><strong>Hien Vu</strong>, Nhan Tran, Loan Pham-Nguyen, and Huy-Dung Han
-      <br /> IEEE ICCE 2018
+      <br /> IEEE ICCE (International Conference on Communications and Electronics) 2018
       <a href="https://ieeexplore.ieee.org/document/8465717"><i class="fas fa-fw fa-link zoom" style="color:crimson" aria-hidden="true"></i></a> 
       <a href="https://www.dropbox.com/scl/fi/9mo51dyjweuxpwpmbknub/ICCE18.pdf?rlkey=wq24t3b0f2wf6nn2pkbahjel5&dl=1"><i class="fas fa-fw fa-file-pdf-o zoom" style="color:crimson" aria-hidden="true"></i></a>
       </p><p class="archive__item-excerpt" itemprop="description"></p>
