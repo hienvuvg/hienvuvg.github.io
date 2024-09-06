@@ -182,7 +182,10 @@ input, select, textarea {
 
 	p, ul, ol, dl, table {
 		margin-bottom: 2em;
-		font-size: 1.1em; # HV: change the body font size here
+/*		HV: change the body font size here*/
+		font-size: 1.1em;
+		font-weight: regular;
+		color: black;
 	}
 
 /* Container */
