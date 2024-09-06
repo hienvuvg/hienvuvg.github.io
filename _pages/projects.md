@@ -15,7 +15,7 @@ redirect_from:
 
 **[Conformal Wearable Battery (CWB)](https://sites.google.com/view/hienvv/projects/cwb-heess)**-->
 
-<a href="https://hienvuvg.github.io/mmcows" target="_blank">MmCows Dataset</a>
+<a href="https://hienvuvg.github.io/projects/mmcows" target="_blank">MmCows Dataset</a>
 
 <a href="https://sites.google.com/view/hienvv/projects/spartan-ssd" target="_blank">Spartan SSD</a>
 
