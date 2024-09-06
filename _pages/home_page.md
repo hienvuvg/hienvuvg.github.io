@@ -31,8 +31,7 @@ Projects
 <a class="anchor" name="publications"></a>
 <div class="album py-5 bg-white">
 	<div class="container">
-		<a class="h2 ">Selected Publications</a> <a class="h3 text-primary" href="publications.html"><strong>(Full
-		list)</strong></a>
+		<a class="h2 ">Selected Publications</a> <a class="h3 text-primary"</a>
 
 
 
@@ -48,11 +47,6 @@ Projects
   			<a href="https://link" target="_blank">Author name</a>
 
   			<div class="btn-group" role="group" aria-label="Basic example">
-  				<a href="https://cse.ucdenver.edu/~lizheng/Papers/Zhengxiong_Sensys19.pdf"
-  				class="btn btn-primary mt-3 ">Paper</a>
-  				<a href="https://dl.acm.org/citation.cfm?id=3360019" class="btn btn-primary mt-3">Link</a>
-  				<a href="https://cse.ucdenver.edu/~lizheng/Papers/Zhengxiong_Sensys19.txt"
-  				class="btn btn-primary mt-3 ">Bib</a>
   				<a href="https://youtu.be/lodkH9k-ckg" class="btn btn-primary mt-3">Video</a>
   			</div>
   		</div>
