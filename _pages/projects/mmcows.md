@@ -1,16 +1,11 @@
 ---
 layout: temp
-title: "MmCows"
+title: MmCows
 permalink: /mmcows/
 author_profile: false
 redirect_from:
   - /mmcows
 ---
-
-<head>
-	<title>MmCows</title>
-	<meta charset="utf-8" />
-</head>
 
 <!--<p style="font-size: 25px; text-align: center;"><strong>MmCows: A Multimodal Dataset for Dairy Cattle Monitoring</strong></p>-->
 
