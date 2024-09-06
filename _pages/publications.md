@@ -61,7 +61,7 @@ author_profile: false
 <div class="list__item">
     <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
       <h2 class="archive__item-title" itemprop="headline" style="text-decoration:none; margin-bottom:-5px;">An Attachable Battery–Supercapacitor Hybrid for Large Pulsed Load</h2>
-      <p>NA Nguyen, <strong>H Vu</strong>, M Pedram, and D Shin
+      <p>Nhat-An Nguyen, <strong>Hien Vu</strong>, Massoud Pedram, and Donghwa Shin
       <br /> IEEE Design & Test 2022
       <a href="https://ieeexplore.ieee.org/document/9781313"><i class="fas fa-fw fa-link zoom" style="color:crimson" aria-hidden="true"></i></a> 
       <a href="https://www.dropbox.com/scl/fi/e42y07o0tkmqw0n0k5g05/DesignTest22.pdf?rlkey=501d2us1dhv1zxigodxcxz9vx&dl=1"><i class="fas fa-fw fa-file-pdf-o zoom" style="color:crimson" aria-hidden="true"></i></a>
