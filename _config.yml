@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hien Vu"
-  avatar           : "profile.png"
-  bio              : "PhD Student at Purdue University"
-  location         : "West Lafayette, IN"
+  name             : # "Hien Vu"
+  avatar           : # "profile.png"
+  bio              : # "PhD Student at Purdue University"
+  location         : # "West Lafayette, IN"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=TlFWZ8QAAAAJ&hl=en"
-  email            : "hienvu@purdue.edu"
+  googlescholar    : # "https://scholar.google.com/citations?user=TlFWZ8QAAAAJ&hl=en"
+  email            : # "hienvu@purdue.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "hienvuvg"
+  github           : # "hienvuvg"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           : 
-  linkedin         : "hienvuvg"
+  linkedin         : # "hienvuvg"
   orcid            : # "https://orcid.org/0000-0002-0257-7802"
   pinterest        :
   soundcloud       :
