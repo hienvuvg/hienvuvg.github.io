@@ -5,11 +5,8 @@ permalink: /publications/
 author_profile: false
 ---
 
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
 
-<!-- <h1 class="page__title"></h1> -->
-
-<div class="list__item">
+<!--<div class="list__item">
     <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
       <h2 class="archive__item-title" itemprop="headline" style="text-decoration:none; margin-bottom:-5px;"> MmCows: A Multimodal Dataset for Dairy Cattle Monitoring</h2>
       <p><strong>Hien Vu</strong>, Omkar Prabhune, Unmesh Raskar, Dimuth Panditharatne, Hanwook Chung, Christopher Choi, and Younghyun Kim 
@@ -93,4 +90,4 @@ author_profile: false
     </article>
 </div>
 
-
+-->
