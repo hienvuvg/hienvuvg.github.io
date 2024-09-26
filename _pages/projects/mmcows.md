@@ -147,13 +147,19 @@ The 3D neck location ```uwb``` is calculated from UWB distances, while the 3D bo
 <hr style="border: 1px; border-top: none; margin-bottom: 5px;">
 <p style="font-size: 25px; text-align: center; margin-top: 0;"><strong>Citation and Usage</strong></p>
 
-<!--One of the MmCows's applications is behavior monitoring.
-Benchmarking of MmCows for behavior monitoring is discussed in our paper: [Main Paper] | [Supplementary Materials]
+### Citation
+Hien Vu, Omkar Prabhune, Unmesh Raskar, Dimuth Panditharatne, Hanwook Chung, Christopher Choi, and Younghyun Kim, "MmCows: A Multimodal Dataset for Dairy Cattle Monitoring", Advances in Neural Information Processing Systems (NeurIPS) Track on Datasets and Benchmarks, 2024. URL: https://hienvuvg.github.io/mmcows
 
-Text
+Manuscripts: [Main Paper](https://www.dropbox.com/scl/fi/v6la2ydf9biwo1w7e76ck/MmCows_dataset.pdf?rlkey=ay6d407gtlgrjuit8cy4yiatv&st=zfhsxdw7&dl=1) | [Supplementary Materials](https://www.dropbox.com/scl/fi/86fx179015w424iy36ehj/MmCows_supplementary.pdf?rlkey=79z3ykysdqgm76xk8qbhezvte&st=mymy14cp&dl=1)
+
 ```
-Text
-```-->
+@article{vu2024mmcows,
+  title={MmCows: A Multimodal Dataset for Dairy Cattle Monitoring},
+  author={Hien Vu, Omkar Prabhune, Unmesh Raskar, Dimuth Panditharatne, Hanwook Chung, Christopher Choi, and Younghyun Kim},
+  journal={Advances in Neural Information Processing Systems},
+  year={2024}
+}
+```
 
 ### Contact us
 <div style="display: flex;">
