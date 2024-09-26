@@ -148,7 +148,7 @@ The 3D neck location ```uwb``` is calculated from UWB distances, while the 3D bo
 <p style="font-size: 25px; text-align: center; margin-top: 0;"><strong>Citation and Usage</strong></p>
 
 ### Citation
-Hien Vu, Omkar Prabhune, Unmesh Raskar, Dimuth Panditharatne, Hanwook Chung, Christopher Choi, and Younghyun Kim, "MmCows: A Multimodal Dataset for Dairy Cattle Monitoring", Advances in Neural Information Processing Systems (NeurIPS) Track on Datasets and Benchmarks, 2024. URL: [https://hienvuvg.github.io/mmcows](https://hienvuvg.github.io/mmcows)
+Hien Vu, Omkar Prabhune, Unmesh Raskar, Dimuth Panditharatne, Hanwook Chung, Christopher Choi, and Younghyun Kim, "MmCows: A Multimodal Dataset for Dairy Cattle Monitoring", Advances in Neural Information Processing Systems (NeurIPS) Track on Datasets and Benchmarks, 2024. URL: [https://github.com/neis-lab/mmcows](https://github.com/neis-lab/mmcows)
 
 Manuscripts: [Main Paper](https://www.dropbox.com/scl/fi/v6la2ydf9biwo1w7e76ck/MmCows_dataset.pdf?rlkey=ay6d407gtlgrjuit8cy4yiatv&st=zfhsxdw7&dl=1), [Supplementary Materials](https://www.dropbox.com/scl/fi/86fx179015w424iy36ehj/MmCows_supplementary.pdf?rlkey=79z3ykysdqgm76xk8qbhezvte&st=mymy14cp&dl=1), [Poster](https://www.dropbox.com/scl/fi/g466wu7mhuygx9ybh5nr9/MmCows_poster.pdf?rlkey=vqf6qt4md3xd86frsl70i08h9&st=g1z36kzr&dl=1)
 
