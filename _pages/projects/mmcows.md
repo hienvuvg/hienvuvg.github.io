@@ -156,7 +156,7 @@ Manuscripts: [Publisher](https://neurips.cc/virtual/2024/poster/97651), [Main Pa
 @inproceedings{mmcows,
   title = {MmCows: A Multimodal Dataset for Dairy Cattle Monitoring},
   author = {Hien Vu and Omkar Prabhune and Unmesh Raskar and Dimuth Panditharatne and Hanwook Chung and Christopher Choi and Younghyun Kim},
-  booktitle = {Proceedings of the Conference on Neural Information Processing Systems (NeurIPS)},
+  booktitle = {Advances in Neural Information Processing Systems},
   year = {2024}
 }
 ```
