@@ -162,7 +162,7 @@ Manuscripts: [Publisher](https://neurips.cc/virtual/2024/poster/97651), [Main Pa
 ```
 
 ### Contact us
-For any inquiries or assistance, please feel free to reach out to us at ```hienvu [at] purdue.edu``` ([Hien Vu](https://hienvuvg.github.io)).
+For any inquiries or assistance, please feel free to reach out to [Hien Vu](https://hienvuvg.github.io) at ```hienvu [at] purdue.edu```.
 
 
 ### License
