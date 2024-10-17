@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>CWB HEESS</title>
+	<style>
+		body {
+			font-family: sans-serif;
+			max-width: 950px; /* Define page width */
+			margin: 0 auto; /* Center the page */
+			padding: 20px; /* Add some padding */
+			background-color: #ffffff; /* Set background to white */
+			line-height: 1.5; 
+			font-size: 16px; 
+			font-weight: 300;
+		}
+        /*h1 {
+            font-size: 2em;
+        }
+        p {
+            font-size: 1em; 
+        }
+        code {
+            font-family: 'Consolas', monospace; 
+            background-color: #F4F6F9; 
+            padding: 2px 4px; 
+            border-radius: 4px; 
+        }*/
+        h1 {
+        	font-size: 2em; /* Font size for h1 */
+        }
+        p {
+        	font-size: 1em; /* Font size for paragraph */
+        }
+        pre {
+        	background-color: #F4F6F9; /* Background color for code block */
+        	padding: 10px; /* Padding for code block */
+        	border-radius: 4px; /* Rounded corners */
+        	overflow: auto; /* Enable scrolling if needed */
+        }
+        code {
+        	font-family: 'Consolas', monospace; /* Define font type for code */
+        	background-color: #F4F6F9;
+        	padding: 2px;
+        	font-size: 0.95em;
+        }
+        hr {
+        	border: none; /* Remove default border */
+        	height: 4px; /* Set height */
+        	background-color: #DADDED; /* Set color */
+        	margin: 20px 0; /* Set vertical margins */
+        }
+        .container {
+        	display: flex;
+        	width: 100%;
+        }
+        .text {
+        	flex: 1; /* 1/3 of the width */
+        	padding: 20px; /* Optional padding */
+        }
+        .image {
+        	flex: 2; /* 2/3 of the width */
+        	max-width: 66.67%; /* Ensures it doesn't exceed 2/3 */
+        }
+        img {
+        	width: 100%; /* Make the image responsive */
+        	height: auto; /* Maintain aspect ratio */
+        }
+    </style>
+</head>
+
+<body>
+
+	<div style="background-color: #f0f0f0; padding: 20px; margin-bottom: 20px; padding-top: 10px;padding-bottom: 10px;">
+		<p style="font-size: 31px; text-align: center;"><strong>Conformal Wearable Battery (CWB)</strong></p>
+	</div>
+
+
+	<strong>Duration:</strong> 2018 to 2020
+
+	<br>
+
+	<strong>Type:</strong> A joint project with University of Southern California and ADAtech (US), Phase II STTR NSF
+
+	<br>
+
+	<strong>Description:</strong> A wearable battery using a supercapacitor-based hybrid power system that can provide ~1kW in 5 seconds
+
+	<!-- ----------------------------------------------------------- -->
+	<p><hr style="border: 1px; border-top: none; margin-bottom: 5px;"></p>
+
+	<h2>Application</h2>
+	<div align="center">
+		<img src="cwb-heess/Picture1.png" style="width:100%; height:auto; max-width:100%; margin-bottom:15px;" />
+	</div>
+
+	<!-- ----------------------------------------------------------- -->
+	<p><hr style="border: 1px; border-top: none; margin-bottom: 5px;"></p>
+
+	<div class="container">
+		<div class="text">
+			<h2>System Architecture</h2>
+			<p>Using a modified synchronous buck converter to control the energy flow between a battery pack and a supercapacitor pack to provide a short burst of high-current electrical power while maintaining the continuous power supply during off-stage. </p>
+		</div>
+		<div class="image">
+			<img src="cwb-heess/Picture2.png" style="width:90%;"/>
+		</div>
+	</div>
+
+	<!-- ----------------------------------------------------------- -->
+	<p><hr style="border: 1px; border-top: none; margin-bottom: 5px;"></p>
+
+	<div class="container">
+		<div class="text">
+			<h2>Control Policy</h2>
+			<p>A four-state control policy is proposed to ensure the realiable output power and continuous power supply during different stages of operation.</p>
+		</div>
+		<div class="image">
+			<img src="cwb-heess/Picture3.png" style="width:95%;"/>
+		</div>
+	</div>
+
+
+	<!-- ----------------------------------------------------------- -->
+	<p><hr style="border: 1px; border-top: none; margin-bottom: 5px;"></p>
+
+	<div class="container">
+		<div class="text">
+			<h2>Test Bench</h2>
+			<p>Testing the hybrid power system with a battery  pack and a supercapacitor pack.</p>
+		</div>
+		<div class="image">
+			<img src="cwb-heess/Picture4.jpg">
+		</div>
+	</div>
+
+	<!-- ----------------------------------------------------------- -->
+	<p><hr style="border: 1px; border-top: none; margin-bottom: 5px;"></p>
+
+
+	<div class="container">
+		<div class="text">
+			<h2>System Integration</h2>
+			<p>(a) Battery structure <br> 
+				(b) Required movement of edges <br> 
+			(c) Customized circuitry (6-layer PCB)</p>
+		</div>
+		<div class="image">
+			<img src="cwb-heess/Picture5.png" style="width:110%;"/>
+		</div>
+	</div>
+
+
+	<!-- ----------------------------------------------------------- -->
+	<p><hr style="border: 1px; border-top: none; margin-bottom: 5px;"></p>
+
+	<div class="container">
+		<div class="text">
+			<h2>Experimental Results</h2>
+			<p>Discharge results at 12V 70A in 5 seconds.</p>
+		</div>
+		<div class="image">
+			<img src="cwb-heess/Picture7.png" style="width:73%;"/>
+		</div>
+	</div>
+
+	<!-- ----------------------------------------------------------- -->
+	<!-- <p><hr style="border: 1px; border-top: none; margin-bottom: 5px;"></p>
+
+	<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+		<div style="width: 420px; text-align: center;">
+			<img src="cwb-heess/Picture4.png" style="width: 100%; height: auto; margin-bottom: 15px;" />
+		</div>
+		<div style="width: 420px; text-align: center;">
+			<img src="cwb-heess/Picture4.png" style="width: 100%; height: auto; margin-bottom: 15px;" />
+		</div>
+	</div> -->
+
+	<br>
+
+	<br>
+
+
+</body>
+</html>

@@ -1,0 +1,613 @@
+<!DOCTYPE HTML>
+<!--
+	Dopetrope by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+
+<head>
+	<title>Hien Vu</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	<link rel="stylesheet" href="assets/css/main.css" />
+</head>
+
+<body class="homepage is-preload">
+
+	<script> /*HV: 10/17/24: Open internal links in the same tab while external links in new tabs*/
+		function targetBlank() {
+			var internal = new RegExp("^.*#.*$", "i");
+			var a = document.getElementsByTagName('a'); // Grab every link on the page
+			for (var i = 0; i < a.length; i++) {
+				var href = a[i].href; // Get the href of each link
+				if (!internal.test(href) && !href.startsWith(window.location.origin)) { 
+					// If it doesn't contain a hash and is an external link
+					a[i].setAttribute('target', '_blank'); // Set target to _blank
+					a[i].setAttribute('rel', 'noopener noreferrer');
+				} else {
+					// Ensure internal links do not have a target attribute
+					a[i].removeAttribute('target');
+				}
+			}
+		}
+
+		window.onload = targetBlank;
+	</script>
+
+
+	<div id="page-wrapper">
+
+		<!-- Header -->
+		<section id="header" style="padding: 50px 0px 20px 0px;">
+
+			<!-- Logo -->
+			<h1><a href="index.html">Hien Vu</a></h1>
+			<h3>Research Assistant at Purdue University</h3>
+
+			<!-- Nav -->
+			<nav id="nav">
+				<ul>
+					<li><a href="#">Home</a></li>
+					<li><a href="#bio">About me</a></li>
+					<li><a href="#projects">Projects</a></li>
+					<li><a href="#publications">Publications</a></li>
+					<!-- <li><a href="#mentoring">Mentoring</a></li> -->
+					<li><a href="#contact">Contact</a></li>
+					<!-- <li><a href="#bio">Work Experience</a></li> -->
+					<!-- <li><a href="#bio">Patents</a></li> -->
+					<!-- <li>
+									<a href="#">Dropdown</a>
+									<ul>
+										<li><a href="#bio">Lorem ipsum dolor</a></li>
+										<li><a href="#">Magna phasellus</a></li>
+										<li><a href="#">Etiam dolore nisl</a></li>
+										<li>
+											<a href="#">Phasellus consequat</a>
+											<ul>
+												<li><a href="#">Magna phasellus</a></li>
+												<li><a href="#">Etiam dolore nisl</a></li>
+												<li><a href="#">Veroeros feugiat</a></li>
+												<li><a href="#">Nisl sed aliquam</a></li>
+												<li><a href="#">Dolore adipiscing</a></li>
+											</ul>
+										</li>
+										<li><a href="#">Veroeros feugiat</a></li>
+									</ul>
+								</li> -->
+					<!-- <li><a href="left-sidebar.html">Left Sidebar</a></li>
+								<li><a href="right-sidebar.html">Right Sidebar</a></li>
+								<li><a href="no-sidebar.html">No Sidebar</a></li> -->
+				</ul>
+			</nav>
+
+			<!-- Banner -->
+			<!-- <section id="banner">
+				<header>
+					<h2>Ciao! This is Alessandro's page.</h2>
+					<p>Senior Research Scientist, Nokia Bell Labs</p>
+				</header>
+			</section> -->
+
+			<!-- Intro -->
+			<section id="intro" class="container">
+				<div class="row">
+					<div class="col-4 col-12-medium">
+						<section class="first">
+							<i class="icon solid featured alt1 fa-wifi fa-xs"></i>
+							<header>
+								<h2>Wireless Sensing</h2>
+							</header>
+							<!-- <p>Nisl amet dolor sit ipsum veroeros sed blandit consequat veroeros et magna tempus.</p> -->
+						</section>
+					</div>
+					<div class="col-4 col-12-medium">
+						<section class="middle">
+							<i class="icon solid featured alt fa-battery-half fa-xs"></i>
+							<header>
+								<h2>Low-Power Systems</h2>
+							</header>
+							<!-- <p>Nisl amet dolor sit ipsum veroeros sed blandit consequat veroeros et magna tempus.</p> -->
+						</section>
+					</div>
+					<div class="col-4 col-12-medium">
+						<section class="last">
+							<i class="icon solid featured alt2 fa-microchip fa-xs"></i>
+							<header>
+								<h2>Embedded Computing</h2>
+							</header>
+							<!-- <p>Nisl amet dolor sit ipsum veroeros sed blandit consequat veroeros et magna tempus.</p> -->
+						</section>
+					</div>
+				</div>
+				<!-- <footer>
+								<ul class="actions">
+									<li><a href="#" class="button large">Get Started</a></li>
+									<li><a href="#" class="button alt large">Learn More</a></li>
+								</ul>
+							</footer> -->
+			</section>
+
+		</section>
+
+		<!-- Main -->
+		<section id="main">
+
+			<div class="container">
+				<article class="box post" id="bio">
+					<!-- <a href="#" class="image featured"><img src="files/images/pic01.jpg" alt="" /></a> -->
+
+					<div>
+						<img class="author-img" src="files/profile/me.png" alt="" />
+					</div>
+
+					<div class="row">
+						<div class="col">
+							<div class="col-4 col-6-medium col-12-small">
+								<header>
+									<div>
+										<h2>About Me</h2>
+									</div>
+									<!-- <p>Lorem ipsum dolor sit amet feugiat</p> -->
+								</header>
+								<hvt>
+									Currently, I am a PhD student at Purdue University, West Lafayette, IN. </br> </br>
+
+									My research focuses on low-power wireless sensing techniques to advance precision agriculture. Specifically, I am interested in wireless sensor networks that utilize hardware and software optimization techniques to enhance sensing, in-device computation, and communication efficiency for developing practical cyber-physical systems. </br> </br>
+ 
+									For your reference, my CV can be found <a href="files/CV_Hien_Vu.pdf">here</a>.
+								</p>
+
+								<ul class="social">
+									<li><a class="icon brands fa-linkedin" href="https://www.linkedin.com/in/hienvuvg"><span class="label">LinkedIn</span></a></li>
+									<li><a class="icon brands fa-github" href="https://github.com/hienvuvg"><span class="label">Twitter</span></a></li>
+									<li><a class="icon brands fa-google" href="https://scholar.google.com/citations?user=TlFWZ8QAAAAJ&hl=en"><span class="label">Google Scholar</span></a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</article>
+
+
+				<div class="row">
+					<div class="col-12">
+
+						<!-- Portfolio -->
+						<section id="projects">
+							<header class="major">
+								<h2>Selected Projects</h2>
+							</header>
+							<div class="row">
+
+								<div class="col-4 col-6-medium col-12-small">
+									<section class="box">
+										<a class="image featured"><img style="padding: 10px 10px 0px 10px;" src="files/images/mmcows.png" alt="" /></a>
+										<header>
+											<h3>Multimodal Sensing and Deep Learning Framework for Dairy Cattle Monitoring</p>
+										</header>
+										<p> 
+											<!-- We introduce a comprehensive multimodal dataset for health monitoring of dairy cattle called MmCows. It includes data of dairy cows during 14 days consisting 3D UWB location, IMU acceleration, air pressure, body temperature, ankle acceleration, multi-view RGB images, weather conditions, UWB distances, head direction, lying behavior, and health records. Additionally, it features 20,000 annotated isometric-view images from four cameras, detailing cow IDs and behaviors of 16 cows, along with 3D body location ground truth. -->
+											We present MmCows, a multimodal dataset for dairy cattle monitoring. This dataset comprises a large amount of synchronized data on behavioral, physiological, and environmental factors. It includes two weeks of data collected using wearable and implantable sensors deployed on ten milking Holstein cows, such as ultra-wideband (UWB) sensors, inertial sensors, and body temperature sensors. Additionally, it features 4.8M frames of high-resolution image sequences from four isometric view cameras, as well as temperature and humidity data from environmental sensors. One full day’s worth of image data is annotated as ground truth, totaling 20,000 frames with 213,000 bounding boxes of 16 cows, along with their 3D locations and behavior labels.
+										</p>
+										<footer>
+											<ul class="actions">
+												<li><a href="https://engineering.purdue.edu/neis/research/projects/mmcows.html" class="button alt">Find out more</a></li>
+											</ul>
+										</footer>
+									</section>
+								</div>
+
+
+								<div class="col-4 col-6-medium col-12-small">
+									<section class="box">
+										<a class="image featured"><img style="padding: 10px 10px 0px 10px;" src="files/images/etag.png" alt="" /></a>
+										<header>
+											<h3>eTag: An Energy-Neutral Ear Tag for Real-Time Heat Stres Detection in Dairy Cattle</p>
+										</header>
+										<p> 
+											<!-- We developed a light-weight wearable ear tag for non-invasively measuring body temperature of dairy cattle in real time for heat stress monitoring. The tag receives power wirelessly and autonomously from a stationary charger during short 10-minute milking sessions, allowing the tag to run for five days in average after one charge. Seven tags were fabricated and deployed on real cows in a three-week experiment in an operational dairy barn at UW-Madison. -->
+											We presents a smart ear tag, named eTag, and an associated system that can read a passive microchip temperature sensor subcutaneously injected into the animal with minimal discomfort. It features a lightweight design using a single coil shared for microchip scanning and wireless charging. eTag is autonomously recharged by a wireless charger over the head during daily milking sessions, enabling perpetual operation without battery replacement after deployment. Our real-world deployment demonstrated that eTag can reliably collect accurate body temperature in real time while maintaining a positive energy flow. eTag is designed to enable the timely detection of heat stress and facilitate precision control of barn cooling systems.
+										</p>
+										<footer>
+											<ul class="actions">
+												<li><a href="https://www.dropbox.com/scl/fi/u3yf3z5c5z2ogj0otzvlh/MobiCom23.pdf?rlkey=tadvmqk7tgmmq2fmtlvgmvt2s&dl=1" class="button alt">Find out more</a></li>
+											</ul>
+										</footer>
+									</section>
+								</div>
+
+
+								<div class="col-4 col-6-medium col-12-small">
+									<section class="box">
+										<a class="image featured"><img style="padding: 10px 10px 0px 10px;" src="files/images/heating.png" alt="" /></a>
+										<header>
+											<h3>Pre-heating for Li-ion Battery Pack</p>
+										</header>
+										<p> 
+											<!-- Maintaining temperature and SOC levels of Li-ion cells is crucial to their performance and lifespan.  -->
+											This project addresses the challenges of pre-heating for Li-ion batteries in sub-zero conditions. We divided the cells into different groups and strategically transferred electrical energy between these groups. As the cells heat up during this transfer process, their SOC levels are balanced by effectively controlling the electrical current direction using our proposed four-state control policy. This technique achieved both temperature and SOC uniformity throughout the process and even for an extended duration after preheating, while does not requiring precise characterization of the thermal-electrochemical properties of the cells.
+										</p>
+										<footer>
+											<ul class="actions">
+												<li><a href="https://www.sciencedirect.com/science/article/pii/S2352152X22025087?dgcid=author" class="button alt">Find out more</a></li>
+											</ul>
+										</footer>
+									</section>
+								</div>
+
+
+								<div class="col-4 col-6-medium col-12-small">
+									<section class="box">
+										<a class="image featured"><img style="padding: 10px 10px 0px 10px;" src="files/images/slam.png" alt="" /></a>
+										<header>
+											<h3>Visual-SLAM and IMU sensor fusion for AR-VR applications</p>
+										</header>
+										<p> We implemented Extended Kalman Filter on a RISC-V MCU that processes data from a 9-DOF Inertial Measurement Unit (IMU), which is combined with Parallel Tracking and Mapping (PTAM) for pose tracking in AR applications.</p>
+										<footer>
+											<ul class="actions">
+												<li><a href="pages/visual-slam.html" class="button alt">Find out more</a></li>
+											</ul>
+										</footer>
+									</section>
+								</div>
+
+
+								<div class="col-4 col-6-medium col-12-small">
+									<section class="box">
+										<a class="image featured"><img style="padding: 10px 10px 0px 10px;" src="files/images/cwb.jpg" alt="" /></a>
+										<header>
+											<h3>Conformal Wearable Battery – HEESS</p>
+										</header>
+										<p> We developed a high-energy supercapacitor-based power device for military soldiers that has a flexible and portable form factor while being able to sustain 840 W of output power in multiple 5-s discharge sessions. An advanced control algorithm was also developed that allows the main buck converter to work as a bi-directional buck-boost converter, keeping the system running continuously without interruption during the operation. </p>
+										<footer>
+											<ul class="actions">
+												<li><a href="pages/cwb-heess.html" class="button alt">Find out more</a></li>
+											</ul>
+										</footer>
+									</section>
+								</div>
+
+								<div class="col-4 col-6-medium col-12-small">
+									<section class="box">
+										<a class="image featured"><img style="padding: 10px 10px 0px 10px;" src="files/images/plp.png" alt="" /></a>
+										<header>
+											<h3>Power Loss Protection in Solid State Drives</p>
+										</header>
+										<p> We implemented a high-speed design for a customized storage device that consists of an FPGA as a controller and 512GB of 16 SLC-NAND flash ICs while ensuring signal integrity and propagation delay. We also developed a dynamic voltage-scaling power backup system to extend the lifespan of capacitors in SSDs.
+										</p>
+										<footer>
+											<ul class="actions">
+												<li><a href="pages/spartan-ssd.html" class="button alt">Find out more</a></li>
+											</ul>
+										</footer>
+									</section>
+								</div>
+
+								
+							</div>
+						</section>
+
+					</div>
+					<div class="col-12">
+
+						<!-- Blog -->
+
+
+					</div>
+				</div>
+
+				<article class="box post" id="publications">
+					<!-- <a href="#" class="image featured"><img src="files/images/pic01.jpg" alt="" /></a> -->
+					<header>
+						<h2>Publications</h2>
+						<!-- <p>Lorem ipsum dolor sit amet feugiat</p> -->
+					</header>
+		
+					<section>
+						<!-- <header>
+							<h3>Selected Peer-reviewed Publications</h3>
+						</header> -->
+						<!-- <p> -->
+							<!-- HV: Default format -->
+							<!-- <ul class="no-bullets">
+								<li><b>Paper name</b></br>
+									<u>Hien Vu</u>, Hanwook Chung, Christopher Choi, and Younghyun Kim </br>
+									Conference</br>
+									<a class="button small alt" href="https://link">Publisher</a>
+									<a class="button small alt" href="papers/link">PDF</a>
+								</li>
+							</ul> -->
+							<strong>
+							<div class="list__item">
+								<article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+									<h3 class="archive__item-title" itemprop="headline" style="text-decoration:none; margin-bottom:-5px;">MmCows: A Multimodal Dataset for Dairy Cattle Monitoring</h3>
+									<p><u>Hien Vu</u>, Omkar Prabhune, Unmesh Raskar, Dimuth Panditharatne, Hanwook Chung, Christopher Choi, and Younghyun Kim</br>
+									NeurIPS 2024, spotlight paper, top 5% ratings, acceptance rate 25.3%
+									<br/>
+									<a class="button small alt" href="https://engineering.purdue.edu/neis/research/projects/mmcows.html">Website</a>
+									<a class="button small alt" href="https://neurips.cc/virtual/2024/poster/97651">Publisher</a>
+									<a class="button small alt" href="https://www.dropbox.com/scl/fi/v6la2ydf9biwo1w7e76ck/MmCows_dataset.pdf?rlkey=ay6d407gtlgrjuit8cy4yiatv&st=zfhsxdw7&dl=1">PDF main</a>
+									<a class="button small alt" href="https://www.dropbox.com/scl/fi/86fx179015w424iy36ehj/MmCows_supplementary.pdf?rlkey=79z3ykysdqgm76xk8qbhezvte&st=mymy14cp&dl=1">PDF sub</a>
+									<a class="button small alt" href="https://www.dropbox.com/scl/fi/g466wu7mhuygx9ybh5nr9/MmCows_poster.pdf?rlkey=vqf6qt4md3xd86frsl70i08h9&st=g1z36kzr&dl=1">Poster</a>
+								</article>
+							</div>
+							</br>
+
+							<div class="list__item">
+								<article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+									<h3 class="archive__item-title" itemprop="headline" style="text-decoration:none; margin-bottom:-5px;">Subcutaneous Temperature Monitoring through Ear Tag for Heat Stress Detection in Dairy Cows</h3>
+									<p>Hanwook Chung, <u>Hien Vu</u>, Younghyun Kim, and Christopher Choi </br>
+									Biosystems Engineering 2023 
+									<br/>
+									<a class="button small alt" href="https://doi.org/10.1016/j.biosystemseng.2023.10.001">Publisher</a>
+									<a class="button small alt" href="https://www.dropbox.com/scl/fi/bzo64v2sgx4636b1y4cy0/BiosystemsEngineering23.pdf?rlkey=suqlbryxsiq9ffx7xlndlhn79&dl=1">PDF</a>
+								</article>
+							</div>
+							</br>
+
+
+							<div class="list__item">
+								<article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+									<h3 class="archive__item-title" itemprop="headline" style="text-decoration:none; margin-bottom:-5px;">eTag: An Energy-Neutral Ear Tag for Real-Time Body Temperature Monitoring of Dairy Cattle</h3>
+									<p><u>Hien Vu</u>, Hanwook Chung, Christopher Choi, and Younghyun Kim</br>
+									ACM MobiCom 2023, acceptance rate 24%
+									<br/>
+									<a class="button small alt" href="https://dl.acm.org/doi/10.1145/3570361.3613262">Publisher</a>
+									<a class="button small alt" href="https://www.dropbox.com/scl/fi/u3yf3z5c5z2ogj0otzvlh/MobiCom23.pdf">PDF</a>
+									<a class="button small alt" href="https://www.dropbox.com/scl/fo/f5gdgto2hhve1o1640eoi/AP4o-ZFN95jpjE65LvuLLLc?rlkey=qdwfuu2wbnz1fyqw66nadlu9f&dl=0">Slides</a>
+									<a class="button small alt" href="https://www.dropbox.com/scl/fo/f5gdgto2hhve1o1640eoi/AP4o-ZFN95jpjE65LvuLLLc?rlkey=qdwfuu2wbnz1fyqw66nadlu9f&dl=0">Poster</a>
+								</article>
+							</div>
+							</br>
+
+							<div class="list__item">
+								<article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+									<h3 class="archive__item-title" itemprop="headline" style="text-decoration:none; margin-bottom:-5px;">Simultaneous Internal Heating for Balanced Temperature and State-of-Charge Distribution in Lithium-ion Battery Packs</h3>
+									<p><u>Hien Vu</u> and Donghwa Shin </br>
+									Journal of Energy Storage 2023
+									<br/>
+									<a class="button small alt" href="https://www.sciencedirect.com/science/article/pii/S2352152X22025087">Publisher</a>
+									<a class="button small alt" href="https://www.dropbox.com/scl/fi/kjhqefb1laz0h1y8txrsi/PostHeating23.pdf?rlkey=leazy4vbnp7ljk88vvnotp41q&dl=1">PDF</a>
+								</article>
+							</div>
+							</br>
+
+							<div class="list__item">
+								<article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+									<h3 class="archive__item-title" itemprop="headline" style="text-decoration:none; margin-bottom:-5px;">An Attachable Battery–Supercapacitor Hybrid for Large Pulsed Load</h3>
+									<p>Nhat-An Nguyen, <u>Hien Vu</u>, Massoud Pedram, and Donghwa Shin</br>
+									IEEE Design & Test 2022
+									<br/>
+									<a class="button small alt" href="https://ieeexplore.ieee.org/document/9781313">Publisher</a>
+									<a class="button small alt" href="https://www.dropbox.com/scl/fi/e42y07o0tkmqw0n0k5g05/DesignTest22.pdf?rlkey=501d2us1dhv1zxigodxcxz9vx&dl=1">PDF</a>
+									<a class="button small alt" href="https://www.dropbox.com/scl/fi/unyqsobl6t9jusa9z1nhy/2021DACYFPoster.pdf?rlkey=rb84p8r9mmax59b5jw0qpudtx&dl=1">Poster</a>
+								</article>
+							</div>
+							</br>
+
+							<div class="list__item">
+								<article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+									<h3 class="archive__item-title" itemprop="headline" style="text-decoration:none; margin-bottom:-5px;">Scheduled Pre-heating of Li-ion Battery Packs for Balanced Temperature and State-ofcharge Distribution</h3>
+									<p><u>Hien Vu</u> and Donghwa Shin </br>
+									MDPI Energies 2020
+									<br/>
+									<a class="button small alt" href="https://www.mdpi.com/1996-1073/13/9/2212">Publisher</a>
+									<a class="button small alt" href="https://www.dropbox.com/scl/fi/8j5z20hqb0hktwez0y7qa/EnergiesMDPI20.pdf?rlkey=sarfchk9rmpiqit4yvjhrvvoq&dl=1">PDF</a>
+								</article>
+							</div>
+							</br>
+
+							<div class="list__item">
+								<article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+									<h3 class="archive__item-title" itemprop="headline" style="text-decoration:none; margin-bottom:-5px;">LQG Regulator for Control Moment Gyroscope based Balancing Systems</h3>
+									<p><u>Hien Vu</u>, Nhan Tran, Loan Pham-Nguyen, and Huy-Dung Han</br>
+									IEEE ICCE 2018
+									<br/>
+									<a class="button small alt" href="https://ieeexplore.ieee.org/document/8465717">Publisher</a>
+									<a class="button small alt" href="https://www.dropbox.com/scl/fi/9mo51dyjweuxpwpmbknub/ICCE18.pdf?rlkey=wq24t3b0f2wf6nn2pkbahjel5&dl=1">PDF</a>
+								</article>
+							</div>
+						</strong>
+
+					</section>
+
+					<!-- <section>
+						<header>
+							<h3>List</h3>
+						</header>
+						<p>
+							<ul>
+								<li>Item 1</li>
+
+							</ul>
+						</p>
+					</section> -->
+
+				</article>
+
+			<!-- 	<article class="box post" id="mentoring">
+					<header>
+						<h2>Mentoring</h2>
+					</header>
+
+					<p>
+						Text
+						</br>
+						Text:
+						</p>
+
+					<section>
+							<header>
+								<h3>Text</h3>
+							</header>
+						<ul>
+							<li> Item 1 </li>
+						</ul>
+					</section>
+
+					<section>
+						<header>
+							<h3>Text</h3>
+						</header>
+					<ul>
+					<li>Item 1
+					</li>
+				</ul>
+				</section>
+ -->
+						
+					
+	
+				</article>
+
+			</div>
+		</section>
+
+		<!-- Footer -->
+		<section id="footer">
+			<div class="container">
+				<div class="row">
+					<!-- <div class="col-8 col-12-medium">
+						<section>
+							<header>
+								<h2>Blandit nisl adipiscing</h2>
+							</header>
+							<ul class="dates">
+								<li>
+									<span class="date">Jan <strong>27</strong></span>
+									<h3><a href="#">Lorem dolor sit amet veroeros</a></h3>
+									<p>Ipsum dolor sit amet veroeros consequat blandit ipsum phasellus lorem consequat
+										etiam.</p>
+								</li>
+								<li>
+									<span class="date">Jan <strong>23</strong></span>
+									<h3><a href="#">Ipsum sed blandit nisl consequat</a></h3>
+									<p>Blandit phasellus lorem ipsum dolor tempor sapien tortor hendrerit adipiscing
+										feugiat lorem.</p>
+								</li>
+								<li>
+									<span class="date">Jan <strong>15</strong></span>
+									<h3><a href="#">Magna tempus lorem feugiat</a></h3>
+									<p>Dolore consequat sed phasellus lorem sed etiam nullam dolor etiam sed amet sit
+										consequat.</p>
+								</li>
+								<li>
+									<span class="date">Jan <strong>12</strong></span>
+									<h3><a href="#">Dolore tempus ipsum feugiat nulla</a></h3>
+									<p>Feugiat lorem dolor sed nullam tempus lorem ipsum dolor sit amet nullam
+										consequat.</p>
+								</li>
+								<li>
+									<span class="date">Jan <strong>10</strong></span>
+									<h3><a href="#">Blandit tempus aliquam?</a></h3>
+									<p>Feugiat sed tempus blandit tempus adipiscing nisl lorem ipsum dolor sit amet
+										dolore.</p>
+								</li>
+							</ul>
+						</section>
+					</div> -->
+					<!-- <div class="col-4 col-12-medium">
+						<section>
+							<header>
+								<h2>What's this all about?</h2>
+							</header>
+							<a href="#" class="image featured"><img src="files/images/pic10.jpg" alt="" /></a>
+							<p>
+								This is <strong>Dopetrope</strong> a free, fully responsive HTML5 site template by
+								<a href="http://twitter.com/ajlkn">AJ</a> for <a href="http://html5up.net/">HTML5 UP</a>
+								It's released for free under
+								the <a href="http://html5up.net/license/">Creative Commons Attribution</a> license so
+								feel free to use it for any personal or commercial project &ndash; just don't forget to
+								credit us!
+							</p>
+							<footer>
+								<ul class="actions">
+									<li><a href="#" class="button">Find out more</a></li>
+								</ul>
+							</footer>
+						</section>
+					</div> -->
+					<!-- <div class="col-4 col-6-medium col-12-small">
+						<section>
+							<header>
+								<h2>Tempus consequat</h2>
+							</header>
+							<ul class="divided">
+								<li><a href="#">Lorem ipsum dolor sit amet sit veroeros</a></li>
+								<li><a href="#">Sed et blandit consequat sed tlorem blandit</a></li>
+								<li><a href="#">Adipiscing feugiat phasellus sed tempus</a></li>
+								<li><a href="#">Hendrerit tortor vitae mattis tempor sapien</a></li>
+								<li><a href="#">Sem feugiat sapien id suscipit magna felis nec</a></li>
+								<li><a href="#">Elit class aptent taciti sociosqu ad litora</a></li>
+							</ul>
+						</section>
+					</div> -->
+					<!-- <div class="col-4 col-6-medium col-12-small">
+						<section>
+							<header>
+								<h2>Ipsum et phasellus</h2>
+							</header>
+							<ul class="divided">
+								<li><a href="#">Lorem ipsum dolor sit amet sit veroeros</a></li>
+								<li><a href="#">Sed et blandit consequat sed tlorem blandit</a></li>
+								<li><a href="#">Adipiscing feugiat phasellus sed tempus</a></li>
+								<li><a href="#">Hendrerit tortor vitae mattis tempor sapien</a></li>
+								<li><a href="#">Sem feugiat sapien id suscipit magna felis nec</a></li>
+								<li><a href="#">Elit class aptent taciti sociosqu ad litora</a></li>
+							</ul>
+						</section>
+					</div> -->
+					<div class="col-8 col-12-medium">
+						<section id="contact">
+							<header>
+								<h2>Contact</h2>
+							</header>
+							<ul class="contact">
+								<li>
+									<h3>Email</h3>
+									<p>hienvu [at] purdue.edu</p>
+								</li>
+								<li>
+									<h3>Address</h3>
+									<!-- <p style="color: #878382;"> -->
+									<p>
+										Electrical Engineering Building<br />
+										465 Northwestern Ave<br />
+										West Lafayette, IN, 47907
+									</p>
+								</li>
+
+							</ul>
+							<ul class="social">
+								<li><a class="icon brands fa-linkedin" href="https://www.linkedin.com/in/hienvuvg"><span class="label">LinkedIn</span></a></li>
+								<li><a class="icon brands fa-github" href="https://github.com/hienvuvg"><span class="label">Twitter</span></a></li>
+								<li><a class="icon brands fa-google" href="https://scholar.google.com/citations?user=TlFWZ8QAAAAJ&hl=en"><span class="label">Google Scholar</span></a></li>
+							</ul>
+						</section>
+					</div>
+					<div class="col-12">
+						<!-- Copyright -->
+						<div id="copyright">
+							<ul class="links">
+								<li>&copy; Hien Vu. All rights reserved.</li>
+								<li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+							</ul>
+						</div>
+
+					</div>
+				</div>
+			</div>
+		</section>
+
+	</div>
+</body>
+
+	<!-- Scripts -->
+	<script src="assets/js/jquery.min.js"></script>
+	<script src="assets/js/jquery.dropotron.min.js"></script>
+	<script src="assets/js/browser.min.js"></script>
+	<script src="assets/js/breakpoints.min.js"></script>
+	<script src="assets/js/util.js"></script>
+	<script src="assets/js/main.js"></script>
+
+</html>
