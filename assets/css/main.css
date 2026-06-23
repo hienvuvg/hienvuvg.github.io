@@ -2978,4 +2978,21 @@ input, select, textarea {
 				padding: 40px 0 20px 0;
 			}
 
+		#projects .box {
+		    padding-top: 15px !important;
+		    padding-bottom: 15px !important;
+		}
+
+		#projects .box header {
+		    margin-bottom: 10px !important;
+		}
+
+		#projects .box p {
+		    margin-bottom: 10px !important;
+		}
+
+		#projects .box .image.featured {
+		    margin-bottom: 15px !important;
+		}
+
 	}
