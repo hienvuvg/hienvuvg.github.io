@@ -155,6 +155,7 @@
 										<p> 
 											<!-- We developed a mmWave radar system that continuously monitors respiration of freely moving subjects. Our four-stage pipeline extracts angularly-accurate 3D point clouds from a low-cost radar, tracks subject pose using a dual-branch PointNet and ConvLSTM-UNet architecture, imposes temporal correspondence on frame-varying point clouds through anchor-based spatial encoding, and extracts millimeter-scale respiratory signals. The system achieves less than 5 cm pose error and less than 3 BPM respiration error on moving targets. -->
 											We developed a mmWave radar system that continuously monitors respiration of freely moving subjects. The core challenge is that subject motion destroys temporal correspondence in radar point clouds, making traditional approaches fail when targets are mobile. Our system uses a four-stage feedforward pipeline: signal processing for angularly-accurate 3D point cloud extraction from a low-cost radar, dual-branch pose tracking combining PointNet-based estimation with ConvLSTM-UNet trajectory prediction, anchor-based spatial encoding for temporal correspondence, and spatial-temporal deep learning for millimeter-scale respiration extraction. The system achieves less than 5 cm pose tracking error and less than 3 BPM respiration error on moving targets, with 3x to 4x improvement in downstream task performance over threshold-based detection.
+											This work is currently under review.
 										</p>
 										<footer>
 											<!-- <ul class="actions">
