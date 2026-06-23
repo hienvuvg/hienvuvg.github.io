@@ -149,10 +149,10 @@
 									<section class="box">
 										<a class="image featured"><img style="padding: 10px 10px 0px 10px;" src="files/images/MmCows_thumbnail.png" alt="" /></a>
 										<header>
-											<h3>MmCows: Large-Scale Multimodal Sensing Platform and Benchmark</p>
+											<h3>MmCows: Large-Scale Multimodal Sensing Platform for Behavior Monitoring</p>
 										</header>
 										<p> 
-											We present MmCows, a multimodal dataset for dairy cattle monitoring. This dataset comprises a large amount of synchronized data on behavioral, physiological, and environmental factors. It includes two weeks of data collected using wearable and implantable sensors deployed on ten milking Holstein cows, such as ultra-wideband (UWB) sensors, inertial sensors, and body temperature sensors. Additionally, it features 4.8M frames of high-resolution image sequences from four isometric view cameras, as well as temperature and humidity data from environmental sensors. One full day’s worth of image data is annotated as ground truth, totaling 20,000 frames with 213,000 bounding boxes of 16 cows, along with their 3D locations and behavior labels.
+											MmCows is a multimodal sensing platform and benchmark designed for continuous behavior monitoring in uncontrolled environments. The system integrates nine sensor modalities including UWB-based 3D localization, IMU, barometer, body temperature, multi-view RGB cameras, and environmental sensors, all synchronized through a custom cross-modal timing protocol. We developed centimeter-accurate indoor localization using UWB time-of-flight ranging with dynamic anchor group selection for NLOS mitigation, multi-view 3D triangulation with automatic outlier rejection, and a multimodal fusion pipeline for real-time activity classification. The dataset spans 14 days of continuous operation with 4.8M image frames and 213,000 annotated bounding boxes. Published as a Spotlight paper at NeurIPS 2024.
 										</p>
 										<footer>
 											<ul class="actions">
@@ -167,10 +167,10 @@
 									<section class="box">
 										<a class="image featured"><img style="padding: 10px 10px 0px 10px;" src="files/images/etag.png" alt="" /></a>
 										<header>
-											<h3>eTag: An Energy-Neutral Ear Tag for Real-Time Heat Stres Detection in Dairy Cattle</p>
+											<h3>eTag: Energy-Neutral Wearable IoT Platform with Wireless Power and Backscatter Communication</p>
 										</header>
 										<p> 
-											We presents a smart ear tag, named eTag, and an associated system that can read a passive microchip temperature sensor subcutaneously injected into the animal with minimal discomfort. It features a lightweight design using a single coil shared for microchip scanning and wireless charging. eTag is autonomously recharged by a wireless charger over the head during daily milking sessions, enabling perpetual operation without battery replacement after deployment. Our real-world deployment demonstrated that eTag can reliably collect accurate body temperature in real time while maintaining a positive energy flow. eTag is designed to enable the timely detection of heat stress and facilitate precision control of barn cooling systems.
+											eTag is an energy-autonomous wearable sensing platform that operates indefinitely without battery replacement. The system uses RFID backscatter for sensing and LoRa for data uplink, creating a two-hop communication topology (LF backscatter to LoRa to cloud) that achieves greater than 99% uplink reliability. A key contribution is a shared-coil RF architecture that multiplexes RFID scanning and inductive wireless charging on a single antenna, eliminating mutual coupling interference and reducing the hardware footprint by 70% compared to conventional dual-coil designs. The embedded firmware on an STM32 LoRa SoC implements an optimized RFID protocol that reduces energy consumption by 15x, and a closed-loop wireless charging controller adapts transmit power based on real-time device telemetry across 20 to 70 cm variable coupling distances. Seven prototypes were fabricated and field-deployed for over 2,000 hours of continuous, maintenance-free operation. Published at ACM MobiCom 2023.
 										</p>
 										<footer>
 											<ul class="actions">
@@ -205,9 +205,9 @@
 									<section class="box">
 										<a class="image featured"><img style="padding: 10px 10px 0px 10px;" src="files/images/slam.png" alt="" /></a>
 										<header>
-											<h3>Visual-SLAM and IMU sensor fusion for AR-VR applications</p>
+											<h3>Real-Time 9-DOF IMU Fusion on RISC-V for AR/VR Pose Tracking</p>
 										</header>
-										<p> We implemented Extended Kalman Filter on a RISC-V MCU that processes data from a 9-DOF Inertial Measurement Unit (IMU), which is combined with Parallel Tracking and Mapping (PTAM) for pose tracking in AR applications.</p>
+										<p> We implemented an Extended Kalman Filter on a RISC-V microcontroller to fuse data from a 9-DOF inertial measurement unit (accelerometer, gyroscope, magnetometer), achieving real-time, drift-corrected 3D pose estimation. The system was integrated with Parallel Tracking and Mapping (PTAM) for visual-inertial odometry in augmented reality applications. The EKF implementation was optimized for the constrained computational resources of the RISC-V platform and was subsequently integrated into a custom chip design.</p>
 										<footer>
 											<ul class="actions">
 												<li><a href="pages/visual-slam.html" class="button alt">Find out more</a></li>
@@ -221,9 +221,9 @@
 									<section class="box">
 										<a class="image featured"><img style="padding: 10px 10px 0px 10px;" src="files/images/cwb.png" alt="" /></a>
 										<header>
-											<h3>Conformal Wearable Battery – HEESS</p>
+											<h3>840W Conformal Wearable Power System with DoD Technology Transfer</p>
 										</header>
-										<p> We developed a high-energy supercapacitor-based power device for military soldiers that has a flexible and portable form factor while being able to sustain 840 W of output power in multiple 5-s discharge sessions. An advanced control algorithm was also developed that allows the main buck converter to work as a bi-directional buck-boost converter, keeping the system running continuously without interruption during the operation. </p>
+										<p> We developed a high-energy wearable power system in a flexible, conformal form factor, capable of delivering 840W in repeated 5-second discharge pulses. The system uses a cascade multiphase DC-DC converter with a bidirectional buck-boost control policy that maintains uninterrupted power delivery under rapidly changing load conditions. The design was taken through the full product lifecycle from initial prototype through DoD qualification testing, ultimately passing all requirements and achieving successful technology transfer to a defense contractor. Several critical performance specifications were exceeded during qualification.</p>
 										<footer>
 											<ul class="actions">
 												<li><a href="pages/cwb-heess.html" class="button alt">Find out more</a></li>
