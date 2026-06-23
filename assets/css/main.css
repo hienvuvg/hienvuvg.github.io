@@ -112,7 +112,7 @@ input, select, textarea {
 		font-weight: 300;
 		color: #5d5d5d;
 		font-size: 14pt;
-		line-height: 1.75em;
+		line-height: 1.5em; /*1.75em;*/
 	}
 
 	strong, b {
@@ -1590,17 +1590,25 @@ input, select, textarea {
 /* Box */
 
 	.box {
+		/*background: #ffffff;
+		border-bottom: solid 1px #ccc;
+		padding: 2.75em 1.75em 2.75em 1.75em;*/
 		background: #ffffff;
 		border-bottom: solid 1px #ccc;
-		padding: 2.75em 1.75em 2.75em 1.75em;
+		padding: 1.5em 1.75em 1.5em 1.75em;
 	}
 
 		.box .image.featured {
+			/*position: relative;
+			width: auto;
+			left: 1.75em;
+			top: 1.75em;
+			margin: -4.5em 0 4.25em -3.5em;*/
 			position: relative;
 			width: auto;
 			left: 1.75em;
 			top: 1.75em;
-			margin: -4.5em 0 4.25em -3.5em;
+			margin: -4.5em 0 2.5em -3.5em;
 		}
 
 		.box.post header {
@@ -2093,7 +2101,7 @@ input, select, textarea {
 			padding: 1.75em 0 0.75em 0;
 			border-top-left-radius: 5px;
 			border-top-right-radius: 5px;
-			margin: 0 0 4.5em 0;
+			margin: 0 0 3.5em 0;
 			cursor: default;
 		}
 
@@ -2286,12 +2294,13 @@ input, select, textarea {
 	}
 
 		#intro section {
-			margin: 3em 0;
+			margin-top: 2em;
+    		margin-bottom: -0.5em;
 			padding: 2.5em 0;
 		}
 
 		#intro h2 {
-			font-size: 1.75em;
+			font-size: 1.5em;
 		}
 
 		#intro p {
@@ -2573,8 +2582,9 @@ input, select, textarea {
 				#intro section {
 					position: relative;
 					border-top: solid 1px #dfdfdf;
-					margin: 0;
-					padding: 40px 0 0 0;
+					margin-top: 20px;
+		            margin-bottom: -10px;
+		            padding: 20px 0 0 0;
 				}
 
 					#intro section.first {
@@ -2935,8 +2945,9 @@ input, select, textarea {
 			}
 
 				#intro section {
-					padding: 40px 0 0 0;
-					margin: 20px 0 0 0;
+					padding: 20px 0 0 0;
+		            margin-top: 20px;
+		            margin-bottom: -10px;
 				}
 
 				#intro h2 {
@@ -2977,22 +2988,5 @@ input, select, textarea {
 			#footer {
 				padding: 40px 0 20px 0;
 			}
-
-		#projects .box {
-		    padding-top: 15px !important;
-		    padding-bottom: 15px !important;
-		}
-
-		#projects .box header {
-		    margin-bottom: 10px !important;
-		}
-
-		#projects .box p {
-		    margin-bottom: 10px !important;
-		}
-
-		#projects .box .image.featured {
-		    margin-bottom: 15px !important;
-		}
 
 	}
