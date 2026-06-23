@@ -1889,6 +1889,11 @@ input, select, textarea {
 
 /* Page Wrapper */
 
+	#page-wrapper {
+		max-width: 1680px;
+		margin: 0 auto;
+	}
+
 	#page-wrapper > section {
 		margin-bottom: 0;
 	}
